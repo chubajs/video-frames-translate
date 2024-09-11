@@ -1,0 +1,1178 @@
+2024-09-11 07:27:35,755 - INFO - Starting video processing for tmp/sample1.mp4
+2024-09-11 07:27:35,803 - INFO - Grouping frame 0/734
+2024-09-11 07:27:36,807 - INFO - Grouping frame 100/734
+2024-09-11 07:27:37,797 - INFO - Grouping frame 200/734
+2024-09-11 07:27:38,783 - INFO - Grouping frame 300/734
+2024-09-11 07:27:39,777 - INFO - Grouping frame 400/734
+2024-09-11 07:27:40,761 - INFO - Grouping frame 500/734
+2024-09-11 07:27:41,766 - INFO - Grouping frame 600/734
+2024-09-11 07:27:42,814 - INFO - Grouping frame 700/734
+2024-09-11 07:27:43,147 - INFO - Grouped frames into 10 groups
+2024-09-11 07:27:43,157 - INFO - Original video dimensions: 1440x1080
+2024-09-11 07:27:43,157 - INFO - Analyzing group 1 with 14 frames
+2024-09-11 07:27:43,158 - INFO - Original frame size: 1440x1080
+2024-09-11 07:27:43,158 - INFO - Resized frame for API: 512x384
+2024-09-11 07:27:45,967 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 07:27:45,967 - INFO - Detected 0 text blocks
+2024-09-11 07:27:45,967 - INFO - Initial analysis for group 1: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:27:45,968 - INFO - No text detected in group 1
+2024-09-11 07:27:45,968 - INFO - Analyzing group 2 with 19 frames
+2024-09-11 07:27:45,968 - INFO - Original frame size: 1440x1080
+2024-09-11 07:27:45,969 - INFO - Resized frame for API: 512x384
+2024-09-11 07:27:47,534 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 07:27:47,534 - INFO - Detected 0 text blocks
+2024-09-11 07:27:47,534 - INFO - Initial analysis for group 2: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:27:47,535 - INFO - No text detected in group 2
+2024-09-11 07:27:47,535 - INFO - Analyzing group 3 with 24 frames
+2024-09-11 07:27:47,535 - INFO - Original frame size: 1440x1080
+2024-09-11 07:27:47,535 - INFO - Resized frame for API: 512x384
+2024-09-11 07:27:49,663 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 07:27:49,664 - INFO - Detected 0 text blocks
+2024-09-11 07:27:49,664 - INFO - Initial analysis for group 3: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:27:49,664 - INFO - No text detected in group 3
+2024-09-11 07:27:49,664 - INFO - Analyzing group 4 with 20 frames
+2024-09-11 07:27:49,664 - INFO - Original frame size: 1440x1080
+2024-09-11 07:27:49,665 - INFO - Resized frame for API: 512x384
+2024-09-11 07:27:50,978 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 07:27:50,978 - INFO - Detected 0 text blocks
+2024-09-11 07:27:50,978 - INFO - Initial analysis for group 4: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:27:50,978 - INFO - No text detected in group 4
+2024-09-11 07:27:50,979 - INFO - Analyzing group 5 with 15 frames
+2024-09-11 07:27:50,979 - INFO - Original frame size: 1440x1080
+2024-09-11 07:27:50,979 - INFO - Resized frame for API: 512x384
+2024-09-11 07:27:52,473 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 07:27:52,473 - INFO - Detected 0 text blocks
+2024-09-11 07:27:52,474 - INFO - Initial analysis for group 5: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:27:52,474 - INFO - No text detected in group 5
+2024-09-11 07:27:52,474 - INFO - Analyzing group 6 with 28 frames
+2024-09-11 07:27:52,474 - INFO - Original frame size: 1440x1080
+2024-09-11 07:27:52,475 - INFO - Resized frame for API: 512x384
+2024-09-11 07:27:54,210 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 07:27:54,210 - INFO - Detected 0 text blocks
+2024-09-11 07:27:54,211 - INFO - Initial analysis for group 6: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:27:54,211 - INFO - No text detected in group 6
+2024-09-11 07:27:54,211 - INFO - Analyzing group 7 with 45 frames
+2024-09-11 07:27:54,211 - INFO - Original frame size: 1440x1080
+2024-09-11 07:27:54,212 - INFO - Resized frame for API: 512x384
+2024-09-11 07:27:56,085 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 07:27:56,086 - INFO - Detected 0 text blocks
+2024-09-11 07:27:56,086 - INFO - Initial analysis for group 7: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:27:56,086 - INFO - No text detected in group 7
+2024-09-11 07:27:56,086 - INFO - Analyzing group 8 with 8 frames
+2024-09-11 07:27:56,086 - INFO - Original frame size: 1440x1080
+2024-09-11 07:27:56,087 - INFO - Resized frame for API: 512x384
+2024-09-11 07:27:57,565 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 07:27:57,565 - INFO - Detected 0 text blocks
+2024-09-11 07:27:57,565 - INFO - Initial analysis for group 8: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:27:57,566 - INFO - No text detected in group 8
+2024-09-11 07:27:57,566 - INFO - Analyzing group 9 with 305 frames
+2024-09-11 07:27:57,566 - INFO - Original frame size: 1440x1080
+2024-09-11 07:27:57,566 - INFO - Resized frame for API: 512x384
+2024-09-11 07:28:03,030 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 40,
+        "y": 70
+      },
+      "bottom_right": {
+        "x": 475,
+        "y": 105
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 60,
+        "y": 110
+      },
+      "bottom_right": {
+        "x": 455,
+        "y": 145
+      }
+    }
+  ]
+}
+2024-09-11 07:28:03,030 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=40, y=70, w=435, h=35]
+2024-09-11 07:28:03,030 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=60, y=110, w=395, h=35]
+2024-09-11 07:28:03,030 - INFO - Detected 2 text blocks
+2024-09-11 07:28:03,031 - INFO - Initial analysis for group 9: {
+  "text_blocks": [
+    {
+      "text": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "position": [
+        40,
+        70,
+        435,
+        35
+      ]
+    },
+    {
+      "text": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": [
+        60,
+        110,
+        395,
+        35
+      ]
+    }
+  ],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:28:03,031 - INFO - Original frame size: 1440x1080
+2024-09-11 07:28:03,031 - INFO - Resized frame for API: 512x384
+2024-09-11 07:28:08,418 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 20,
+        "y": 110
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 140
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 50,
+        "y": 150
+      },
+      "bottom_right": {
+        "x": 450,
+        "y": 180
+      }
+    }
+  ]
+}
+2024-09-11 07:28:08,418 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=20, y=110, w=450, h=30]
+2024-09-11 07:28:08,418 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=50, y=150, w=400, h=30]
+2024-09-11 07:28:08,418 - INFO - Detected 2 text blocks
+2024-09-11 07:28:08,419 - INFO - Analyzed frame 1/5 in group. Detected 2 text blocks.
+2024-09-11 07:28:08,419 - INFO - Original frame size: 1440x1080
+2024-09-11 07:28:08,419 - INFO - Resized frame for API: 512x384
+2024-09-11 07:28:14,631 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 50,
+        "y": 180
+      },
+      "bottom_right": {
+        "x": 465,
+        "y": 215
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 75,
+        "y": 220
+      },
+      "bottom_right": {
+        "x": 455,
+        "y": 250
+      }
+    }
+  ]
+}
+2024-09-11 07:28:14,632 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=50, y=180, w=415, h=35]
+2024-09-11 07:28:14,632 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=75, y=220, w=380, h=30]
+2024-09-11 07:28:14,632 - INFO - Detected 2 text blocks
+2024-09-11 07:28:14,632 - INFO - Analyzed frame 77/5 in group. Detected 2 text blocks.
+2024-09-11 07:28:14,632 - INFO - Original frame size: 1440x1080
+2024-09-11 07:28:14,633 - INFO - Resized frame for API: 512x384
+2024-09-11 07:28:20,282 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 70,
+        "y": 190
+      },
+      "bottom_right": {
+        "x": 445,
+        "y": 220
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 80,
+        "y": 230
+      },
+      "bottom_right": {
+        "x": 460,
+        "y": 260
+      }
+    }
+  ]
+}
+2024-09-11 07:28:20,282 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=70, y=190, w=375, h=30]
+2024-09-11 07:28:20,282 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=80, y=230, w=380, h=30]
+2024-09-11 07:28:20,282 - INFO - Detected 2 text blocks
+2024-09-11 07:28:20,282 - INFO - Analyzed frame 153/5 in group. Detected 2 text blocks.
+2024-09-11 07:28:20,282 - INFO - Original frame size: 1440x1080
+2024-09-11 07:28:20,283 - INFO - Resized frame for API: 512x384
+2024-09-11 07:28:24,473 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 25,
+        "y": 220
+      },
+      "bottom_right": {
+        "x": 485,
+        "y": 250
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 65,
+        "y": 260
+      },
+      "bottom_right": {
+        "x": 450,
+        "y": 290
+      }
+    }
+  ]
+}
+2024-09-11 07:28:24,474 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=25, y=220, w=460, h=30]
+2024-09-11 07:28:24,474 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=65, y=260, w=385, h=30]
+2024-09-11 07:28:24,474 - INFO - Detected 2 text blocks
+2024-09-11 07:28:24,474 - INFO - Analyzed frame 229/5 in group. Detected 2 text blocks.
+2024-09-11 07:28:24,474 - INFO - Original frame size: 1440x1080
+2024-09-11 07:28:24,475 - INFO - Resized frame for API: 512x384
+2024-09-11 07:28:31,099 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 20,
+        "y": 120
+      },
+      "bottom_right": {
+        "x": 460,
+        "y": 150
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 60,
+        "y": 160
+      },
+      "bottom_right": {
+        "x": 440,
+        "y": 190
+      }
+    }
+  ]
+}
+2024-09-11 07:28:31,100 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=20, y=120, w=440, h=30]
+2024-09-11 07:28:31,100 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=60, y=160, w=380, h=30]
+2024-09-11 07:28:31,100 - INFO - Detected 2 text blocks
+2024-09-11 07:28:31,100 - INFO - Analyzed frame 305/5 in group. Detected 2 text blocks.
+2024-09-11 07:28:31,100 - INFO - Averaged text block: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Position: x=20, y=110, w=450, h=30
+2024-09-11 07:28:31,100 - INFO - Averaged text block: 'The cave served its purpose, but now it threatens to swallow you whole.', Position: x=50, y=150, w=400, h=30
+2024-09-11 07:28:31,100 - INFO - Averaged text block: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Position: x=50, y=180, w=415, h=35
+2024-09-11 07:28:31,101 - INFO - Averaged text block: 'The cave served its purpose, but now it threatens to swallow you whole.', Position: x=75, y=220, w=380, h=30
+2024-09-11 07:28:31,101 - INFO - Averaged text block: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Position: x=70, y=190, w=375, h=30
+2024-09-11 07:28:31,101 - INFO - Averaged text block: 'The cave served its purpose, but now it threatens to swallow you whole.', Position: x=80, y=230, w=380, h=30
+2024-09-11 07:28:31,101 - INFO - Averaged text block: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Position: x=25, y=220, w=460, h=30
+2024-09-11 07:28:31,101 - INFO - Averaged text block: 'The cave served its purpose, but now it threatens to swallow you whole.', Position: x=65, y=260, w=385, h=30
+2024-09-11 07:28:31,101 - INFO - Averaged text block: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Position: x=20, y=120, w=440, h=30
+2024-09-11 07:28:31,101 - INFO - Averaged text block: 'The cave served its purpose, but now it threatens to swallow you whole.', Position: x=60, y=160, w=380, h=30
+2024-09-11 07:28:31,101 - INFO - Total averaged text blocks: 10
+2024-09-11 07:28:32,275 - INFO - Original text: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:28:32,276 - INFO - Translated text: Ты задержался в тишине, но пульс снаружи становится всё громче. Пора.
+2024-09-11 07:28:32,276 - INFO - Processed text block: Original: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Translated: 'Ты задержался в тишине, но пульс снаружи становится всё громче. Пора.', Position: [x=56, y=309, w=1265, h=84]
+2024-09-11 07:28:33,308 - INFO - Original text: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:28:33,308 - INFO - Translated text: Пещера выполнила свою роль, но теперь она угрожает поглотить тебя целиком.
+2024-09-11 07:28:33,308 - INFO - Processed text block: Original: 'The cave served its purpose, but now it threatens to swallow you whole.', Translated: 'Пещера выполнила свою роль, но теперь она угрожает поглотить тебя целиком.', Position: [x=140, y=421, w=1125, h=84]
+2024-09-11 07:28:34,402 - INFO - Original text: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:28:34,402 - INFO - Translated text: Ты задержался в тишине, но пульс снаружи становится громче. Пора.
+2024-09-11 07:28:34,402 - INFO - Processed text block: Original: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Translated: 'Ты задержался в тишине, но пульс снаружи становится громче. Пора.', Position: [x=140, y=506, w=1167, h=98]
+2024-09-11 07:28:35,377 - INFO - Original text: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:28:35,377 - INFO - Translated text: Пещера выполнила своё предназначение, но теперь она угрожает поглотить тебя целиком.
+2024-09-11 07:28:35,377 - INFO - Processed text block: Original: 'The cave served its purpose, but now it threatens to swallow you whole.', Translated: 'Пещера выполнила своё предназначение, но теперь она угрожает поглотить тебя целиком.', Position: [x=210, y=618, w=1068, h=84]
+2024-09-11 07:28:36,255 - INFO - Original text: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:28:36,255 - INFO - Translated text: Ты задержался в тишине, но пульс снаружи становится громче. Время пришло.
+2024-09-11 07:28:36,255 - INFO - Processed text block: Original: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Translated: 'Ты задержался в тишине, но пульс снаружи становится громче. Время пришло.', Position: [x=196, y=534, w=1054, h=84]
+2024-09-11 07:28:37,068 - INFO - Original text: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:28:37,068 - INFO - Translated text: Пещера послужила своей цели, но теперь угрожает поглотить тебя целиком.
+2024-09-11 07:28:37,069 - INFO - Processed text block: Original: 'The cave served its purpose, but now it threatens to swallow you whole.', Translated: 'Пещера послужила своей цели, но теперь угрожает поглотить тебя целиком.', Position: [x=225, y=646, w=1068, h=84]
+2024-09-11 07:28:38,450 - INFO - Original text: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:28:38,450 - INFO - Translated text: Ты задержался в неподвижности, но пульс снаружи становится всё громче. Пора.
+2024-09-11 07:28:38,450 - INFO - Processed text block: Original: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Translated: 'Ты задержался в неподвижности, но пульс снаружи становится всё громче. Пора.', Position: [x=70, y=618, w=1293, h=84]
+2024-09-11 07:28:39,370 - INFO - Original text: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:28:39,370 - INFO - Translated text: Пещера выполнила свою задачу, но теперь угрожает поглотить тебя целиком.
+2024-09-11 07:28:39,370 - INFO - Processed text block: Original: 'The cave served its purpose, but now it threatens to swallow you whole.', Translated: 'Пещера выполнила свою задачу, но теперь угрожает поглотить тебя целиком.', Position: [x=182, y=731, w=1082, h=84]
+2024-09-11 07:28:41,060 - INFO - Original text: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:28:41,060 - INFO - Translated text: Ты задержался в тишине, но снаружи нарастающий пульс становится всё громче. Пришло время.
+2024-09-11 07:28:41,060 - INFO - Processed text block: Original: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Translated: 'Ты задержался в тишине, но снаружи нарастающий пульс становится всё громче. Пришло время.', Position: [x=56, y=337, w=1237, h=84]
+2024-09-11 07:28:42,152 - INFO - Original text: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:28:42,152 - INFO - Translated text: Пещера послужила своей цели, но теперь она грозит проглотить тебя целиком.
+2024-09-11 07:28:42,152 - INFO - Processed text block: Original: 'The cave served its purpose, but now it threatens to swallow you whole.', Translated: 'Пещера послужила своей цели, но теперь она грозит проглотить тебя целиком.', Position: [x=168, y=450, w=1068, h=84]
+2024-09-11 07:28:42,153 - INFO - Group 9: Processed 10 text blocks
+2024-09-11 07:28:42,153 - INFO - Analyzing group 10 with 256 frames
+2024-09-11 07:28:42,153 - INFO - Original frame size: 1440x1080
+2024-09-11 07:28:42,154 - INFO - Resized frame for API: 512x384
+2024-09-11 07:28:49,324 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left": {
+        "x": 63,
+        "y": 187
+      },
+      "bottom_right": {
+        "x": 449,
+        "y": 211
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left": {
+        "x": 60,
+        "y": 215
+      },
+      "bottom_right": {
+        "x": 463,
+        "y": 239
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left": {
+        "x": 130,
+        "y": 243
+      },
+      "bottom_right": {
+        "x": 396,
+        "y": 267
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 121,
+        "y": 296
+      },
+      "bottom_right": {
+        "x": 443,
+        "y": 320
+      }
+    }
+  ]
+}
+2024-09-11 07:28:49,324 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=63, y=187, w=386, h=24]
+2024-09-11 07:28:49,324 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=60, y=215, w=403, h=24]
+2024-09-11 07:28:49,325 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=130, y=243, w=266, h=24]
+2024-09-11 07:28:49,325 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=121, y=296, w=322, h=24]
+2024-09-11 07:28:49,325 - INFO - Detected 4 text blocks
+2024-09-11 07:28:49,325 - INFO - Initial analysis for group 10: {
+  "text_blocks": [
+    {
+      "text": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "position": [
+        63,
+        187,
+        386,
+        24
+      ]
+    },
+    {
+      "text": "enemies. They are the forces you must ride. The forces that will carry you",
+      "position": [
+        60,
+        215,
+        403,
+        24
+      ]
+    },
+    {
+      "text": "further than your patience ever could.",
+      "position": [
+        130,
+        243,
+        266,
+        24
+      ]
+    },
+    {
+      "text": "One step... then another. You were never meant to stay.",
+      "position": [
+        121,
+        296,
+        322,
+        24
+      ]
+    }
+  ],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:28:49,325 - INFO - Original frame size: 1440x1080
+2024-09-11 07:28:49,326 - INFO - Resized frame for API: 512x384
+2024-09-11 07:28:56,155 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left": {
+        "x": 50,
+        "y": 150
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 180
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left": {
+        "x": 50,
+        "y": 185
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 215
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left": {
+        "x": 50,
+        "y": 220
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 250
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 50,
+        "y": 270
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 300
+      }
+    }
+  ]
+}
+2024-09-11 07:28:56,155 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=50, y=150, w=420, h=30]
+2024-09-11 07:28:56,155 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=50, y=185, w=420, h=30]
+2024-09-11 07:28:56,155 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=50, y=220, w=420, h=30]
+2024-09-11 07:28:56,155 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=50, y=270, w=420, h=30]
+2024-09-11 07:28:56,155 - INFO - Detected 4 text blocks
+2024-09-11 07:28:56,156 - INFO - Analyzed frame 1/5 in group. Detected 4 text blocks.
+2024-09-11 07:28:56,156 - INFO - Original frame size: 1440x1080
+2024-09-11 07:28:56,156 - INFO - Resized frame for API: 512x384
+2024-09-11 07:29:08,711 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left": {
+        "x": 20,
+        "y": 150
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 190
+      }
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left": {
+        "x": 30,
+        "y": 200
+      },
+      "bottom_right": {
+        "x": 460,
+        "y": 240
+      }
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left": {
+        "x": 20,
+        "y": 250
+      },
+      "bottom_right": {
+        "x": 460,
+        "y": 290
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 50,
+        "y": 320
+      },
+      "bottom_right": {
+        "x": 450,
+        "y": 360
+      }
+    }
+  ]
+}
+2024-09-11 07:29:08,712 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you.', API position: [x=20, y=150, w=450, h=40]
+2024-09-11 07:29:08,712 - INFO - Text block 2: Content: 'They are not enemies. They are the forces you must ride.', API position: [x=30, y=200, w=430, h=40]
+2024-09-11 07:29:08,712 - INFO - Text block 3: Content: 'The forces that will carry you further than your patience ever could.', API position: [x=20, y=250, w=440, h=40]
+2024-09-11 07:29:08,712 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=50, y=320, w=400, h=40]
+2024-09-11 07:29:08,712 - INFO - Detected 4 text blocks
+2024-09-11 07:29:08,713 - INFO - Analyzed frame 64/5 in group. Detected 4 text blocks.
+2024-09-11 07:29:08,713 - INFO - Original frame size: 1440x1080
+2024-09-11 07:29:08,713 - INFO - Resized frame for API: 512x384
+2024-09-11 07:29:17,314 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left": {
+        "x": 25,
+        "y": 120
+      },
+      "bottom_right": {
+        "x": 487,
+        "y": 148
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left": {
+        "x": 25,
+        "y": 150
+      },
+      "bottom_right": {
+        "x": 487,
+        "y": 178
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left": {
+        "x": 25,
+        "y": 180
+      },
+      "bottom_right": {
+        "x": 487,
+        "y": 208
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 25,
+        "y": 220
+      },
+      "bottom_right": {
+        "x": 487,
+        "y": 248
+      }
+    }
+  ]
+}
+2024-09-11 07:29:17,315 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=25, y=120, w=462, h=28]
+2024-09-11 07:29:17,315 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=25, y=150, w=462, h=28]
+2024-09-11 07:29:17,315 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=25, y=180, w=462, h=28]
+2024-09-11 07:29:17,315 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=25, y=220, w=462, h=28]
+2024-09-11 07:29:17,315 - INFO - Detected 4 text blocks
+2024-09-11 07:29:17,316 - INFO - Analyzed frame 128/5 in group. Detected 4 text blocks.
+2024-09-11 07:29:17,316 - INFO - Original frame size: 1440x1080
+2024-09-11 07:29:17,316 - INFO - Resized frame for API: 512x384
+2024-09-11 07:29:25,600 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left": {
+        "x": 18,
+        "y": 176
+      },
+      "bottom_right": {
+        "x": 368,
+        "y": 197
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left": {
+        "x": 18,
+        "y": 200
+      },
+      "bottom_right": {
+        "x": 374,
+        "y": 221
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left": {
+        "x": 18,
+        "y": 224
+      },
+      "bottom_right": {
+        "x": 280,
+        "y": 243
+      }
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "top_left": {
+        "x": 50,
+        "y": 262
+      },
+      "bottom_right": {
+        "x": 382,
+        "y": 281
+      }
+    }
+  ]
+}
+2024-09-11 07:29:25,600 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=18, y=176, w=350, h=21]
+2024-09-11 07:29:25,600 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=18, y=200, w=356, h=21]
+2024-09-11 07:29:25,600 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=18, y=224, w=262, h=19]
+2024-09-11 07:29:25,600 - INFO - Text block 4: Content: 'One step. . . then another. You were never meant to stay.', API position: [x=50, y=262, w=332, h=19]
+2024-09-11 07:29:25,600 - INFO - Detected 4 text blocks
+2024-09-11 07:29:25,600 - INFO - Analyzed frame 192/5 in group. Detected 4 text blocks.
+2024-09-11 07:29:25,601 - INFO - Original frame size: 1440x1080
+2024-09-11 07:29:25,601 - INFO - Resized frame for API: 512x384
+2024-09-11 07:29:36,458 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left": {
+        "x": 38,
+        "y": 169
+      },
+      "bottom_right": {
+        "x": 477,
+        "y": 192
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left": {
+        "x": 35,
+        "y": 195
+      },
+      "bottom_right": {
+        "x": 490,
+        "y": 217
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left": {
+        "x": 132,
+        "y": 220
+      },
+      "bottom_right": {
+        "x": 397,
+        "y": 241
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 104,
+        "y": 264
+      },
+      "bottom_right": {
+        "x": 422,
+        "y": 285
+      }
+    }
+  ]
+}
+2024-09-11 07:29:36,459 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=38, y=169, w=439, h=23]
+2024-09-11 07:29:36,459 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=35, y=195, w=455, h=22]
+2024-09-11 07:29:36,459 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=132, y=220, w=265, h=21]
+2024-09-11 07:29:36,459 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=104, y=264, w=318, h=21]
+2024-09-11 07:29:36,459 - INFO - Detected 4 text blocks
+2024-09-11 07:29:36,459 - INFO - Analyzed frame 256/5 in group. Detected 4 text blocks.
+2024-09-11 07:29:36,459 - INFO - Averaged text block: 'Do not fear the light, nor the cold wind that greets you. They are not', Position: x=50, y=150, w=420, h=30
+2024-09-11 07:29:36,459 - INFO - Averaged text block: 'enemies. They are the forces you must ride. The forces that will carry you', Position: x=50, y=185, w=420, h=30
+2024-09-11 07:29:36,459 - INFO - Averaged text block: 'further than your patience ever could.', Position: x=50, y=220, w=420, h=30
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'One step... then another. You were never meant to stay.', Position: x=50, y=270, w=420, h=30
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'Do not fear the light, nor the cold wind that greets you.', Position: x=20, y=150, w=450, h=40
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'They are not enemies. They are the forces you must ride.', Position: x=30, y=200, w=430, h=40
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'The forces that will carry you further than your patience ever could.', Position: x=20, y=250, w=440, h=40
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'One step... then another. You were never meant to stay.', Position: x=50, y=320, w=400, h=40
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'Do not fear the light, nor the cold wind that greets you. They are not', Position: x=25, y=120, w=462, h=28
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'enemies. They are the forces you must ride. The forces that will carry you', Position: x=25, y=150, w=462, h=28
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'further than your patience ever could.', Position: x=25, y=180, w=462, h=28
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'One step... then another. You were never meant to stay.', Position: x=25, y=220, w=462, h=28
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'Do not fear the light, nor the cold wind that greets you. They are not', Position: x=18, y=176, w=350, h=21
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'enemies. They are the forces you must ride. The forces that will carry you', Position: x=18, y=200, w=356, h=21
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'further than your patience ever could.', Position: x=18, y=224, w=262, h=19
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'One step. . . then another. You were never meant to stay.', Position: x=50, y=262, w=332, h=19
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'Do not fear the light, nor the cold wind that greets you. They are not', Position: x=38, y=169, w=439, h=23
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'enemies. They are the forces you must ride. The forces that will carry you', Position: x=35, y=195, w=455, h=22
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'further than your patience ever could.', Position: x=132, y=220, w=265, h=21
+2024-09-11 07:29:36,460 - INFO - Averaged text block: 'One step... then another. You were never meant to stay.', Position: x=104, y=264, w=318, h=21
+2024-09-11 07:29:36,460 - INFO - Total averaged text blocks: 20
+2024-09-11 07:29:37,867 - INFO - Original text: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:29:37,868 - INFO - Translated text: Не бойся света, ни холодного ветра, что встречает тебя. Они не
+2024-09-11 07:29:37,868 - INFO - Processed text block: Original: 'Do not fear the light, nor the cold wind that greets you. They are not', Translated: 'Не бойся света, ни холодного ветра, что встречает тебя. Они не', Position: [x=140, y=421, w=1181, h=84]
+2024-09-11 07:29:39,660 - INFO - Original text: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:29:39,660 - INFO - Translated text: враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.
+2024-09-11 07:29:39,660 - INFO - Processed text block: Original: 'enemies. They are the forces you must ride. The forces that will carry you', Translated: 'враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.', Position: [x=140, y=520, w=1181, h=84]
+2024-09-11 07:29:40,384 - INFO - Original text: further than your patience ever could.
+2024-09-11 07:29:40,384 - INFO - Translated text: дальше, чем могла бы твоя терпимость.
+2024-09-11 07:29:40,384 - INFO - Processed text block: Original: 'further than your patience ever could.', Translated: 'дальше, чем могла бы твоя терпимость.', Position: [x=140, y=618, w=1181, h=84]
+2024-09-11 07:29:41,732 - INFO - Original text: One step... then another. You were never meant to stay.
+2024-09-11 07:29:41,732 - INFO - Translated text: Один шаг... затем другой. Ты никогда не должен был остаться.
+2024-09-11 07:29:41,732 - INFO - Processed text block: Original: 'One step... then another. You were never meant to stay.', Translated: 'Один шаг... затем другой. Ты никогда не должен был остаться.', Position: [x=140, y=759, w=1181, h=84]
+2024-09-11 07:29:43,103 - INFO - Original text: Do not fear the light, nor the cold wind that greets you.
+2024-09-11 07:29:43,103 - INFO - Translated text: Не бойся света и холодного ветра, что встречает тебя.
+2024-09-11 07:29:43,104 - INFO - Processed text block: Original: 'Do not fear the light, nor the cold wind that greets you.', Translated: 'Не бойся света и холодного ветра, что встречает тебя.', Position: [x=56, y=421, w=1265, h=112]
+2024-09-11 07:29:43,919 - INFO - Original text: They are not enemies. They are the forces you must ride.
+2024-09-11 07:29:43,919 - INFO - Translated text: Они не враги. Это силы, которыми ты должен управлять.
+2024-09-11 07:29:43,920 - INFO - Processed text block: Original: 'They are not enemies. They are the forces you must ride.', Translated: 'Они не враги. Это силы, которыми ты должен управлять.', Position: [x=84, y=562, w=1209, h=112]
+2024-09-11 07:29:45,389 - INFO - Original text: The forces that will carry you further than your patience ever could.
+2024-09-11 07:29:45,389 - INFO - Translated text: Силы, которые уведут тебя дальше, чем когда-либо могла бы твоя терпимость.
+2024-09-11 07:29:45,389 - INFO - Processed text block: Original: 'The forces that will carry you further than your patience ever could.', Translated: 'Силы, которые уведут тебя дальше, чем когда-либо могла бы твоя терпимость.', Position: [x=56, y=703, w=1237, h=112]
+2024-09-11 07:29:46,106 - INFO - Original text: One step... then another. You were never meant to stay.
+2024-09-11 07:29:46,107 - INFO - Translated text: Один шаг... затем другой. Ты никогда не был предназначен оставаться.
+2024-09-11 07:29:46,107 - INFO - Processed text block: Original: 'One step... then another. You were never meant to stay.', Translated: 'Один шаг... затем другой. Ты никогда не был предназначен оставаться.', Position: [x=140, y=900, w=1125, h=112]
+2024-09-11 07:29:46,797 - INFO - Original text: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:29:46,797 - INFO - Translated text: Не бойся света и холодного ветра, который встречает тебя. Они не
+2024-09-11 07:29:46,797 - INFO - Processed text block: Original: 'Do not fear the light, nor the cold wind that greets you. They are not', Translated: 'Не бойся света и холодного ветра, который встречает тебя. Они не', Position: [x=70, y=337, w=1299, h=78]
+2024-09-11 07:29:48,648 - INFO - Original text: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:29:48,648 - INFO - Translated text: враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.
+2024-09-11 07:29:48,648 - INFO - Processed text block: Original: 'enemies. They are the forces you must ride. The forces that will carry you', Translated: 'враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.', Position: [x=70, y=421, w=1299, h=78]
+2024-09-11 07:29:49,448 - INFO - Original text: further than your patience ever could.
+2024-09-11 07:29:49,448 - INFO - Translated text: дальше, чем когда-либо могла твоя терпимость.
+2024-09-11 07:29:49,448 - INFO - Processed text block: Original: 'further than your patience ever could.', Translated: 'дальше, чем когда-либо могла твоя терпимость.', Position: [x=70, y=506, w=1299, h=78]
+2024-09-11 07:29:50,170 - INFO - Original text: One step... then another. You were never meant to stay.
+2024-09-11 07:29:50,170 - INFO - Translated text: Один шаг... затем еще один. Ты никогда не должен был остаться.
+2024-09-11 07:29:50,170 - INFO - Processed text block: Original: 'One step... then another. You were never meant to stay.', Translated: 'Один шаг... затем еще один. Ты никогда не должен был остаться.', Position: [x=70, y=618, w=1299, h=78]
+2024-09-11 07:29:50,925 - INFO - Original text: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:29:50,926 - INFO - Translated text: Не бойся света и холодного ветра, который встречает тебя. Они не
+2024-09-11 07:29:50,926 - INFO - Processed text block: Original: 'Do not fear the light, nor the cold wind that greets you. They are not', Translated: 'Не бойся света и холодного ветра, который встречает тебя. Они не', Position: [x=50, y=495, w=984, h=59]
+2024-09-11 07:29:51,951 - INFO - Original text: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:29:51,951 - INFO - Translated text: враги. Это силы, на которых тебе предстоит удержаться. Силы, которые понесут тебя.
+2024-09-11 07:29:51,951 - INFO - Processed text block: Original: 'enemies. They are the forces you must ride. The forces that will carry you', Translated: 'враги. Это силы, на которых тебе предстоит удержаться. Силы, которые понесут тебя.', Position: [x=50, y=562, w=1001, h=59]
+2024-09-11 07:29:52,617 - INFO - Original text: further than your patience ever could.
+2024-09-11 07:29:52,617 - INFO - Translated text: дальше, чем когда-либо могла бы твоя терпимость.
+2024-09-11 07:29:52,617 - INFO - Processed text block: Original: 'further than your patience ever could.', Translated: 'дальше, чем когда-либо могла бы твоя терпимость.', Position: [x=50, y=630, w=736, h=53]
+2024-09-11 07:29:54,010 - INFO - Original text: One step. . . then another. You were never meant to stay.
+2024-09-11 07:29:54,011 - INFO - Translated text: Один шаг... затем другой. Ты никогда не должен был оставаться.
+2024-09-11 07:29:54,011 - INFO - Processed text block: Original: 'One step. . . then another. You were never meant to stay.', Translated: 'Один шаг... затем другой. Ты никогда не должен был оставаться.', Position: [x=140, y=736, w=933, h=53]
+2024-09-11 07:29:54,729 - INFO - Original text: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:29:54,730 - INFO - Translated text: Не бойся света, и холодного ветра, который тебя встречает. Это не
+2024-09-11 07:29:54,730 - INFO - Processed text block: Original: 'Do not fear the light, nor the cold wind that greets you. They are not', Translated: 'Не бойся света, и холодного ветра, который тебя встречает. Это не', Position: [x=106, y=475, w=1234, h=64]
+2024-09-11 07:29:55,591 - INFO - Original text: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:29:55,591 - INFO - Translated text: враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.
+2024-09-11 07:29:55,591 - INFO - Processed text block: Original: 'enemies. They are the forces you must ride. The forces that will carry you', Translated: 'враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.', Position: [x=98, y=548, w=1279, h=61]
+2024-09-11 07:29:56,196 - INFO - Original text: further than your patience ever could.
+2024-09-11 07:29:56,196 - INFO - Translated text: дальше, чем когда-либо могла твоя терпеливость.
+2024-09-11 07:29:56,196 - INFO - Processed text block: Original: 'further than your patience ever could.', Translated: 'дальше, чем когда-либо могла твоя терпеливость.', Position: [x=371, y=618, w=745, h=59]
+2024-09-11 07:29:57,415 - INFO - Original text: One step... then another. You were never meant to stay.
+2024-09-11 07:29:57,416 - INFO - Translated text: Один шаг... затем ещё один. Ты никогда не должен был оставаться.
+2024-09-11 07:29:57,416 - INFO - Processed text block: Original: 'One step... then another. You were never meant to stay.', Translated: 'Один шаг... затем ещё один. Ты никогда не должен был оставаться.', Position: [x=292, y=742, w=894, h=59]
+2024-09-11 07:29:57,416 - INFO - Group 10: Processed 20 text blocks
+2024-09-11 07:29:57,416 - INFO - Creating output video...
+2024-09-11 07:29:57,430 - INFO - No translation for group 1
+2024-09-11 07:29:57,560 - INFO - Processed group 1, total frames: 14/734
+2024-09-11 07:29:57,561 - INFO - No translation for group 2
+2024-09-11 07:29:57,722 - INFO - Processed group 2, total frames: 33/734
+2024-09-11 07:29:57,722 - INFO - No translation for group 3
+2024-09-11 07:29:57,924 - INFO - Processed group 3, total frames: 57/734
+2024-09-11 07:29:57,924 - INFO - No translation for group 4
+2024-09-11 07:29:58,097 - INFO - Processed group 4, total frames: 77/734
+2024-09-11 07:29:58,097 - INFO - No translation for group 5
+2024-09-11 07:29:58,244 - INFO - Processed group 5, total frames: 92/734
+2024-09-11 07:29:58,245 - INFO - No translation for group 6
+2024-09-11 07:29:58,478 - INFO - Processed group 6, total frames: 120/734
+2024-09-11 07:29:58,479 - INFO - No translation for group 7
+2024-09-11 07:29:58,844 - INFO - Processed group 7, total frames: 165/734
+2024-09-11 07:29:58,845 - INFO - No translation for group 8
+2024-09-11 07:29:58,911 - INFO - Processed group 8, total frames: 173/734
+2024-09-11 07:29:58,914 - INFO - Frame size for translation: 1440x1080
+2024-09-11 07:29:58,914 - INFO - Text block 1 before drawing:
+2024-09-11 07:29:58,914 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:29:58,914 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится всё громче. Пора.
+2024-09-11 07:29:58,914 - INFO -   Position: x=56, y=309, w=1265, h=84
+2024-09-11 07:29:59,005 - INFO - Text block 1 translation:
+2024-09-11 07:29:59,005 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:29:59,005 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится всё громче. Пора.
+2024-09-11 07:29:59,005 - INFO -   Original position: x=56, y=309, w=1265, h=84
+2024-09-11 07:29:59,005 - INFO -   Translated text size: w=1255, h=32
+2024-09-11 07:29:59,005 - INFO -   Translated text position: x=61, y=309
+2024-09-11 07:29:59,005 - INFO - Text block 2 before drawing:
+2024-09-11 07:29:59,005 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:29:59,005 - INFO -   Translated: Пещера выполнила свою роль, но теперь она угрожает поглотить тебя целиком.
+2024-09-11 07:29:59,005 - INFO -   Position: x=140, y=421, w=1125, h=84
+2024-09-11 07:29:59,097 - INFO - Text block 2 translation:
+2024-09-11 07:29:59,098 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:29:59,098 - INFO -   Translated: Пещера выполнила свою роль, но теперь она угрожает поглотить тебя целиком.
+2024-09-11 07:29:59,098 - INFO -   Original position: x=140, y=421, w=1125, h=84
+2024-09-11 07:29:59,098 - INFO -   Translated text size: w=1119, h=28
+2024-09-11 07:29:59,098 - INFO -   Translated text position: x=143, y=421
+2024-09-11 07:29:59,098 - INFO - Text block 3 before drawing:
+2024-09-11 07:29:59,098 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:29:59,098 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится громче. Пора.
+2024-09-11 07:29:59,098 - INFO -   Position: x=140, y=506, w=1167, h=98
+2024-09-11 07:29:59,184 - INFO - Text block 3 translation:
+2024-09-11 07:29:59,184 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:29:59,184 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится громче. Пора.
+2024-09-11 07:29:59,184 - INFO -   Original position: x=140, y=506, w=1167, h=98
+2024-09-11 07:29:59,184 - INFO -   Translated text size: w=1154, h=31
+2024-09-11 07:29:59,184 - INFO -   Translated text position: x=146, y=506
+2024-09-11 07:29:59,184 - INFO - Text block 4 before drawing:
+2024-09-11 07:29:59,184 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:29:59,184 - INFO -   Translated: Пещера выполнила своё предназначение, но теперь она угрожает поглотить тебя целиком.
+2024-09-11 07:29:59,184 - INFO -   Position: x=210, y=618, w=1068, h=84
+2024-09-11 07:29:59,286 - INFO - Text block 4 translation:
+2024-09-11 07:29:59,286 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:29:59,286 - INFO -   Translated: Пещера выполнила своё предназначение, но теперь она угрожает поглотить тебя целиком.
+2024-09-11 07:29:59,286 - INFO -   Original position: x=210, y=618, w=1068, h=84
+2024-09-11 07:29:59,287 - INFO -   Translated text size: w=1051, h=23
+2024-09-11 07:29:59,287 - INFO -   Translated text position: x=218, y=618
+2024-09-11 07:29:59,287 - INFO - Text block 5 before drawing:
+2024-09-11 07:29:59,287 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:29:59,287 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится громче. Время пришло.
+2024-09-11 07:29:59,287 - INFO -   Position: x=196, y=534, w=1054, h=84
+2024-09-11 07:29:59,376 - INFO - Text block 5 translation:
+2024-09-11 07:29:59,377 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:29:59,377 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится громче. Время пришло.
+2024-09-11 07:29:59,377 - INFO -   Original position: x=196, y=534, w=1054, h=84
+2024-09-11 07:29:59,377 - INFO -   Translated text size: w=1032, h=24
+2024-09-11 07:29:59,377 - INFO -   Translated text position: x=207, y=534
+2024-09-11 07:29:59,377 - INFO - Text block 6 before drawing:
+2024-09-11 07:29:59,377 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:29:59,377 - INFO -   Translated: Пещера послужила своей цели, но теперь угрожает поглотить тебя целиком.
+2024-09-11 07:29:59,377 - INFO -   Position: x=225, y=646, w=1068, h=84
+2024-09-11 07:29:59,464 - INFO - Text block 6 translation:
+2024-09-11 07:29:59,465 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:29:59,465 - INFO -   Translated: Пещера послужила своей цели, но теперь угрожает поглотить тебя целиком.
+2024-09-11 07:29:59,465 - INFO -   Original position: x=225, y=646, w=1068, h=84
+2024-09-11 07:29:59,465 - INFO -   Translated text size: w=1039, h=27
+2024-09-11 07:29:59,465 - INFO -   Translated text position: x=239, y=646
+2024-09-11 07:29:59,465 - INFO - Text block 7 before drawing:
+2024-09-11 07:29:59,465 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:29:59,465 - INFO -   Translated: Ты задержался в неподвижности, но пульс снаружи становится всё громче. Пора.
+2024-09-11 07:29:59,465 - INFO -   Position: x=70, y=618, w=1293, h=84
+2024-09-11 07:29:59,549 - INFO - Text block 7 translation:
+2024-09-11 07:29:59,550 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:29:59,550 - INFO -   Translated: Ты задержался в неподвижности, но пульс снаружи становится всё громче. Пора.
+2024-09-11 07:29:59,550 - INFO -   Original position: x=70, y=618, w=1293, h=84
+2024-09-11 07:29:59,550 - INFO -   Translated text size: w=1276, h=29
+2024-09-11 07:29:59,550 - INFO -   Translated text position: x=78, y=618
+2024-09-11 07:29:59,550 - INFO - Text block 8 before drawing:
+2024-09-11 07:29:59,550 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:29:59,550 - INFO -   Translated: Пещера выполнила свою задачу, но теперь угрожает поглотить тебя целиком.
+2024-09-11 07:29:59,550 - INFO -   Position: x=182, y=731, w=1082, h=84
+2024-09-11 07:29:59,638 - INFO - Text block 8 translation:
+2024-09-11 07:29:59,638 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:29:59,638 - INFO -   Translated: Пещера выполнила свою задачу, но теперь угрожает поглотить тебя целиком.
+2024-09-11 07:29:59,638 - INFO -   Original position: x=182, y=731, w=1082, h=84
+2024-09-11 07:29:59,638 - INFO -   Translated text size: w=1054, h=27
+2024-09-11 07:29:59,638 - INFO -   Translated text position: x=196, y=731
+2024-09-11 07:29:59,638 - INFO - Text block 9 before drawing:
+2024-09-11 07:29:59,638 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:29:59,638 - INFO -   Translated: Ты задержался в тишине, но снаружи нарастающий пульс становится всё громче. Пришло время.
+2024-09-11 07:29:59,638 - INFO -   Position: x=56, y=337, w=1237, h=84
+2024-09-11 07:29:59,736 - INFO - Text block 9 translation:
+2024-09-11 07:29:59,736 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 07:29:59,736 - INFO -   Translated: Ты задержался в тишине, но снаружи нарастающий пульс становится всё громче. Пришло время.
+2024-09-11 07:29:59,736 - INFO -   Original position: x=56, y=337, w=1237, h=84
+2024-09-11 07:29:59,736 - INFO -   Translated text size: w=1221, h=24
+2024-09-11 07:29:59,736 - INFO -   Translated text position: x=64, y=337
+2024-09-11 07:29:59,736 - INFO - Text block 10 before drawing:
+2024-09-11 07:29:59,736 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:29:59,736 - INFO -   Translated: Пещера послужила своей цели, но теперь она грозит проглотить тебя целиком.
+2024-09-11 07:29:59,736 - INFO -   Position: x=168, y=450, w=1068, h=84
+2024-09-11 07:29:59,822 - INFO - Text block 10 translation:
+2024-09-11 07:29:59,823 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 07:29:59,823 - INFO -   Translated: Пещера послужила своей цели, но теперь она грозит проглотить тебя целиком.
+2024-09-11 07:29:59,823 - INFO -   Original position: x=168, y=450, w=1068, h=84
+2024-09-11 07:29:59,823 - INFO -   Translated text size: w=1032, h=25
+2024-09-11 07:29:59,823 - INFO -   Translated text position: x=186, y=450
+2024-09-11 07:29:59,823 - INFO - Created translated frame for group 9
+2024-09-11 07:35:23,086 - INFO - Processed group 9, total frames: 478/734
+2024-09-11 07:35:23,087 - INFO - Frame size for translation: 1440x1080
+2024-09-11 07:35:23,087 - INFO - Text block 1 before drawing:
+2024-09-11 07:35:23,088 - INFO -   Original: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:35:23,088 - INFO -   Translated: Не бойся света, ни холодного ветра, что встречает тебя. Они не
+2024-09-11 07:35:23,088 - INFO -   Position: x=140, y=421, w=1181, h=84
+2024-09-11 07:35:23,192 - INFO - Text block 1 translation:
+2024-09-11 07:35:23,192 - INFO -   Original: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:35:23,192 - INFO -   Translated: Не бойся света, ни холодного ветра, что встречает тебя. Они не
+2024-09-11 07:35:23,192 - INFO -   Original position: x=140, y=421, w=1181, h=84
+2024-09-11 07:35:23,192 - INFO -   Translated text size: w=1175, h=37
+2024-09-11 07:35:23,192 - INFO -   Translated text position: x=143, y=421
+2024-09-11 07:35:23,192 - INFO - Text block 2 before drawing:
+2024-09-11 07:35:23,192 - INFO -   Original: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:35:23,192 - INFO -   Translated: враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.
+2024-09-11 07:35:23,192 - INFO -   Position: x=140, y=520, w=1181, h=84
+2024-09-11 07:35:23,301 - INFO - Text block 2 translation:
+2024-09-11 07:35:23,301 - INFO -   Original: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:35:23,301 - INFO -   Translated: враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.
+2024-09-11 07:35:23,301 - INFO -   Original position: x=140, y=520, w=1181, h=84
+2024-09-11 07:35:23,301 - INFO -   Translated text size: w=1166, h=30
+2024-09-11 07:35:23,301 - INFO -   Translated text position: x=147, y=520
+2024-09-11 07:35:23,301 - INFO - Text block 3 before drawing:
+2024-09-11 07:35:23,301 - INFO -   Original: further than your patience ever could.
+2024-09-11 07:35:23,301 - INFO -   Translated: дальше, чем могла бы твоя терпимость.
+2024-09-11 07:35:23,301 - INFO -   Position: x=140, y=618, w=1181, h=84
+2024-09-11 07:35:23,366 - INFO - Text block 3 translation:
+2024-09-11 07:35:23,366 - INFO -   Original: further than your patience ever could.
+2024-09-11 07:35:23,366 - INFO -   Translated: дальше, чем могла бы твоя терпимость.
+2024-09-11 07:35:23,367 - INFO -   Original position: x=140, y=618, w=1181, h=84
+2024-09-11 07:35:23,367 - INFO -   Translated text size: w=1180, h=58
+2024-09-11 07:35:23,367 - INFO -   Translated text position: x=140, y=618
+2024-09-11 07:35:23,367 - INFO - Text block 4 before drawing:
+2024-09-11 07:35:23,367 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 07:35:23,367 - INFO -   Translated: Один шаг... затем другой. Ты никогда не должен был остаться.
+2024-09-11 07:35:23,367 - INFO -   Position: x=140, y=759, w=1181, h=84
+2024-09-11 07:35:23,452 - INFO - Text block 4 translation:
+2024-09-11 07:35:23,452 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 07:35:23,452 - INFO -   Translated: Один шаг... затем другой. Ты никогда не должен был остаться.
+2024-09-11 07:35:23,452 - INFO -   Original position: x=140, y=759, w=1181, h=84
+2024-09-11 07:35:23,452 - INFO -   Translated text size: w=1177, h=37
+2024-09-11 07:35:23,452 - INFO -   Translated text position: x=142, y=759
+2024-09-11 07:35:23,452 - INFO - Text block 5 before drawing:
+2024-09-11 07:35:23,452 - INFO -   Original: Do not fear the light, nor the cold wind that greets you.
+2024-09-11 07:35:23,452 - INFO -   Translated: Не бойся света и холодного ветра, что встречает тебя.
+2024-09-11 07:35:23,452 - INFO -   Position: x=56, y=421, w=1265, h=112
+2024-09-11 07:35:23,523 - INFO - Text block 5 translation:
+2024-09-11 07:35:23,523 - INFO -   Original: Do not fear the light, nor the cold wind that greets you.
+2024-09-11 07:35:23,523 - INFO -   Translated: Не бойся света и холодного ветра, что встречает тебя.
+2024-09-11 07:35:23,523 - INFO -   Original position: x=56, y=421, w=1265, h=112
+2024-09-11 07:35:23,524 - INFO -   Translated text size: w=1255, h=44
+2024-09-11 07:35:23,524 - INFO -   Translated text position: x=61, y=421
+2024-09-11 07:35:23,524 - INFO - Text block 6 before drawing:
+2024-09-11 07:35:23,524 - INFO -   Original: They are not enemies. They are the forces you must ride.
+2024-09-11 07:35:23,524 - INFO -   Translated: Они не враги. Это силы, которыми ты должен управлять.
+2024-09-11 07:35:23,524 - INFO -   Position: x=84, y=562, w=1209, h=112
+2024-09-11 07:35:23,605 - INFO - Text block 6 translation:
+2024-09-11 07:35:23,606 - INFO -   Original: They are not enemies. They are the forces you must ride.
+2024-09-11 07:35:23,606 - INFO -   Translated: Они не враги. Это силы, которыми ты должен управлять.
+2024-09-11 07:35:23,606 - INFO -   Original position: x=84, y=562, w=1209, h=112
+2024-09-11 07:35:23,606 - INFO -   Translated text size: w=1188, h=38
+2024-09-11 07:35:23,606 - INFO -   Translated text position: x=94, y=562
+2024-09-11 07:35:23,606 - INFO - Text block 7 before drawing:
+2024-09-11 07:35:23,607 - INFO -   Original: The forces that will carry you further than your patience ever could.
+2024-09-11 07:35:23,607 - INFO -   Translated: Силы, которые уведут тебя дальше, чем когда-либо могла бы твоя терпимость.
+2024-09-11 07:35:23,607 - INFO -   Position: x=56, y=703, w=1237, h=112
+2024-09-11 07:35:23,703 - INFO - Text block 7 translation:
+2024-09-11 07:35:23,703 - INFO -   Original: The forces that will carry you further than your patience ever could.
+2024-09-11 07:35:23,703 - INFO -   Translated: Силы, которые уведут тебя дальше, чем когда-либо могла бы твоя терпимость.
+2024-09-11 07:35:23,703 - INFO -   Original position: x=56, y=703, w=1237, h=112
+2024-09-11 07:35:23,703 - INFO -   Translated text size: w=1220, h=30
+2024-09-11 07:35:23,703 - INFO -   Translated text position: x=64, y=703
+2024-09-11 07:35:23,703 - INFO - Text block 8 before drawing:
+2024-09-11 07:35:23,703 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 07:35:23,703 - INFO -   Translated: Один шаг... затем другой. Ты никогда не был предназначен оставаться.
+2024-09-11 07:35:23,703 - INFO -   Position: x=140, y=900, w=1125, h=112
+2024-09-11 07:35:23,791 - INFO - Text block 8 translation:
+2024-09-11 07:35:23,792 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 07:35:23,792 - INFO -   Translated: Один шаг... затем другой. Ты никогда не был предназначен оставаться.
+2024-09-11 07:35:23,792 - INFO -   Original position: x=140, y=900, w=1125, h=112
+2024-09-11 07:35:23,792 - INFO -   Translated text size: w=1097, h=30
+2024-09-11 07:35:23,792 - INFO -   Translated text position: x=154, y=900
+2024-09-11 07:35:23,792 - INFO - Text block 9 before drawing:
+2024-09-11 07:35:23,792 - INFO -   Original: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:35:23,792 - INFO -   Translated: Не бойся света и холодного ветра, который встречает тебя. Они не
+2024-09-11 07:35:23,792 - INFO -   Position: x=70, y=337, w=1299, h=78
+2024-09-11 07:35:23,879 - INFO - Text block 9 translation:
+2024-09-11 07:35:23,879 - INFO -   Original: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:35:23,879 - INFO -   Translated: Не бойся света и холодного ветра, который встречает тебя. Они не
+2024-09-11 07:35:23,879 - INFO -   Original position: x=70, y=337, w=1299, h=78
+2024-09-11 07:35:23,879 - INFO -   Translated text size: w=1271, h=37
+2024-09-11 07:35:23,879 - INFO -   Translated text position: x=84, y=337
+2024-09-11 07:35:23,879 - INFO - Text block 10 before drawing:
+2024-09-11 07:35:23,879 - INFO -   Original: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:35:23,879 - INFO -   Translated: враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.
+2024-09-11 07:35:23,879 - INFO -   Position: x=70, y=421, w=1299, h=78
+2024-09-11 07:35:23,985 - INFO - Text block 10 translation:
+2024-09-11 07:35:23,985 - INFO -   Original: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:35:23,986 - INFO -   Translated: враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.
+2024-09-11 07:35:23,986 - INFO -   Original position: x=70, y=421, w=1299, h=78
+2024-09-11 07:35:23,986 - INFO -   Translated text size: w=1279, h=33
+2024-09-11 07:35:23,986 - INFO -   Translated text position: x=80, y=421
+2024-09-11 07:35:23,986 - INFO - Text block 11 before drawing:
+2024-09-11 07:35:23,986 - INFO -   Original: further than your patience ever could.
+2024-09-11 07:35:23,986 - INFO -   Translated: дальше, чем когда-либо могла твоя терпимость.
+2024-09-11 07:35:23,986 - INFO -   Position: x=70, y=506, w=1299, h=78
+2024-09-11 07:35:24,056 - INFO - Text block 11 translation:
+2024-09-11 07:35:24,056 - INFO -   Original: further than your patience ever could.
+2024-09-11 07:35:24,056 - INFO -   Translated: дальше, чем когда-либо могла твоя терпимость.
+2024-09-11 07:35:24,056 - INFO -   Original position: x=70, y=506, w=1299, h=78
+2024-09-11 07:35:24,056 - INFO -   Translated text size: w=1294, h=52
+2024-09-11 07:35:24,056 - INFO -   Translated text position: x=72, y=506
+2024-09-11 07:35:24,056 - INFO - Text block 12 before drawing:
+2024-09-11 07:35:24,056 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 07:35:24,056 - INFO -   Translated: Один шаг... затем еще один. Ты никогда не должен был остаться.
+2024-09-11 07:35:24,056 - INFO -   Position: x=70, y=618, w=1299, h=78
+2024-09-11 07:35:24,143 - INFO - Text block 12 translation:
+2024-09-11 07:35:24,144 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 07:35:24,144 - INFO -   Translated: Один шаг... затем еще один. Ты никогда не должен был остаться.
+2024-09-11 07:35:24,144 - INFO -   Original position: x=70, y=618, w=1299, h=78
+2024-09-11 07:35:24,144 - INFO -   Translated text size: w=1289, h=36
+2024-09-11 07:35:24,144 - INFO -   Translated text position: x=75, y=618
+2024-09-11 07:35:24,144 - INFO - Text block 13 before drawing:
+2024-09-11 07:35:24,144 - INFO -   Original: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:35:24,144 - INFO -   Translated: Не бойся света и холодного ветра, который встречает тебя. Они не
+2024-09-11 07:35:24,144 - INFO -   Position: x=50, y=495, w=984, h=59
+2024-09-11 07:35:24,237 - INFO - Text block 13 translation:
+2024-09-11 07:35:24,237 - INFO -   Original: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:35:24,237 - INFO -   Translated: Не бойся света и холодного ветра, который встречает тебя. Они не
+2024-09-11 07:35:24,237 - INFO -   Original position: x=50, y=495, w=984, h=59
+2024-09-11 07:35:24,237 - INFO -   Translated text size: w=970, h=29
+2024-09-11 07:35:24,237 - INFO -   Translated text position: x=57, y=495
+2024-09-11 07:35:24,237 - INFO - Text block 14 before drawing:
+2024-09-11 07:35:24,237 - INFO -   Original: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:35:24,237 - INFO -   Translated: враги. Это силы, на которых тебе предстоит удержаться. Силы, которые понесут тебя.
+2024-09-11 07:35:24,237 - INFO -   Position: x=50, y=562, w=1001, h=59
+2024-09-11 07:35:24,370 - INFO - Text block 14 translation:
+2024-09-11 07:35:24,370 - INFO -   Original: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:35:24,371 - INFO -   Translated: враги. Это силы, на которых тебе предстоит удержаться. Силы, которые понесут тебя.
+2024-09-11 07:35:24,371 - INFO -   Original position: x=50, y=562, w=1001, h=59
+2024-09-11 07:35:24,371 - INFO -   Translated text size: w=995, h=23
+2024-09-11 07:35:24,371 - INFO -   Translated text position: x=53, y=562
+2024-09-11 07:35:24,371 - INFO - Text block 15 before drawing:
+2024-09-11 07:35:24,371 - INFO -   Original: further than your patience ever could.
+2024-09-11 07:35:24,371 - INFO -   Translated: дальше, чем когда-либо могла бы твоя терпимость.
+2024-09-11 07:35:24,371 - INFO -   Position: x=50, y=630, w=736, h=53
+2024-09-11 07:35:24,467 - INFO - Text block 15 translation:
+2024-09-11 07:35:24,467 - INFO -   Original: further than your patience ever could.
+2024-09-11 07:35:24,467 - INFO -   Translated: дальше, чем когда-либо могла бы твоя терпимость.
+2024-09-11 07:35:24,467 - INFO -   Original position: x=50, y=630, w=736, h=53
+2024-09-11 07:35:24,467 - INFO -   Translated text size: w=715, h=28
+2024-09-11 07:35:24,467 - INFO -   Translated text position: x=60, y=630
+2024-09-11 07:35:24,467 - INFO - Text block 16 before drawing:
+2024-09-11 07:35:24,467 - INFO -   Original: One step. . . then another. You were never meant to stay.
+2024-09-11 07:35:24,467 - INFO -   Translated: Один шаг... затем другой. Ты никогда не должен был оставаться.
+2024-09-11 07:35:24,468 - INFO -   Position: x=140, y=736, w=933, h=53
+2024-09-11 07:35:24,562 - INFO - Text block 16 translation:
+2024-09-11 07:35:24,563 - INFO -   Original: One step. . . then another. You were never meant to stay.
+2024-09-11 07:35:24,563 - INFO -   Translated: Один шаг... затем другой. Ты никогда не должен был оставаться.
+2024-09-11 07:35:24,563 - INFO -   Original position: x=140, y=736, w=933, h=53
+2024-09-11 07:35:24,563 - INFO -   Translated text size: w=932, h=29
+2024-09-11 07:35:24,563 - INFO -   Translated text position: x=140, y=736
+2024-09-11 07:35:24,563 - INFO - Text block 17 before drawing:
+2024-09-11 07:35:24,563 - INFO -   Original: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:35:24,563 - INFO -   Translated: Не бойся света, и холодного ветра, который тебя встречает. Это не
+2024-09-11 07:35:24,563 - INFO -   Position: x=106, y=475, w=1234, h=64
+2024-09-11 07:35:24,665 - INFO - Text block 17 translation:
+2024-09-11 07:35:24,665 - INFO -   Original: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 07:35:24,665 - INFO -   Translated: Не бойся света, и холодного ветра, который тебя встречает. Это не
+2024-09-11 07:35:24,665 - INFO -   Original position: x=106, y=475, w=1234, h=64
+2024-09-11 07:35:24,665 - INFO -   Translated text size: w=1208, h=35
+2024-09-11 07:35:24,666 - INFO -   Translated text position: x=119, y=475
+2024-09-11 07:35:24,666 - INFO - Text block 18 before drawing:
+2024-09-11 07:35:24,666 - INFO -   Original: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:35:24,666 - INFO -   Translated: враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.
+2024-09-11 07:35:24,666 - INFO -   Position: x=98, y=548, w=1279, h=61
+2024-09-11 07:35:24,773 - INFO - Text block 18 translation:
+2024-09-11 07:35:24,774 - INFO -   Original: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 07:35:24,774 - INFO -   Translated: враги. Это силы, на которых ты должен ехать. Силы, которые понесут тебя.
+2024-09-11 07:35:24,774 - INFO -   Original position: x=98, y=548, w=1279, h=61
+2024-09-11 07:35:24,774 - INFO -   Translated text size: w=1279, h=33
+2024-09-11 07:35:24,774 - INFO -   Translated text position: x=98, y=548
+2024-09-11 07:35:24,774 - INFO - Text block 19 before drawing:
+2024-09-11 07:35:24,774 - INFO -   Original: further than your patience ever could.
+2024-09-11 07:35:24,774 - INFO -   Translated: дальше, чем когда-либо могла твоя терпеливость.
+2024-09-11 07:35:24,774 - INFO -   Position: x=371, y=618, w=745, h=59
+2024-09-11 07:35:24,888 - INFO - Text block 19 translation:
+2024-09-11 07:35:24,889 - INFO -   Original: further than your patience ever could.
+2024-09-11 07:35:24,889 - INFO -   Translated: дальше, чем когда-либо могла твоя терпеливость.
+2024-09-11 07:35:24,889 - INFO -   Original position: x=371, y=618, w=745, h=59
+2024-09-11 07:35:24,889 - INFO -   Translated text size: w=725, h=29
+2024-09-11 07:35:24,889 - INFO -   Translated text position: x=381, y=618
+2024-09-11 07:35:24,889 - INFO - Text block 20 before drawing:
+2024-09-11 07:35:24,889 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 07:35:24,889 - INFO -   Translated: Один шаг... затем ещё один. Ты никогда не должен был оставаться.
+2024-09-11 07:35:24,889 - INFO -   Position: x=292, y=742, w=894, h=59
+2024-09-11 07:35:25,001 - INFO - Text block 20 translation:
+2024-09-11 07:35:25,001 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 07:35:25,001 - INFO -   Translated: Один шаг... затем ещё один. Ты никогда не должен был оставаться.
+2024-09-11 07:35:25,001 - INFO -   Original position: x=292, y=742, w=894, h=59
+2024-09-11 07:35:25,001 - INFO -   Translated text size: w=868, h=24
+2024-09-11 07:35:25,001 - INFO -   Translated text position: x=305, y=742
+2024-09-11 07:35:25,003 - INFO - Created translated frame for group 10
+2024-09-11 07:42:38,482 - INFO - Processed group 10, total frames: 734/734
+2024-09-11 07:42:38,483 - INFO - Adding audio to the output video...
+2024-09-11 07:42:52,131 - INFO - Video processing complete!

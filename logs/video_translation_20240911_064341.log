@@ -1,0 +1,443 @@
+2024-09-11 06:43:41,253 - INFO - Starting video processing for tmp/sample1.mp4
+2024-09-11 06:43:41,303 - INFO - Grouping frame 0/734
+2024-09-11 06:43:42,390 - INFO - Grouping frame 100/734
+2024-09-11 06:43:43,511 - INFO - Grouping frame 200/734
+2024-09-11 06:43:44,550 - INFO - Grouping frame 300/734
+2024-09-11 06:43:45,559 - INFO - Grouping frame 400/734
+2024-09-11 06:43:46,566 - INFO - Grouping frame 500/734
+2024-09-11 06:43:47,560 - INFO - Grouping frame 600/734
+2024-09-11 06:43:48,642 - INFO - Grouping frame 700/734
+2024-09-11 06:43:48,962 - INFO - Grouped frames into 10 groups
+2024-09-11 06:43:48,971 - INFO - Original video dimensions: 1440x1080
+2024-09-11 06:43:48,972 - INFO - Analyzing group 1 with 14 frames
+2024-09-11 06:43:48,972 - INFO - Original frame size: 1440x1080
+2024-09-11 06:43:48,972 - INFO - Resized frame for API: 512x384
+2024-09-11 06:43:50,442 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:43:50,443 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:43:50,443 - INFO - Detected 1 text blocks
+2024-09-11 06:43:50,443 - INFO - Original frame size: 1440x1080
+2024-09-11 06:43:50,443 - INFO - Resized frame for API: 512x384
+2024-09-11 06:43:51,719 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:43:51,720 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:43:51,720 - INFO - Detected 1 text blocks
+2024-09-11 06:43:51,720 - INFO - Analyzed frame 1/5 in group. Detected 1 text blocks.
+2024-09-11 06:43:51,720 - INFO - Original frame size: 1440x1080
+2024-09-11 06:43:51,720 - INFO - Resized frame for API: 512x384
+2024-09-11 06:43:54,242 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:43:54,242 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:43:54,242 - INFO - Detected 1 text blocks
+2024-09-11 06:43:54,243 - INFO - Analyzed frame 4/5 in group. Detected 1 text blocks.
+2024-09-11 06:43:54,243 - INFO - Original frame size: 1440x1080
+2024-09-11 06:43:54,243 - INFO - Resized frame for API: 512x384
+2024-09-11 06:43:55,361 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:43:55,361 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:43:55,361 - INFO - Detected 1 text blocks
+2024-09-11 06:43:55,361 - INFO - Analyzed frame 7/5 in group. Detected 1 text blocks.
+2024-09-11 06:43:55,361 - INFO - Original frame size: 1440x1080
+2024-09-11 06:43:55,362 - INFO - Resized frame for API: 512x384
+2024-09-11 06:43:57,648 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:43:57,648 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:43:57,648 - INFO - Detected 1 text blocks
+2024-09-11 06:43:57,648 - INFO - Analyzed frame 10/5 in group. Detected 1 text blocks.
+2024-09-11 06:43:57,649 - INFO - Original frame size: 1440x1080
+2024-09-11 06:43:57,649 - INFO - Resized frame for API: 512x384
+2024-09-11 06:43:58,957 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:43:58,957 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:43:58,957 - INFO - Detected 1 text blocks
+2024-09-11 06:43:58,957 - INFO - Analyzed frame 14/5 in group. Detected 1 text blocks.
+2024-09-11 06:43:58,957 - INFO - Averaged text block: 'No text', Position: x=0, y=0, w=512, h=384
+2024-09-11 06:43:58,957 - INFO - Total averaged text blocks: 1
+2024-09-11 06:44:00,129 - INFO - Translation response: {
+  "translation": "\u041d\u0435\u0442 \u0442\u0435\u043a\u0441\u0442\u0430"
+}
+2024-09-11 06:44:00,129 - INFO - Original text: No text
+2024-09-11 06:44:00,129 - INFO - Translated text: Нет текста
+2024-09-11 06:44:00,129 - ERROR - Translation error for text 'No text': 'resized_width'
+2024-09-11 06:44:00,129 - WARNING - Group 1: No text blocks were processed despite initial detection
+2024-09-11 06:44:00,130 - INFO - Analyzing group 2 with 19 frames
+2024-09-11 06:44:00,130 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:00,130 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:02,507 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:02,508 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:02,508 - INFO - Detected 1 text blocks
+2024-09-11 06:44:02,508 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:02,509 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:03,717 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:03,718 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:03,718 - INFO - Detected 1 text blocks
+2024-09-11 06:44:03,718 - INFO - Analyzed frame 1/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:03,718 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:03,718 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:04,952 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:04,953 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:04,953 - INFO - Detected 1 text blocks
+2024-09-11 06:44:04,953 - INFO - Analyzed frame 5/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:04,953 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:04,954 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:06,713 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:06,713 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:06,714 - INFO - Detected 1 text blocks
+2024-09-11 06:44:06,714 - INFO - Analyzed frame 10/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:06,714 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:06,715 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:08,359 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:08,360 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:08,360 - INFO - Detected 1 text blocks
+2024-09-11 06:44:08,360 - INFO - Analyzed frame 14/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:08,360 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:08,361 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:10,801 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:10,802 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:10,802 - INFO - Detected 1 text blocks
+2024-09-11 06:44:10,802 - INFO - Analyzed frame 19/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:10,802 - INFO - Averaged text block: 'No text', Position: x=0, y=0, w=512, h=384
+2024-09-11 06:44:10,802 - INFO - Total averaged text blocks: 1
+2024-09-11 06:44:11,396 - INFO - Translation response: {
+  "translation": "\u041d\u0435\u0442 \u0442\u0435\u043a\u0441\u0442\u0430"
+}
+2024-09-11 06:44:11,396 - INFO - Original text: No text
+2024-09-11 06:44:11,396 - INFO - Translated text: Нет текста
+2024-09-11 06:44:11,396 - ERROR - Translation error for text 'No text': 'resized_width'
+2024-09-11 06:44:11,396 - WARNING - Group 2: No text blocks were processed despite initial detection
+2024-09-11 06:44:11,396 - INFO - Analyzing group 3 with 24 frames
+2024-09-11 06:44:11,397 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:11,397 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:12,898 - INFO - GPT Analysis: {
+  "result": "No text"
+}
+2024-09-11 06:44:12,898 - INFO - Detected 0 text blocks
+2024-09-11 06:44:12,899 - INFO - No text detected in group 3
+2024-09-11 06:44:12,899 - INFO - Analyzing group 4 with 20 frames
+2024-09-11 06:44:12,899 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:12,900 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:15,532 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:15,533 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:15,533 - INFO - Detected 1 text blocks
+2024-09-11 06:44:15,533 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:15,534 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:17,111 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:17,111 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:17,111 - INFO - Detected 1 text blocks
+2024-09-11 06:44:17,111 - INFO - Analyzed frame 1/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:17,111 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:17,112 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:18,719 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:18,720 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:18,720 - INFO - Detected 1 text blocks
+2024-09-11 06:44:18,720 - INFO - Analyzed frame 5/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:18,720 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:18,721 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:20,976 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:20,976 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:20,976 - INFO - Detected 1 text blocks
+2024-09-11 06:44:20,977 - INFO - Analyzed frame 10/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:20,977 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:20,977 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:22,097 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:22,097 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:22,097 - INFO - Detected 1 text blocks
+2024-09-11 06:44:22,097 - INFO - Analyzed frame 15/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:22,097 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:22,098 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:23,853 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:23,853 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:23,853 - INFO - Detected 1 text blocks
+2024-09-11 06:44:23,853 - INFO - Analyzed frame 20/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:23,853 - INFO - Averaged text block: 'No text', Position: x=0, y=0, w=512, h=384
+2024-09-11 06:44:23,853 - INFO - Total averaged text blocks: 1
+2024-09-11 06:44:24,413 - INFO - Translation response: {
+  "translation": "\u041d\u0435\u0442 \u0442\u0435\u043a\u0441\u0442\u0430"
+}
+2024-09-11 06:44:24,413 - INFO - Original text: No text
+2024-09-11 06:44:24,413 - INFO - Translated text: Нет текста
+2024-09-11 06:44:24,413 - ERROR - Translation error for text 'No text': 'resized_width'
+2024-09-11 06:44:24,413 - WARNING - Group 4: No text blocks were processed despite initial detection
+2024-09-11 06:44:24,413 - INFO - Analyzing group 5 with 15 frames
+2024-09-11 06:44:24,413 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:24,414 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:26,778 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:26,778 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:26,779 - INFO - Detected 1 text blocks
+2024-09-11 06:44:26,779 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:26,779 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:28,025 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:28,025 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:28,025 - INFO - Detected 1 text blocks
+2024-09-11 06:44:28,025 - INFO - Analyzed frame 1/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:28,025 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:28,026 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:29,179 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:29,180 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:29,180 - INFO - Detected 1 text blocks
+2024-09-11 06:44:29,180 - INFO - Analyzed frame 4/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:29,180 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:29,181 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:30,529 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:30,529 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:30,529 - INFO - Detected 1 text blocks
+2024-09-11 06:44:30,529 - INFO - Analyzed frame 8/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:30,529 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:30,530 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:33,069 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:33,070 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:33,070 - INFO - Detected 1 text blocks
+2024-09-11 06:44:33,070 - INFO - Analyzed frame 11/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:33,070 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:33,070 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:34,845 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:34,845 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:34,845 - INFO - Detected 1 text blocks
+2024-09-11 06:44:34,845 - INFO - Analyzed frame 15/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:34,846 - INFO - Averaged text block: 'No text', Position: x=0, y=0, w=512, h=384
+2024-09-11 06:44:34,846 - INFO - Total averaged text blocks: 1
+2024-09-11 06:44:36,092 - INFO - Translation response: {
+  "translation": "\u041d\u0435\u0442 \u0442\u0435\u043a\u0441\u0442\u0430"
+}
+2024-09-11 06:44:36,092 - INFO - Original text: No text
+2024-09-11 06:44:36,092 - INFO - Translated text: Нет текста
+2024-09-11 06:44:36,093 - ERROR - Translation error for text 'No text': 'resized_width'
+2024-09-11 06:44:36,093 - WARNING - Group 5: No text blocks were processed despite initial detection
+2024-09-11 06:44:36,093 - INFO - Analyzing group 6 with 28 frames
+2024-09-11 06:44:36,093 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:36,094 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:37,363 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:37,364 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:37,364 - INFO - Detected 1 text blocks
+2024-09-11 06:44:37,364 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:37,365 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:39,559 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:39,560 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:39,560 - INFO - Detected 1 text blocks
+2024-09-11 06:44:39,560 - INFO - Analyzed frame 1/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:39,561 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:39,561 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:40,690 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:40,691 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:40,691 - INFO - Detected 1 text blocks
+2024-09-11 06:44:40,691 - INFO - Analyzed frame 7/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:40,691 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:40,692 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:42,535 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:42,536 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:42,536 - INFO - Detected 1 text blocks
+2024-09-11 06:44:42,536 - INFO - Analyzed frame 14/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:42,536 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:42,536 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:44,226 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:44,226 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:44,226 - INFO - Detected 1 text blocks
+2024-09-11 06:44:44,226 - INFO - Analyzed frame 21/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:44,226 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:44,227 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:45,978 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:45,978 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:45,979 - INFO - Detected 1 text blocks
+2024-09-11 06:44:45,979 - INFO - Analyzed frame 28/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:45,979 - INFO - Averaged text block: 'No text', Position: x=0, y=0, w=512, h=384
+2024-09-11 06:44:45,979 - INFO - Total averaged text blocks: 1
+2024-09-11 06:44:46,608 - INFO - Translation response: {
+  "translation": "\u041d\u0435\u0442 \u0442\u0435\u043a\u0441\u0442\u0430"
+}
+2024-09-11 06:44:46,609 - INFO - Original text: No text
+2024-09-11 06:44:46,609 - INFO - Translated text: Нет текста
+2024-09-11 06:44:46,609 - ERROR - Translation error for text 'No text': 'resized_width'
+2024-09-11 06:44:46,609 - WARNING - Group 6: No text blocks were processed despite initial detection
+2024-09-11 06:44:46,609 - INFO - Analyzing group 7 with 45 frames
+2024-09-11 06:44:46,609 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:46,610 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:48,421 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:48,422 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:48,422 - INFO - Detected 1 text blocks
+2024-09-11 06:44:48,422 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:48,423 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:49,845 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:49,845 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:49,845 - INFO - Detected 1 text blocks
+2024-09-11 06:44:49,845 - INFO - Analyzed frame 1/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:49,845 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:49,846 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:51,038 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:51,038 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:51,038 - INFO - Detected 1 text blocks
+2024-09-11 06:44:51,038 - INFO - Analyzed frame 12/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:51,039 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:51,039 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:52,738 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:52,738 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:52,738 - INFO - Detected 1 text blocks
+2024-09-11 06:44:52,738 - INFO - Analyzed frame 23/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:52,738 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:52,739 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:54,764 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:54,765 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:54,765 - INFO - Detected 1 text blocks
+2024-09-11 06:44:54,765 - INFO - Analyzed frame 34/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:54,765 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:54,765 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:56,480 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:56,481 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:56,481 - INFO - Detected 1 text blocks
+2024-09-11 06:44:56,481 - INFO - Analyzed frame 45/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:56,481 - INFO - Averaged text block: 'No text', Position: x=0, y=0, w=512, h=384
+2024-09-11 06:44:56,481 - INFO - Total averaged text blocks: 1
+2024-09-11 06:44:57,055 - INFO - Translation response: {
+  "translation": "\u041d\u0435\u0442 \u0442\u0435\u043a\u0441\u0442\u0430"
+}
+2024-09-11 06:44:57,056 - INFO - Original text: No text
+2024-09-11 06:44:57,056 - INFO - Translated text: Нет текста
+2024-09-11 06:44:57,056 - ERROR - Translation error for text 'No text': 'resized_width'
+2024-09-11 06:44:57,056 - WARNING - Group 7: No text blocks were processed despite initial detection
+2024-09-11 06:44:57,056 - INFO - Analyzing group 8 with 8 frames
+2024-09-11 06:44:57,056 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:57,056 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:58,201 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:58,201 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:58,202 - INFO - Detected 1 text blocks
+2024-09-11 06:44:58,202 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:58,202 - INFO - Resized frame for API: 512x384
+2024-09-11 06:44:59,847 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:44:59,848 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:44:59,848 - INFO - Detected 1 text blocks
+2024-09-11 06:44:59,848 - INFO - Analyzed frame 1/5 in group. Detected 1 text blocks.
+2024-09-11 06:44:59,848 - INFO - Original frame size: 1440x1080
+2024-09-11 06:44:59,848 - INFO - Resized frame for API: 512x384
+2024-09-11 06:45:02,042 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:45:02,042 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:45:02,042 - INFO - Detected 1 text blocks
+2024-09-11 06:45:02,042 - INFO - Analyzed frame 2/5 in group. Detected 1 text blocks.
+2024-09-11 06:45:02,043 - INFO - Original frame size: 1440x1080
+2024-09-11 06:45:02,043 - INFO - Resized frame for API: 512x384
+2024-09-11 06:45:03,062 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:45:03,062 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:45:03,062 - INFO - Detected 1 text blocks
+2024-09-11 06:45:03,063 - INFO - Analyzed frame 4/5 in group. Detected 1 text blocks.
+2024-09-11 06:45:03,063 - INFO - Original frame size: 1440x1080
+2024-09-11 06:45:03,063 - INFO - Resized frame for API: 512x384
+2024-09-11 06:45:04,139 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:45:04,140 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:45:04,140 - INFO - Detected 1 text blocks
+2024-09-11 06:45:04,140 - INFO - Analyzed frame 6/5 in group. Detected 1 text blocks.
+2024-09-11 06:45:04,140 - INFO - Original frame size: 1440x1080
+2024-09-11 06:45:04,141 - INFO - Resized frame for API: 512x384
+2024-09-11 06:45:06,710 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:45:06,710 - INFO - Single text block: Content: 'No text', Position: [0, 0, 512, 384]
+2024-09-11 06:45:06,710 - INFO - Detected 1 text blocks
+2024-09-11 06:45:06,711 - INFO - Analyzed frame 8/5 in group. Detected 1 text blocks.
+2024-09-11 06:45:06,711 - INFO - Averaged text block: 'No text', Position: x=0, y=0, w=512, h=384
+2024-09-11 06:45:06,711 - INFO - Total averaged text blocks: 1
+2024-09-11 06:45:07,836 - INFO - Translation response: {
+  "translation": "\u041d\u0435\u0442 \u0442\u0435\u043a\u0441\u0442\u0430"
+}
+2024-09-11 06:45:07,836 - INFO - Original text: No text
+2024-09-11 06:45:07,836 - INFO - Translated text: Нет текста
+2024-09-11 06:45:07,836 - ERROR - Translation error for text 'No text': 'resized_width'
+2024-09-11 06:45:07,836 - WARNING - Group 8: No text blocks were processed despite initial detection
+2024-09-11 06:45:07,836 - INFO - Analyzing group 9 with 305 frames
+2024-09-11 06:45:07,836 - INFO - Original frame size: 1440x1080
+2024-09-11 06:45:07,837 - INFO - Resized frame for API: 512x384
+2024-09-11 06:45:16,153 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left_corner": {
+        "x": 25,
+        "y": 160
+      },
+      "width": 460,
+      "height": 20
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left_corner": {
+        "x": 55,
+        "y": 185
+      },
+      "width": 410,
+      "height": 20
+    }
+  ]
+}

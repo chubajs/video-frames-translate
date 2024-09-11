@@ -1,0 +1,744 @@
+2024-09-11 08:07:40,227 - INFO - Starting video processing for tmp/sample1.mp4
+2024-09-11 08:07:40,278 - INFO - Grouping frame 0/734
+2024-09-11 08:07:41,335 - INFO - Grouping frame 100/734
+2024-09-11 08:07:42,452 - INFO - Grouping frame 200/734
+2024-09-11 08:07:43,548 - INFO - Grouping frame 300/734
+2024-09-11 08:07:44,624 - INFO - Grouping frame 400/734
+2024-09-11 08:07:45,787 - INFO - Grouping frame 500/734
+2024-09-11 08:07:46,859 - INFO - Grouping frame 600/734
+2024-09-11 08:07:48,008 - INFO - Grouping frame 700/734
+2024-09-11 08:07:48,380 - INFO - Grouped frames into 10 groups
+2024-09-11 08:07:48,392 - INFO - Original video dimensions: 1440x1080
+2024-09-11 08:07:48,392 - INFO - Analyzing group 1 with 14 frames
+2024-09-11 08:07:48,392 - INFO - Original frame size: 1440x1080
+2024-09-11 08:07:48,393 - INFO - Resized frame for API: 512x384
+2024-09-11 08:07:50,670 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 08:07:50,670 - INFO - Detected 0 text blocks
+2024-09-11 08:07:50,670 - INFO - No text detected in group 1, skipping further analysis
+2024-09-11 08:07:50,670 - INFO - Analyzing group 2 with 19 frames
+2024-09-11 08:07:50,670 - INFO - Original frame size: 1440x1080
+2024-09-11 08:07:50,671 - INFO - Resized frame for API: 512x384
+2024-09-11 08:07:51,889 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 08:07:51,889 - INFO - Detected 0 text blocks
+2024-09-11 08:07:51,889 - INFO - No text detected in group 2, skipping further analysis
+2024-09-11 08:07:51,889 - INFO - Analyzing group 3 with 24 frames
+2024-09-11 08:07:51,890 - INFO - Original frame size: 1440x1080
+2024-09-11 08:07:51,890 - INFO - Resized frame for API: 512x384
+2024-09-11 08:07:56,397 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 08:07:56,397 - INFO - Detected 0 text blocks
+2024-09-11 08:07:56,398 - INFO - No text detected in group 3, skipping further analysis
+2024-09-11 08:07:56,398 - INFO - Analyzing group 4 with 20 frames
+2024-09-11 08:07:56,398 - INFO - Original frame size: 1440x1080
+2024-09-11 08:07:56,398 - INFO - Resized frame for API: 512x384
+2024-09-11 08:07:58,640 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 08:07:58,640 - INFO - Detected 0 text blocks
+2024-09-11 08:07:58,641 - INFO - No text detected in group 4, skipping further analysis
+2024-09-11 08:07:58,641 - INFO - Analyzing group 5 with 15 frames
+2024-09-11 08:07:58,641 - INFO - Original frame size: 1440x1080
+2024-09-11 08:07:58,642 - INFO - Resized frame for API: 512x384
+2024-09-11 08:08:00,541 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 08:08:00,542 - INFO - Detected 0 text blocks
+2024-09-11 08:08:00,542 - INFO - No text detected in group 5, skipping further analysis
+2024-09-11 08:08:00,542 - INFO - Analyzing group 6 with 28 frames
+2024-09-11 08:08:00,542 - INFO - Original frame size: 1440x1080
+2024-09-11 08:08:00,543 - INFO - Resized frame for API: 512x384
+2024-09-11 08:08:01,611 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 08:08:01,611 - INFO - Detected 0 text blocks
+2024-09-11 08:08:01,612 - INFO - No text detected in group 6, skipping further analysis
+2024-09-11 08:08:01,612 - INFO - Analyzing group 7 with 45 frames
+2024-09-11 08:08:01,612 - INFO - Original frame size: 1440x1080
+2024-09-11 08:08:01,612 - INFO - Resized frame for API: 512x384
+2024-09-11 08:08:03,020 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 08:08:03,020 - INFO - Detected 0 text blocks
+2024-09-11 08:08:03,021 - INFO - No text detected in group 7, skipping further analysis
+2024-09-11 08:08:03,021 - INFO - Analyzing group 8 with 8 frames
+2024-09-11 08:08:03,021 - INFO - Original frame size: 1440x1080
+2024-09-11 08:08:03,022 - INFO - Resized frame for API: 512x384
+2024-09-11 08:08:04,511 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 08:08:04,511 - INFO - Detected 0 text blocks
+2024-09-11 08:08:04,511 - INFO - No text detected in group 8, skipping further analysis
+2024-09-11 08:08:04,512 - INFO - Analyzing group 9 with 305 frames
+2024-09-11 08:08:04,512 - INFO - Original frame size: 1440x1080
+2024-09-11 08:08:04,513 - INFO - Resized frame for API: 512x384
+2024-09-11 08:08:10,047 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 22,
+        "y": 170
+      },
+      "bottom_right": {
+        "x": 499,
+        "y": 202
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 44,
+        "y": 208
+      },
+      "bottom_right": {
+        "x": 471,
+        "y": 236
+      }
+    }
+  ]
+}
+2024-09-11 08:08:10,047 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=22, y=170, w=477, h=32]
+2024-09-11 08:08:10,047 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=44, y=208, w=427, h=28]
+2024-09-11 08:08:10,047 - INFO - Detected 2 text blocks
+2024-09-11 08:08:10,047 - INFO - Original frame size: 1440x1080
+2024-09-11 08:08:10,048 - INFO - Resized frame for API: 512x384
+2024-09-11 08:08:18,013 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder.",
+      "top_left": {
+        "x": 59,
+        "y": 203
+      },
+      "bottom_right": {
+        "x": 457,
+        "y": 237
+      }
+    },
+    {
+      "content": "It's time. The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 64,
+        "y": 237
+      },
+      "bottom_right": {
+        "x": 457,
+        "y": 272
+      }
+    }
+  ]
+}
+2024-09-11 08:08:18,013 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder.', API position: [x=59, y=203, w=398, h=34]
+2024-09-11 08:08:18,013 - INFO - Text block 2: Content: 'It's time. The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=64, y=237, w=393, h=35]
+2024-09-11 08:08:18,013 - INFO - Detected 2 text blocks
+2024-09-11 08:08:18,014 - INFO - Analyzed frame 1/5 in group. Detected 2 text blocks.
+2024-09-11 08:08:18,014 - INFO - Original frame size: 1440x1080
+2024-09-11 08:08:18,014 - INFO - Resized frame for API: 512x384
+2024-09-11 08:08:24,241 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder.",
+      "top_left": {
+        "x": 19,
+        "y": 67
+      },
+      "bottom_right": {
+        "x": 464,
+        "y": 97
+      }
+    },
+    {
+      "content": "It's time. The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 37,
+        "y": 100
+      },
+      "bottom_right": {
+        "x": 474,
+        "y": 130
+      }
+    }
+  ]
+}
+2024-09-11 08:08:24,241 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder.', API position: [x=19, y=67, w=445, h=30]
+2024-09-11 08:08:24,241 - INFO - Text block 2: Content: 'It's time. The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=37, y=100, w=437, h=30]
+2024-09-11 08:08:24,242 - INFO - Detected 2 text blocks
+2024-09-11 08:08:24,242 - INFO - Analyzed frame 77/5 in group. Detected 2 text blocks.
+2024-09-11 08:08:24,242 - INFO - Original frame size: 1440x1080
+2024-09-11 08:08:24,242 - INFO - Resized frame for API: 512x384
+2024-09-11 08:08:28,957 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 45,
+        "y": 150
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 180
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 70,
+        "y": 190
+      },
+      "bottom_right": {
+        "x": 460,
+        "y": 220
+      }
+    }
+  ]
+}
+2024-09-11 08:08:28,957 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=45, y=150, w=425, h=30]
+2024-09-11 08:08:28,957 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=70, y=190, w=390, h=30]
+2024-09-11 08:08:28,957 - INFO - Detected 2 text blocks
+2024-09-11 08:08:28,958 - INFO - Analyzed frame 153/5 in group. Detected 2 text blocks.
+2024-09-11 08:08:28,958 - INFO - Original frame size: 1440x1080
+2024-09-11 08:08:28,958 - INFO - Resized frame for API: 512x384
+2024-09-11 08:08:34,129 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 30,
+        "y": 110
+      },
+      "bottom_right": {
+        "x": 475,
+        "y": 135
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 50,
+        "y": 145
+      },
+      "bottom_right": {
+        "x": 450,
+        "y": 170
+      }
+    }
+  ]
+}
+2024-09-11 08:08:34,129 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=30, y=110, w=445, h=25]
+2024-09-11 08:08:34,129 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=50, y=145, w=400, h=25]
+2024-09-11 08:08:34,129 - INFO - Detected 2 text blocks
+2024-09-11 08:08:34,130 - INFO - Analyzed frame 229/5 in group. Detected 2 text blocks.
+2024-09-11 08:08:34,130 - INFO - Original frame size: 1440x1080
+2024-09-11 08:08:34,130 - INFO - Resized frame for API: 512x384
+2024-09-11 08:08:41,859 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 10,
+        "y": 150
+      },
+      "bottom_right": {
+        "x": 510,
+        "y": 185
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 75,
+        "y": 185
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 225
+      }
+    }
+  ]
+}
+2024-09-11 08:08:41,860 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=10, y=150, w=500, h=35]
+2024-09-11 08:08:41,860 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=75, y=185, w=395, h=40]
+2024-09-11 08:08:41,861 - INFO - Detected 2 text blocks
+2024-09-11 08:08:41,861 - INFO - Analyzed frame 305/5 in group. Detected 2 text blocks.
+2024-09-11 08:08:41,864 - INFO - Averaged text block: 'You have lingered in stillness, but the pulse outside is growing louder.', Position: x=39, y=135, w=421, h=32
+2024-09-11 08:08:41,867 - INFO - Averaged text block: 'It's time. The cave served its purpose, but now it threatens to swallow you whole.', Position: x=50, y=168, w=415, h=32
+2024-09-11 08:08:41,870 - INFO - Averaged text block: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Position: x=28, y=136, w=456, h=30
+2024-09-11 08:08:41,873 - INFO - Averaged text block: 'The cave served its purpose, but now it threatens to swallow you whole.', Position: x=65, y=173, w=395, h=31
+2024-09-11 08:08:41,873 - INFO - Total averaged text blocks: 4
+2024-09-11 08:08:45,917 - INFO - Original text: You have lingered in stillness, but the pulse outside is growing louder.
+2024-09-11 08:08:45,918 - INFO - Translated text: Ты задержался в безмолвии, но пульс снаружи становится все громче.
+2024-09-11 08:08:45,918 - INFO - Processed text block: Original: 'You have lingered in stillness, but the pulse outside is growing louder.', Translated: 'Ты задержался в безмолвии, но пульс снаружи становится все громче.', Position: [x=109, y=361, w=1331, h=108]
+2024-09-11 08:08:47,057 - INFO - Original text: It's time. The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 08:08:47,057 - INFO - Translated text: Пора. Пещера выполнила свою задачу, но теперь угрожает поглотить тебя целиком.
+2024-09-11 08:08:47,057 - INFO - Processed text block: Original: 'It's time. The cave served its purpose, but now it threatens to swallow you whole.', Translated: 'Пора. Пещера выполнила свою задачу, но теперь угрожает поглотить тебя целиком.', Position: [x=140, y=454, w=1300, h=108]
+2024-09-11 08:08:48,682 - INFO - Original text: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 08:08:48,682 - INFO - Translated text: Ты задержался в тишине, но пульс снаружи становится все громче. Время пришло.
+2024-09-11 08:08:48,682 - INFO - Processed text block: Original: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Translated: 'Ты задержался в тишине, но пульс снаружи становится все громче. Время пришло.', Position: [x=78, y=366, w=1362, h=100]
+2024-09-11 08:08:50,117 - INFO - Original text: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 08:08:50,117 - INFO - Translated text: Пещера выполнила своё предназначение, но теперь она угрожает поглотить тебя полностью.
+2024-09-11 08:08:50,118 - INFO - Processed text block: Original: 'The cave served its purpose, but now it threatens to swallow you whole.', Translated: 'Пещера выполнила своё предназначение, но теперь она угрожает поглотить тебя полностью.', Position: [x=182, y=469, w=1258, h=104]
+2024-09-11 08:08:50,118 - INFO - Group 9: Processed 4 text blocks
+2024-09-11 08:08:50,118 - INFO - Analyzing group 10 with 256 frames
+2024-09-11 08:08:50,118 - INFO - Original frame size: 1440x1080
+2024-09-11 08:08:50,120 - INFO - Resized frame for API: 512x384
+2024-09-11 08:09:01,121 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left": {
+        "x": 50,
+        "y": 190
+      },
+      "bottom_right": {
+        "x": 460,
+        "y": 210
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left": {
+        "x": 50,
+        "y": 220
+      },
+      "bottom_right": {
+        "x": 460,
+        "y": 240
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left": {
+        "x": 120,
+        "y": 250
+      },
+      "bottom_right": {
+        "x": 400,
+        "y": 270
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 120,
+        "y": 280
+      },
+      "bottom_right": {
+        "x": 400,
+        "y": 300
+      }
+    }
+  ]
+}
+2024-09-11 08:09:01,122 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=50, y=190, w=410, h=20]
+2024-09-11 08:09:01,122 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=50, y=220, w=410, h=20]
+2024-09-11 08:09:01,122 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=120, y=250, w=280, h=20]
+2024-09-11 08:09:01,123 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=120, y=280, w=280, h=20]
+2024-09-11 08:09:01,123 - INFO - Detected 4 text blocks
+2024-09-11 08:09:01,124 - INFO - Original frame size: 1440x1080
+2024-09-11 08:09:01,125 - INFO - Resized frame for API: 512x384
+2024-09-11 08:09:12,500 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left": {
+        "x": 66,
+        "y": 200
+      },
+      "bottom_right": {
+        "x": 443,
+        "y": 218
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left": {
+        "x": 50,
+        "y": 220
+      },
+      "bottom_right": {
+        "x": 462,
+        "y": 238
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left": {
+        "x": 125,
+        "y": 240
+      },
+      "bottom_right": {
+        "x": 387,
+        "y": 258
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 100,
+        "y": 270
+      },
+      "bottom_right": {
+        "x": 398,
+        "y": 288
+      }
+    }
+  ]
+}
+2024-09-11 08:09:12,500 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=66, y=200, w=377, h=18]
+2024-09-11 08:09:12,500 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=50, y=220, w=412, h=18]
+2024-09-11 08:09:12,500 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=125, y=240, w=262, h=18]
+2024-09-11 08:09:12,500 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=100, y=270, w=298, h=18]
+2024-09-11 08:09:12,500 - INFO - Detected 4 text blocks
+2024-09-11 08:09:12,501 - INFO - Analyzed frame 1/5 in group. Detected 4 text blocks.
+2024-09-11 08:09:12,501 - INFO - Original frame size: 1440x1080
+2024-09-11 08:09:12,501 - INFO - Resized frame for API: 512x384
+2024-09-11 08:09:25,315 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left": {
+        "x": 60,
+        "y": 130
+      },
+      "bottom_right": {
+        "x": 450,
+        "y": 160
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left": {
+        "x": 65,
+        "y": 160
+      },
+      "bottom_right": {
+        "x": 460,
+        "y": 190
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left": {
+        "x": 130,
+        "y": 190
+      },
+      "bottom_right": {
+        "x": 390,
+        "y": 220
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 80,
+        "y": 280
+      },
+      "bottom_right": {
+        "x": 400,
+        "y": 310
+      }
+    }
+  ]
+}
+2024-09-11 08:09:25,317 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=60, y=130, w=390, h=30]
+2024-09-11 08:09:25,317 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=65, y=160, w=395, h=30]
+2024-09-11 08:09:25,317 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=130, y=190, w=260, h=30]
+2024-09-11 08:09:25,317 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=80, y=280, w=320, h=30]
+2024-09-11 08:09:25,318 - INFO - Detected 4 text blocks
+2024-09-11 08:09:25,319 - INFO - Analyzed frame 64/5 in group. Detected 4 text blocks.
+2024-09-11 08:09:25,319 - INFO - Original frame size: 1440x1080
+2024-09-11 08:09:25,321 - INFO - Resized frame for API: 512x384
+2024-09-11 08:09:43,681 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left": {
+        "x": 35,
+        "y": 180
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 205
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left": {
+        "x": 30,
+        "y": 210
+      },
+      "bottom_right": {
+        "x": 495,
+        "y": 235
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left": {
+        "x": 130,
+        "y": 240
+      },
+      "bottom_right": {
+        "x": 425,
+        "y": 265
+      }
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "top_left": {
+        "x": 100,
+        "y": 280
+      },
+      "bottom_right": {
+        "x": 472,
+        "y": 305
+      }
+    }
+  ]
+}
+2024-09-11 08:09:43,681 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=35, y=180, w=435, h=25]
+2024-09-11 08:09:43,681 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=30, y=210, w=465, h=25]
+2024-09-11 08:09:43,681 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=130, y=240, w=295, h=25]
+2024-09-11 08:09:43,681 - INFO - Text block 4: Content: 'One step. . . then another. You were never meant to stay.', API position: [x=100, y=280, w=372, h=25]
+2024-09-11 08:09:43,682 - INFO - Detected 4 text blocks
+2024-09-11 08:09:43,682 - INFO - Analyzed frame 128/5 in group. Detected 4 text blocks.
+2024-09-11 08:09:43,682 - INFO - Original frame size: 1440x1080
+2024-09-11 08:09:43,683 - INFO - Resized frame for API: 512x384
+2024-09-11 08:09:51,435 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left": {
+        "x": 50,
+        "y": 180
+      },
+      "bottom_right": {
+        "x": 465,
+        "y": 210
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left": {
+        "x": 50,
+        "y": 210
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 240
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left": {
+        "x": 50,
+        "y": 240
+      },
+      "bottom_right": {
+        "x": 370,
+        "y": 270
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 50,
+        "y": 290
+      },
+      "bottom_right": {
+        "x": 400,
+        "y": 320
+      }
+    }
+  ]
+}
+2024-09-11 08:09:51,436 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=50, y=180, w=415, h=30]
+2024-09-11 08:09:51,436 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=50, y=210, w=420, h=30]
+2024-09-11 08:09:51,436 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=50, y=240, w=320, h=30]
+2024-09-11 08:09:51,436 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=50, y=290, w=350, h=30]
+2024-09-11 08:09:51,436 - INFO - Detected 4 text blocks
+2024-09-11 08:09:51,436 - INFO - Analyzed frame 192/5 in group. Detected 4 text blocks.
+2024-09-11 08:09:51,436 - INFO - Original frame size: 1440x1080
+2024-09-11 08:09:51,437 - INFO - Resized frame for API: 512x384
+2024-09-11 08:10:12,727 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left": {
+        "x": 40,
+        "y": 100
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 130
+      }
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left": {
+        "x": 50,
+        "y": 140
+      },
+      "bottom_right": {
+        "x": 470,
+        "y": 170
+      }
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left": {
+        "x": 40,
+        "y": 180
+      },
+      "bottom_right": {
+        "x": 490,
+        "y": 210
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 90,
+        "y": 240
+      },
+      "bottom_right": {
+        "x": 440,
+        "y": 270
+      }
+    }
+  ]
+}
+2024-09-11 08:10:12,727 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you.', API position: [x=40, y=100, w=430, h=30]
+2024-09-11 08:10:12,727 - INFO - Text block 2: Content: 'They are not enemies. They are the forces you must ride.', API position: [x=50, y=140, w=420, h=30]
+2024-09-11 08:10:12,728 - INFO - Text block 3: Content: 'The forces that will carry you further than your patience ever could.', API position: [x=40, y=180, w=450, h=30]
+2024-09-11 08:10:12,728 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=90, y=240, w=350, h=30]
+2024-09-11 08:10:12,728 - INFO - Detected 4 text blocks
+2024-09-11 08:10:12,728 - INFO - Analyzed frame 256/5 in group. Detected 4 text blocks.
+2024-09-11 08:10:12,731 - INFO - Averaged text block: 'Do not fear the light, nor the cold wind that greets you. They are not', Position: x=50, y=186, w=409, h=24
+2024-09-11 08:10:12,734 - INFO - Averaged text block: 'enemies. They are the forces you must ride. The forces that will carry you', Position: x=50, y=215, w=416, h=24
+2024-09-11 08:10:12,736 - INFO - Averaged text block: 'further than your patience ever could.', Position: x=127, y=240, w=278, h=21
+2024-09-11 08:10:12,739 - INFO - Averaged text block: 'One step... then another. You were never meant to stay.', Position: x=73, y=270, w=340, h=30
+2024-09-11 08:10:12,739 - INFO - Total averaged text blocks: 4
+2024-09-11 08:10:15,632 - INFO - Original text: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 08:10:15,632 - INFO - Translated text: Не бойся света и холодного ветра, который встречает тебя. Они не
+2024-09-11 08:10:15,632 - INFO - Processed text block: Original: 'Do not fear the light, nor the cold wind that greets you. They are not', Translated: 'Не бойся света и холодного ветра, который встречает тебя. Они не', Position: [x=140, y=510, w=1300, h=80]
+2024-09-11 08:10:16,539 - INFO - Original text: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 08:10:16,540 - INFO - Translated text: враги. Это силы, которыми ты должен овладеть. Силы, которые понесут тебя.
+2024-09-11 08:10:16,540 - INFO - Processed text block: Original: 'enemies. They are the forces you must ride. The forces that will carry you', Translated: 'враги. Это силы, которыми ты должен овладеть. Силы, которые понесут тебя.', Position: [x=140, y=591, w=1300, h=80]
+2024-09-11 08:10:17,982 - INFO - Original text: further than your patience ever could.
+2024-09-11 08:10:17,982 - INFO - Translated text: дальше, чем могла бы твоя терпимость.
+2024-09-11 08:10:17,982 - INFO - Processed text block: Original: 'further than your patience ever could.', Translated: 'дальше, чем могла бы твоя терпимость.', Position: [x=357, y=664, w=937, h=70]
+2024-09-11 08:10:18,820 - INFO - Original text: One step... then another. You were never meant to stay.
+2024-09-11 08:10:18,821 - INFO - Translated text: Один шаг... затем другой. Ты никогда не должен был оставаться.
+2024-09-11 08:10:18,821 - INFO - Processed text block: Original: 'One step... then another. You were never meant to stay.', Translated: 'Один шаг... затем другой. Ты никогда не должен был оставаться.', Position: [x=205, y=743, w=1147, h=100]
+2024-09-11 08:10:18,821 - INFO - Group 10: Processed 4 text blocks
+2024-09-11 08:10:18,822 - INFO - Creating output video...
+2024-09-11 08:10:18,838 - INFO - No translation for group 1
+2024-09-11 08:10:18,975 - INFO - Processed group 1, total frames: 14/734
+2024-09-11 08:10:18,976 - INFO - No translation for group 2
+2024-09-11 08:10:19,181 - INFO - Processed group 2, total frames: 33/734
+2024-09-11 08:10:19,182 - INFO - No translation for group 3
+2024-09-11 08:10:19,440 - INFO - Processed group 3, total frames: 57/734
+2024-09-11 08:10:19,441 - INFO - No translation for group 4
+2024-09-11 08:10:19,621 - INFO - Processed group 4, total frames: 77/734
+2024-09-11 08:10:19,622 - INFO - No translation for group 5
+2024-09-11 08:10:19,777 - INFO - Processed group 5, total frames: 92/734
+2024-09-11 08:10:19,777 - INFO - No translation for group 6
+2024-09-11 08:10:20,056 - INFO - Processed group 6, total frames: 120/734
+2024-09-11 08:10:20,057 - INFO - No translation for group 7
+2024-09-11 08:10:20,433 - INFO - Processed group 7, total frames: 165/734
+2024-09-11 08:10:20,433 - INFO - No translation for group 8
+2024-09-11 08:10:20,499 - INFO - Processed group 8, total frames: 173/734
+2024-09-11 08:10:20,502 - INFO - Frame size for translation: 1440x1080
+2024-09-11 08:10:20,502 - INFO - Text block 1 before drawing:
+2024-09-11 08:10:20,502 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder.
+2024-09-11 08:10:20,503 - INFO -   Translated: Ты задержался в безмолвии, но пульс снаружи становится все громче.
+2024-09-11 08:10:20,503 - INFO -   Position: x=109, y=361, w=1331, h=108
+2024-09-11 08:10:20,588 - INFO - Text block 1 translation:
+2024-09-11 08:10:20,589 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder.
+2024-09-11 08:10:20,589 - INFO -   Translated: Ты задержался в безмолвии, но пульс снаружи становится все громче.
+2024-09-11 08:10:20,589 - INFO -   Original position: x=109, y=361, w=1331, h=108
+2024-09-11 08:10:20,589 - INFO -   Translated text size: w=1316, h=37
+2024-09-11 08:10:20,589 - INFO -   Translated text position: x=116, y=361
+2024-09-11 08:10:20,589 - INFO - Text block 2 before drawing:
+2024-09-11 08:10:20,589 - INFO -   Original: It's time. The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 08:10:20,589 - INFO -   Translated: Пора. Пещера выполнила свою задачу, но теперь угрожает поглотить тебя целиком.
+2024-09-11 08:10:20,590 - INFO -   Position: x=140, y=454, w=1300, h=108
+2024-09-11 08:10:20,678 - INFO - Text block 2 translation:
+2024-09-11 08:10:20,678 - INFO -   Original: It's time. The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 08:10:20,678 - INFO -   Translated: Пора. Пещера выполнила свою задачу, но теперь угрожает поглотить тебя целиком.
+2024-09-11 08:10:20,678 - INFO -   Original position: x=140, y=454, w=1300, h=108
+2024-09-11 08:10:20,678 - INFO -   Translated text size: w=1261, h=29
+2024-09-11 08:10:20,678 - INFO -   Translated text position: x=159, y=454
+2024-09-11 08:10:20,679 - INFO - Text block 3 before drawing:
+2024-09-11 08:10:20,679 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 08:10:20,679 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится все громче. Время пришло.
+2024-09-11 08:10:20,679 - INFO -   Position: x=78, y=366, w=1362, h=100
+2024-09-11 08:10:20,765 - INFO - Text block 3 translation:
+2024-09-11 08:10:20,765 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 08:10:20,766 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится все громче. Время пришло.
+2024-09-11 08:10:20,766 - INFO -   Original position: x=78, y=366, w=1362, h=100
+2024-09-11 08:10:20,766 - INFO -   Translated text size: w=1332, h=30
+2024-09-11 08:10:20,766 - INFO -   Translated text position: x=93, y=366
+2024-09-11 08:10:20,766 - INFO - Text block 4 before drawing:
+2024-09-11 08:10:20,766 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 08:10:20,766 - INFO -   Translated: Пещера выполнила своё предназначение, но теперь она угрожает поглотить тебя полностью.
+2024-09-11 08:10:20,766 - INFO -   Position: x=182, y=469, w=1258, h=104
+2024-09-11 08:10:20,859 - INFO - Text block 4 translation:
+2024-09-11 08:10:20,859 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 08:10:20,859 - INFO -   Translated: Пещера выполнила своё предназначение, но теперь она угрожает поглотить тебя полностью.
+2024-09-11 08:10:20,859 - INFO -   Original position: x=182, y=469, w=1258, h=104
+2024-09-11 08:10:20,859 - INFO -   Translated text size: w=1220, h=25
+2024-09-11 08:10:20,860 - INFO -   Translated text position: x=201, y=469
+2024-09-11 08:10:20,860 - INFO - Created translated frame for group 9
+2024-09-11 08:10:23,389 - INFO - Processed group 9, total frames: 478/734
+2024-09-11 08:10:23,391 - INFO - Frame size for translation: 1440x1080
+2024-09-11 08:10:23,391 - INFO - Text block 1 before drawing:
+2024-09-11 08:10:23,392 - INFO -   Original: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 08:10:23,392 - INFO -   Translated: Не бойся света и холодного ветра, который встречает тебя. Они не
+2024-09-11 08:10:23,392 - INFO -   Position: x=140, y=510, w=1300, h=80
+2024-09-11 08:10:23,480 - INFO - Text block 1 translation:
+2024-09-11 08:10:23,481 - INFO -   Original: Do not fear the light, nor the cold wind that greets you. They are not
+2024-09-11 08:10:23,481 - INFO -   Translated: Не бойся света и холодного ветра, который встречает тебя. Они не
+2024-09-11 08:10:23,482 - INFO -   Original position: x=140, y=510, w=1300, h=80
+2024-09-11 08:10:23,482 - INFO -   Translated text size: w=1271, h=37
+2024-09-11 08:10:23,482 - INFO -   Translated text position: x=154, y=510
+2024-09-11 08:10:23,482 - INFO - Text block 2 before drawing:
+2024-09-11 08:10:23,482 - INFO -   Original: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 08:10:23,483 - INFO -   Translated: враги. Это силы, которыми ты должен овладеть. Силы, которые понесут тебя.
+2024-09-11 08:10:23,483 - INFO -   Position: x=140, y=591, w=1300, h=80
+2024-09-11 08:10:23,574 - INFO - Text block 2 translation:
+2024-09-11 08:10:23,574 - INFO -   Original: enemies. They are the forces you must ride. The forces that will carry you
+2024-09-11 08:10:23,574 - INFO -   Translated: враги. Это силы, которыми ты должен овладеть. Силы, которые понесут тебя.
+2024-09-11 08:10:23,575 - INFO -   Original position: x=140, y=591, w=1300, h=80
+2024-09-11 08:10:23,575 - INFO -   Translated text size: w=1280, h=33
+2024-09-11 08:10:23,576 - INFO -   Translated text position: x=150, y=591
+2024-09-11 08:10:23,576 - INFO - Text block 3 before drawing:
+2024-09-11 08:10:23,576 - INFO -   Original: further than your patience ever could.
+2024-09-11 08:10:23,577 - INFO -   Translated: дальше, чем могла бы твоя терпимость.
+2024-09-11 08:10:23,577 - INFO -   Position: x=357, y=664, w=937, h=70
+2024-09-11 08:10:23,649 - INFO - Text block 3 translation:
+2024-09-11 08:10:23,649 - INFO -   Original: further than your patience ever could.
+2024-09-11 08:10:23,650 - INFO -   Translated: дальше, чем могла бы твоя терпимость.
+2024-09-11 08:10:23,650 - INFO -   Original position: x=357, y=664, w=937, h=70
+2024-09-11 08:10:23,650 - INFO -   Translated text size: w=924, h=45
+2024-09-11 08:10:23,650 - INFO -   Translated text position: x=363, y=664
+2024-09-11 08:10:23,651 - INFO - Text block 4 before drawing:
+2024-09-11 08:10:23,651 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 08:10:23,651 - INFO -   Translated: Один шаг... затем другой. Ты никогда не должен был оставаться.
+2024-09-11 08:10:23,651 - INFO -   Position: x=205, y=743, w=1147, h=100
+2024-09-11 08:10:23,742 - INFO - Text block 4 translation:
+2024-09-11 08:10:23,742 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 08:10:23,742 - INFO -   Translated: Один шаг... затем другой. Ты никогда не должен был оставаться.
+2024-09-11 08:10:23,743 - INFO -   Original position: x=205, y=743, w=1147, h=100
+2024-09-11 08:10:23,743 - INFO -   Translated text size: w=1125, h=34
+2024-09-11 08:10:23,743 - INFO -   Translated text position: x=216, y=743
+2024-09-11 08:10:23,743 - INFO - Created translated frame for group 10
+2024-09-11 08:10:26,284 - INFO - Processed group 10, total frames: 734/734
+2024-09-11 08:10:26,286 - INFO - Adding audio to the output video...
+2024-09-11 08:10:39,560 - INFO - Video processing complete!

@@ -1,0 +1,654 @@
+2024-09-11 06:08:48,624 - INFO - Starting video processing for tmp/sample1.mp4
+2024-09-11 06:08:48,675 - INFO - Grouping frame 0/734
+2024-09-11 06:08:49,811 - INFO - Grouping frame 100/734
+2024-09-11 06:08:50,952 - INFO - Grouping frame 200/734
+2024-09-11 06:08:52,070 - INFO - Grouping frame 300/734
+2024-09-11 06:08:53,176 - INFO - Grouping frame 400/734
+2024-09-11 06:08:54,260 - INFO - Grouping frame 500/734
+2024-09-11 06:08:55,330 - INFO - Grouping frame 600/734
+2024-09-11 06:08:56,462 - INFO - Grouping frame 700/734
+2024-09-11 06:08:56,857 - INFO - Grouped frames into 10 groups
+2024-09-11 06:08:56,868 - INFO - Original video dimensions: 1440x1080
+2024-09-11 06:08:56,868 - INFO - Analyzing group 1 with 14 frames
+2024-09-11 06:08:56,868 - INFO - Original frame size: 1440x1080
+2024-09-11 06:08:56,869 - INFO - Resized frame for API: 512x384
+2024-09-11 06:08:58,442 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:08:58,442 - INFO - Detected 0 text blocks
+2024-09-11 06:08:58,442 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:08:58,442 - INFO - Original frame size: 1440x1080
+2024-09-11 06:08:58,443 - INFO - Resized frame for API: 512x384
+2024-09-11 06:08:59,699 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:08:59,699 - INFO - Detected 0 text blocks
+2024-09-11 06:08:59,699 - INFO - Analyzed frame 4/5 in group. Detected 0 text blocks.
+2024-09-11 06:08:59,699 - INFO - Original frame size: 1440x1080
+2024-09-11 06:08:59,700 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:01,890 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:01,890 - INFO - Detected 0 text blocks
+2024-09-11 06:09:01,891 - INFO - Analyzed frame 7/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:01,891 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:01,893 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:03,202 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:03,203 - INFO - Detected 0 text blocks
+2024-09-11 06:09:03,203 - INFO - Analyzed frame 10/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:03,204 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:03,205 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:04,764 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:04,764 - INFO - Detected 0 text blocks
+2024-09-11 06:09:04,764 - INFO - Analyzed frame 14/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:04,764 - INFO - Total averaged text blocks: 0
+2024-09-11 06:09:04,764 - INFO - No text detected in group 1
+2024-09-11 06:09:04,764 - INFO - Analyzing group 2 with 19 frames
+2024-09-11 06:09:04,764 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:04,765 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:07,520 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:07,521 - INFO - Detected 0 text blocks
+2024-09-11 06:09:07,521 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:07,521 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:07,523 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:08,943 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:08,943 - INFO - Detected 0 text blocks
+2024-09-11 06:09:08,943 - INFO - Analyzed frame 5/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:08,943 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:08,944 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:10,808 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:10,809 - INFO - Detected 0 text blocks
+2024-09-11 06:09:10,809 - INFO - Analyzed frame 10/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:10,809 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:10,810 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:12,169 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:12,170 - INFO - Detected 0 text blocks
+2024-09-11 06:09:12,170 - INFO - Analyzed frame 14/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:12,170 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:12,171 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:13,464 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:13,464 - INFO - Detected 0 text blocks
+2024-09-11 06:09:13,464 - INFO - Analyzed frame 19/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:13,464 - INFO - Total averaged text blocks: 0
+2024-09-11 06:09:13,464 - INFO - No text detected in group 2
+2024-09-11 06:09:13,464 - INFO - Analyzing group 3 with 24 frames
+2024-09-11 06:09:13,465 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:13,465 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:15,532 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:15,532 - INFO - Detected 0 text blocks
+2024-09-11 06:09:15,532 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:15,533 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:15,533 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:17,332 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:17,333 - INFO - Detected 0 text blocks
+2024-09-11 06:09:17,333 - INFO - Analyzed frame 6/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:17,333 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:17,333 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:18,698 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:18,698 - INFO - Detected 0 text blocks
+2024-09-11 06:09:18,698 - INFO - Analyzed frame 12/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:18,698 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:18,699 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:19,803 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:19,803 - INFO - Detected 0 text blocks
+2024-09-11 06:09:19,803 - INFO - Analyzed frame 18/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:19,803 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:19,804 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:21,341 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:21,341 - INFO - Detected 0 text blocks
+2024-09-11 06:09:21,341 - INFO - Analyzed frame 24/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:21,341 - INFO - Total averaged text blocks: 0
+2024-09-11 06:09:21,341 - INFO - No text detected in group 3
+2024-09-11 06:09:21,341 - INFO - Analyzing group 4 with 20 frames
+2024-09-11 06:09:21,341 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:21,342 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:22,410 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:22,410 - INFO - Detected 0 text blocks
+2024-09-11 06:09:22,411 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:22,411 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:22,411 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:23,808 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:23,808 - INFO - Detected 0 text blocks
+2024-09-11 06:09:23,808 - INFO - Analyzed frame 5/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:23,808 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:23,809 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:25,542 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:25,542 - INFO - Detected 0 text blocks
+2024-09-11 06:09:25,542 - INFO - Analyzed frame 10/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:25,543 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:25,543 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:26,852 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:26,852 - INFO - Detected 0 text blocks
+2024-09-11 06:09:26,853 - INFO - Analyzed frame 15/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:26,853 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:26,853 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:28,049 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:28,049 - INFO - Detected 0 text blocks
+2024-09-11 06:09:28,049 - INFO - Analyzed frame 20/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:28,049 - INFO - Total averaged text blocks: 0
+2024-09-11 06:09:28,049 - INFO - No text detected in group 4
+2024-09-11 06:09:28,049 - INFO - Analyzing group 5 with 15 frames
+2024-09-11 06:09:28,050 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:28,050 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:29,454 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:29,454 - INFO - Detected 0 text blocks
+2024-09-11 06:09:29,455 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:29,455 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:29,455 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:30,972 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:30,972 - INFO - Detected 0 text blocks
+2024-09-11 06:09:30,972 - INFO - Analyzed frame 4/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:30,973 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:30,973 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:32,761 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:32,761 - INFO - Detected 0 text blocks
+2024-09-11 06:09:32,762 - INFO - Analyzed frame 8/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:32,762 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:32,762 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:33,903 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:33,903 - INFO - Detected 0 text blocks
+2024-09-11 06:09:33,904 - INFO - Analyzed frame 11/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:33,904 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:33,904 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:35,269 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:35,269 - INFO - Detected 0 text blocks
+2024-09-11 06:09:35,269 - INFO - Analyzed frame 15/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:35,269 - INFO - Total averaged text blocks: 0
+2024-09-11 06:09:35,269 - INFO - No text detected in group 5
+2024-09-11 06:09:35,269 - INFO - Analyzing group 6 with 28 frames
+2024-09-11 06:09:35,270 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:35,270 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:36,863 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:36,864 - INFO - Detected 0 text blocks
+2024-09-11 06:09:36,864 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:36,864 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:36,865 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:38,679 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:38,679 - INFO - Detected 0 text blocks
+2024-09-11 06:09:38,680 - INFO - Analyzed frame 7/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:38,680 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:38,680 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:40,189 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:40,190 - INFO - Detected 0 text blocks
+2024-09-11 06:09:40,190 - INFO - Analyzed frame 14/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:40,190 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:40,191 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:41,848 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:41,848 - INFO - Detected 0 text blocks
+2024-09-11 06:09:41,848 - INFO - Analyzed frame 21/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:41,848 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:41,849 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:43,912 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:43,912 - INFO - Detected 0 text blocks
+2024-09-11 06:09:43,912 - INFO - Analyzed frame 28/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:43,912 - INFO - Total averaged text blocks: 0
+2024-09-11 06:09:43,912 - INFO - No text detected in group 6
+2024-09-11 06:09:43,912 - INFO - Analyzing group 7 with 45 frames
+2024-09-11 06:09:43,913 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:43,913 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:46,358 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:46,358 - INFO - Detected 0 text blocks
+2024-09-11 06:09:46,358 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:46,358 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:46,359 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:49,827 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:49,828 - INFO - Detected 0 text blocks
+2024-09-11 06:09:49,828 - INFO - Analyzed frame 12/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:49,828 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:49,828 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:51,650 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:51,650 - INFO - Detected 0 text blocks
+2024-09-11 06:09:51,650 - INFO - Analyzed frame 23/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:51,650 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:51,651 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:53,014 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:53,014 - INFO - Detected 0 text blocks
+2024-09-11 06:09:53,015 - INFO - Analyzed frame 34/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:53,015 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:53,016 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:55,591 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:55,592 - INFO - Detected 0 text blocks
+2024-09-11 06:09:55,592 - INFO - Analyzed frame 45/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:55,593 - INFO - Total averaged text blocks: 0
+2024-09-11 06:09:55,593 - INFO - No text detected in group 7
+2024-09-11 06:09:55,593 - INFO - Analyzing group 8 with 8 frames
+2024-09-11 06:09:55,593 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:55,594 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:56,798 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:56,799 - INFO - Detected 0 text blocks
+2024-09-11 06:09:56,800 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:56,800 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:56,801 - INFO - Resized frame for API: 512x384
+2024-09-11 06:09:59,274 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:09:59,275 - INFO - Detected 0 text blocks
+2024-09-11 06:09:59,276 - INFO - Analyzed frame 2/5 in group. Detected 0 text blocks.
+2024-09-11 06:09:59,276 - INFO - Original frame size: 1440x1080
+2024-09-11 06:09:59,278 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:00,485 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:10:00,486 - INFO - Detected 0 text blocks
+2024-09-11 06:10:00,486 - INFO - Analyzed frame 4/5 in group. Detected 0 text blocks.
+2024-09-11 06:10:00,487 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:00,488 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:02,031 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:10:02,031 - INFO - Detected 0 text blocks
+2024-09-11 06:10:02,031 - INFO - Analyzed frame 6/5 in group. Detected 0 text blocks.
+2024-09-11 06:10:02,031 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:02,032 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:03,518 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:10:03,519 - INFO - Detected 0 text blocks
+2024-09-11 06:10:03,519 - INFO - Analyzed frame 8/5 in group. Detected 0 text blocks.
+2024-09-11 06:10:03,519 - INFO - Total averaged text blocks: 0
+2024-09-11 06:10:03,520 - INFO - No text detected in group 8
+2024-09-11 06:10:03,520 - INFO - Analyzing group 9 with 305 frames
+2024-09-11 06:10:03,520 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:03,522 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:12,370 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "position": {
+        "x": 36,
+        "y": 215,
+        "width": 440,
+        "height": 20
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 54,
+        "y": 240,
+        "width": 400,
+        "height": 20
+      }
+    }
+  ]
+}
+2024-09-11 06:10:12,371 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=36, y=215, w=440, h=20]
+2024-09-11 06:10:12,371 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=54, y=240, w=400, h=20]
+2024-09-11 06:10:12,372 - INFO - Detected 2 text blocks
+2024-09-11 06:10:12,372 - INFO - Analyzed frame 1/5 in group. Detected 2 text blocks.
+2024-09-11 06:10:12,372 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:12,374 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:22,142 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "position": {
+        "x": 72,
+        "y": 190,
+        "width": 387,
+        "height": 15
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 80,
+        "y": 210,
+        "width": 365,
+        "height": 15
+      }
+    }
+  ]
+}
+2024-09-11 06:10:22,143 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=72, y=190, w=387, h=15]
+2024-09-11 06:10:22,143 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=80, y=210, w=365, h=15]
+2024-09-11 06:10:22,143 - INFO - Detected 2 text blocks
+2024-09-11 06:10:22,143 - INFO - Analyzed frame 77/5 in group. Detected 2 text blocks.
+2024-09-11 06:10:22,143 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:22,145 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:29,050 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "position": {
+        "x": 20,
+        "y": 200,
+        "width": 450,
+        "height": 15
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 20,
+        "y": 220,
+        "width": 450,
+        "height": 15
+      }
+    }
+  ]
+}
+2024-09-11 06:10:29,050 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=20, y=200, w=450, h=15]
+2024-09-11 06:10:29,051 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=20, y=220, w=450, h=15]
+2024-09-11 06:10:29,051 - INFO - Detected 2 text blocks
+2024-09-11 06:10:29,051 - INFO - Analyzed frame 153/5 in group. Detected 2 text blocks.
+2024-09-11 06:10:29,051 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:29,052 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:32,061 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time. The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 30,
+        "y": 240,
+        "width": 460,
+        "height": 60
+      }
+    }
+  ]
+}
+2024-09-11 06:10:32,061 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time. The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=30, y=240, w=460, h=60]
+2024-09-11 06:10:32,061 - INFO - Detected 1 text blocks
+2024-09-11 06:10:32,062 - INFO - Analyzed frame 229/5 in group. Detected 1 text blocks.
+2024-09-11 06:10:32,062 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:32,062 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:35,135 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It\u2019s time. The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 80,
+        "y": 220,
+        "width": 360,
+        "height": 40
+      }
+    }
+  ]
+}
+2024-09-11 06:10:35,135 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It’s time. The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=80, y=220, w=360, h=40]
+2024-09-11 06:10:35,135 - INFO - Detected 1 text blocks
+2024-09-11 06:10:35,135 - INFO - Analyzed frame 305/5 in group. Detected 1 text blocks.
+2024-09-11 06:10:35,135 - INFO - Total averaged text blocks: 0
+2024-09-11 06:10:35,135 - INFO - No text detected in group 9
+2024-09-11 06:10:35,135 - INFO - Analyzing group 10 with 256 frames
+2024-09-11 06:10:35,136 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:35,136 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:40,181 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "position": {
+        "x": 15,
+        "y": 190,
+        "width": 380,
+        "height": 22
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "position": {
+        "x": 15,
+        "y": 213,
+        "width": 380,
+        "height": 22
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "position": {
+        "x": 15,
+        "y": 236,
+        "width": 380,
+        "height": 22
+      }
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "position": {
+        "x": 15,
+        "y": 259,
+        "width": 380,
+        "height": 22
+      }
+    }
+  ]
+}
+2024-09-11 06:10:40,181 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=15, y=190, w=380, h=22]
+2024-09-11 06:10:40,181 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=15, y=213, w=380, h=22]
+2024-09-11 06:10:40,181 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=15, y=236, w=380, h=22]
+2024-09-11 06:10:40,181 - INFO - Text block 4: Content: 'One step. . . then another. You were never meant to stay.', API position: [x=15, y=259, w=380, h=22]
+2024-09-11 06:10:40,181 - INFO - Detected 4 text blocks
+2024-09-11 06:10:40,181 - INFO - Analyzed frame 1/5 in group. Detected 4 text blocks.
+2024-09-11 06:10:40,181 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:40,182 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:45,445 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "position": {
+        "x": 35,
+        "y": 70,
+        "width": 445,
+        "height": 15
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "position": {
+        "x": 40,
+        "y": 85,
+        "width": 440,
+        "height": 15
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "position": {
+        "x": 120,
+        "y": 100,
+        "width": 300,
+        "height": 15
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "position": {
+        "x": 115,
+        "y": 130,
+        "width": 320,
+        "height": 15
+      }
+    }
+  ]
+}
+2024-09-11 06:10:45,446 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=35, y=70, w=445, h=15]
+2024-09-11 06:10:45,446 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=40, y=85, w=440, h=15]
+2024-09-11 06:10:45,446 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=120, y=100, w=300, h=15]
+2024-09-11 06:10:45,446 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=115, y=130, w=320, h=15]
+2024-09-11 06:10:45,446 - INFO - Detected 4 text blocks
+2024-09-11 06:10:45,446 - INFO - Analyzed frame 64/5 in group. Detected 4 text blocks.
+2024-09-11 06:10:45,446 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:45,446 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:49,139 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride. The forces that will carry you further than your patience ever could.",
+      "position": {
+        "x": 40,
+        "y": 180,
+        "width": 432,
+        "height": 80
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "position": {
+        "x": 80,
+        "y": 260,
+        "width": 320,
+        "height": 40
+      }
+    }
+  ]
+}
+2024-09-11 06:10:49,139 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride. The forces that will carry you further than your patience ever could.', API position: [x=40, y=180, w=432, h=80]
+2024-09-11 06:10:49,139 - INFO - Text block 2: Content: 'One step... then another. You were never meant to stay.', API position: [x=80, y=260, w=320, h=40]
+2024-09-11 06:10:49,139 - INFO - Detected 2 text blocks
+2024-09-11 06:10:49,139 - INFO - Analyzed frame 128/5 in group. Detected 2 text blocks.
+2024-09-11 06:10:49,140 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:49,140 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:54,900 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not enemies.",
+      "position": {
+        "x": 50,
+        "y": 100,
+        "width": 400,
+        "height": 15
+      }
+    },
+    {
+      "content": "They are the forces you must ride. The forces that will carry you further than",
+      "position": {
+        "x": 50,
+        "y": 120,
+        "width": 400,
+        "height": 15
+      }
+    },
+    {
+      "content": "your patience ever could.",
+      "position": {
+        "x": 50,
+        "y": 140,
+        "width": 400,
+        "height": 15
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "position": {
+        "x": 50,
+        "y": 170,
+        "width": 400,
+        "height": 15
+      }
+    }
+  ]
+}
+2024-09-11 06:10:54,900 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not enemies.', API position: [x=50, y=100, w=400, h=15]
+2024-09-11 06:10:54,900 - INFO - Text block 2: Content: 'They are the forces you must ride. The forces that will carry you further than', API position: [x=50, y=120, w=400, h=15]
+2024-09-11 06:10:54,900 - INFO - Text block 3: Content: 'your patience ever could.', API position: [x=50, y=140, w=400, h=15]
+2024-09-11 06:10:54,901 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=50, y=170, w=400, h=15]
+2024-09-11 06:10:54,901 - INFO - Detected 4 text blocks
+2024-09-11 06:10:54,901 - INFO - Analyzed frame 192/5 in group. Detected 4 text blocks.
+2024-09-11 06:10:54,901 - INFO - Original frame size: 1440x1080
+2024-09-11 06:10:54,902 - INFO - Resized frame for API: 512x384
+2024-09-11 06:10:58,877 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride. The forces that will carry you further than your patience ever could.",
+      "position": {
+        "x": 40,
+        "y": 150,
+        "width": 450,
+        "height": 60
+      }
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "position": {
+        "x": 100,
+        "y": 230,
+        "width": 350,
+        "height": 30
+      }
+    }
+  ]
+}
+2024-09-11 06:10:58,877 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride. The forces that will carry you further than your patience ever could.', API position: [x=40, y=150, w=450, h=60]
+2024-09-11 06:10:58,877 - INFO - Text block 2: Content: 'One step. . . then another. You were never meant to stay.', API position: [x=100, y=230, w=350, h=30]
+2024-09-11 06:10:58,877 - INFO - Detected 2 text blocks
+2024-09-11 06:10:58,878 - INFO - Analyzed frame 256/5 in group. Detected 2 text blocks.
+2024-09-11 06:10:58,878 - INFO - Total averaged text blocks: 0
+2024-09-11 06:10:58,878 - INFO - No text detected in group 10
+2024-09-11 06:10:58,878 - INFO - Creating output video...
+2024-09-11 06:10:59,046 - INFO - Processed group 1, total frames: 14/734
+2024-09-11 06:10:59,223 - INFO - Processed group 2, total frames: 33/734
+2024-09-11 06:10:59,435 - INFO - Processed group 3, total frames: 57/734
+2024-09-11 06:10:59,613 - INFO - Processed group 4, total frames: 77/734
+2024-09-11 06:10:59,757 - INFO - Processed group 5, total frames: 92/734
+2024-09-11 06:10:59,999 - INFO - Processed group 6, total frames: 120/734
+2024-09-11 06:11:00,474 - INFO - Processed group 7, total frames: 165/734
+2024-09-11 06:11:00,542 - INFO - Processed group 8, total frames: 173/734
+2024-09-11 06:11:03,253 - INFO - Processed group 9, total frames: 478/734
+2024-09-11 06:11:05,391 - INFO - Processed group 10, total frames: 734/734
+2024-09-11 06:11:05,392 - INFO - Adding audio to the output video...
+2024-09-11 06:11:18,308 - INFO - Video processing complete!

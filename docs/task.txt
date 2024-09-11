@@ -1,0 +1,17 @@
+create a video frame translation service:
+
+we have video at tmp/sample1.mp4
+also we have openai api key in environment variable OPENAI_API_KEY
+use gpt-4o model for image description and translation
+
+It let's you upload a video, parses it every 30 frames, passes frames to openai, anylize each frame and detect changes.
+Combine frames that are same to understand how we can cut the clip.
+Locate frames with text.
+Transcribe text
+Create new frames looking same but fill them with Russian translation of the text (use openai for translation), ensure that you scale fonts and check if the phrases will fit the shots.
+Change original frames with text to frames with Russian text
+Keep other frames unchanged, ensure music/soundtrack keeps going on the new frames (copy from old frames)
+
+log all the steps to the console, show progress
+
+wrinte new video to tmp/sample1_russian.mp4

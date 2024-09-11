@@ -1,0 +1,880 @@
+2024-09-11 11:22:50,785 - INFO - Starting video processing for tmp/sample1.mp4
+2024-09-11 11:22:50,838 - INFO - Grouping frame 0/734
+2024-09-11 11:22:51,902 - INFO - Grouping frame 100/734
+2024-09-11 11:22:53,040 - INFO - Grouping frame 200/734
+2024-09-11 11:22:54,143 - INFO - Grouping frame 300/734
+2024-09-11 11:22:55,312 - INFO - Grouping frame 400/734
+2024-09-11 11:22:56,444 - INFO - Grouping frame 500/734
+2024-09-11 11:22:57,527 - INFO - Grouping frame 600/734
+2024-09-11 11:22:58,680 - INFO - Grouping frame 700/734
+2024-09-11 11:22:59,041 - INFO - Grouped frames into 10 groups
+2024-09-11 11:22:59,054 - INFO - Original video dimensions: 1440x1080
+2024-09-11 11:22:59,054 - INFO - Analyzing group 1 with 14 frames
+2024-09-11 11:22:59,055 - INFO - Original frame size: 1440x1080
+2024-09-11 11:22:59,055 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:00,404 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:00,404 - INFO - Detected 0 text blocks
+2024-09-11 11:23:00,404 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:00,405 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:00,405 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:01,533 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:01,533 - INFO - Detected 0 text blocks
+2024-09-11 11:23:01,533 - INFO - Analyzed frame 4/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:01,533 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:01,534 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:03,861 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:03,861 - INFO - Detected 0 text blocks
+2024-09-11 11:23:03,861 - INFO - Analyzed frame 7/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:03,862 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:03,862 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:05,600 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:05,600 - INFO - Detected 0 text blocks
+2024-09-11 11:23:05,600 - INFO - Analyzed frame 10/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:05,600 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:05,601 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:07,354 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:07,355 - INFO - Detected 0 text blocks
+2024-09-11 11:23:07,355 - INFO - Analyzed frame 14/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:07,355 - INFO - Total averaged text blocks: 0
+2024-09-11 11:23:07,355 - INFO - No text detected in group 1
+2024-09-11 11:23:07,355 - INFO - Analyzing group 2 with 19 frames
+2024-09-11 11:23:07,355 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:07,356 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:09,641 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:09,641 - INFO - Detected 0 text blocks
+2024-09-11 11:23:09,641 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:09,642 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:09,642 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:10,840 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:10,840 - INFO - Detected 0 text blocks
+2024-09-11 11:23:10,841 - INFO - Analyzed frame 5/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:10,841 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:10,842 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:12,824 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:12,825 - INFO - Detected 0 text blocks
+2024-09-11 11:23:12,825 - INFO - Analyzed frame 10/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:12,826 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:12,826 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:14,622 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:14,623 - INFO - Detected 0 text blocks
+2024-09-11 11:23:14,623 - INFO - Analyzed frame 14/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:14,624 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:14,625 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:15,992 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:15,992 - INFO - Detected 0 text blocks
+2024-09-11 11:23:15,993 - INFO - Analyzed frame 19/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:15,993 - INFO - Total averaged text blocks: 0
+2024-09-11 11:23:15,993 - INFO - No text detected in group 2
+2024-09-11 11:23:15,994 - INFO - Analyzing group 3 with 24 frames
+2024-09-11 11:23:15,994 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:15,995 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:17,492 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:17,493 - INFO - Detected 0 text blocks
+2024-09-11 11:23:17,493 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:17,493 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:17,494 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:18,880 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:18,881 - INFO - Detected 0 text blocks
+2024-09-11 11:23:18,881 - INFO - Analyzed frame 6/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:18,881 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:18,882 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:20,009 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:20,010 - INFO - Detected 0 text blocks
+2024-09-11 11:23:20,010 - INFO - Analyzed frame 12/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:20,010 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:20,011 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:21,941 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:21,941 - INFO - Detected 0 text blocks
+2024-09-11 11:23:21,942 - INFO - Analyzed frame 18/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:21,942 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:21,942 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:23,409 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:23,409 - INFO - Detected 0 text blocks
+2024-09-11 11:23:23,410 - INFO - Analyzed frame 24/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:23,410 - INFO - Total averaged text blocks: 0
+2024-09-11 11:23:23,410 - INFO - No text detected in group 3
+2024-09-11 11:23:23,411 - INFO - Analyzing group 4 with 20 frames
+2024-09-11 11:23:23,411 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:23,412 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:24,576 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:24,576 - INFO - Detected 0 text blocks
+2024-09-11 11:23:24,577 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:24,577 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:24,578 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:25,814 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:25,814 - INFO - Detected 0 text blocks
+2024-09-11 11:23:25,815 - INFO - Analyzed frame 5/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:25,815 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:25,816 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:28,253 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:28,253 - INFO - Detected 0 text blocks
+2024-09-11 11:23:28,253 - INFO - Analyzed frame 10/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:28,253 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:28,254 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:30,525 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:30,526 - INFO - Detected 0 text blocks
+2024-09-11 11:23:30,526 - INFO - Analyzed frame 15/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:30,526 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:30,527 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:31,880 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:31,881 - INFO - Detected 0 text blocks
+2024-09-11 11:23:31,881 - INFO - Analyzed frame 20/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:31,881 - INFO - Total averaged text blocks: 0
+2024-09-11 11:23:31,881 - INFO - No text detected in group 4
+2024-09-11 11:23:31,881 - INFO - Analyzing group 5 with 15 frames
+2024-09-11 11:23:31,881 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:31,882 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:33,348 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:33,348 - INFO - Detected 0 text blocks
+2024-09-11 11:23:33,348 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:33,349 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:33,350 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:35,762 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:35,763 - INFO - Detected 0 text blocks
+2024-09-11 11:23:35,763 - INFO - Analyzed frame 4/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:35,764 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:35,764 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:37,591 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:37,591 - INFO - Detected 0 text blocks
+2024-09-11 11:23:37,591 - INFO - Analyzed frame 8/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:37,591 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:37,592 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:38,863 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:38,863 - INFO - Detected 0 text blocks
+2024-09-11 11:23:38,863 - INFO - Analyzed frame 11/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:38,863 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:38,864 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:40,581 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:40,581 - INFO - Detected 0 text blocks
+2024-09-11 11:23:40,581 - INFO - Analyzed frame 15/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:40,582 - INFO - Total averaged text blocks: 0
+2024-09-11 11:23:40,582 - INFO - No text detected in group 5
+2024-09-11 11:23:40,582 - INFO - Analyzing group 6 with 28 frames
+2024-09-11 11:23:40,582 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:40,583 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:47,059 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:47,059 - INFO - Detected 0 text blocks
+2024-09-11 11:23:47,060 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:47,060 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:47,060 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:48,197 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:48,197 - INFO - Detected 0 text blocks
+2024-09-11 11:23:48,198 - INFO - Analyzed frame 7/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:48,198 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:48,199 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:49,573 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:49,573 - INFO - Detected 0 text blocks
+2024-09-11 11:23:49,574 - INFO - Analyzed frame 14/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:49,574 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:49,574 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:50,917 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:50,917 - INFO - Detected 0 text blocks
+2024-09-11 11:23:50,917 - INFO - Analyzed frame 21/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:50,917 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:50,918 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:52,172 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:52,173 - INFO - Detected 0 text blocks
+2024-09-11 11:23:52,173 - INFO - Analyzed frame 28/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:52,173 - INFO - Total averaged text blocks: 0
+2024-09-11 11:23:52,173 - INFO - No text detected in group 6
+2024-09-11 11:23:52,173 - INFO - Analyzing group 7 with 45 frames
+2024-09-11 11:23:52,173 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:52,174 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:53,832 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:53,832 - INFO - Detected 0 text blocks
+2024-09-11 11:23:53,832 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:53,832 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:53,833 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:56,539 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:56,540 - INFO - Detected 0 text blocks
+2024-09-11 11:23:56,540 - INFO - Analyzed frame 12/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:56,540 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:56,541 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:57,796 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:57,796 - INFO - Detected 0 text blocks
+2024-09-11 11:23:57,796 - INFO - Analyzed frame 23/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:57,796 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:57,797 - INFO - Resized frame for API: 512x384
+2024-09-11 11:23:59,157 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:23:59,158 - INFO - Detected 0 text blocks
+2024-09-11 11:23:59,158 - INFO - Analyzed frame 34/5 in group. Detected 0 text blocks.
+2024-09-11 11:23:59,158 - INFO - Original frame size: 1440x1080
+2024-09-11 11:23:59,159 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:00,812 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:24:00,812 - INFO - Detected 0 text blocks
+2024-09-11 11:24:00,812 - INFO - Analyzed frame 45/5 in group. Detected 0 text blocks.
+2024-09-11 11:24:00,812 - INFO - Total averaged text blocks: 0
+2024-09-11 11:24:00,813 - INFO - No text detected in group 7
+2024-09-11 11:24:00,813 - INFO - Analyzing group 8 with 8 frames
+2024-09-11 11:24:00,813 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:00,814 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:02,064 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:24:02,065 - INFO - Detected 0 text blocks
+2024-09-11 11:24:02,065 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 11:24:02,066 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:02,067 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:03,722 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:24:03,722 - INFO - Detected 0 text blocks
+2024-09-11 11:24:03,722 - INFO - Analyzed frame 2/5 in group. Detected 0 text blocks.
+2024-09-11 11:24:03,723 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:03,724 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:05,360 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:24:05,361 - INFO - Detected 0 text blocks
+2024-09-11 11:24:05,361 - INFO - Analyzed frame 4/5 in group. Detected 0 text blocks.
+2024-09-11 11:24:05,361 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:05,362 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:06,806 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:24:06,806 - INFO - Detected 0 text blocks
+2024-09-11 11:24:06,807 - INFO - Analyzed frame 6/5 in group. Detected 0 text blocks.
+2024-09-11 11:24:06,807 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:06,808 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:08,016 - INFO - GPT Analysis: {
+  "text_lines": []
+}
+2024-09-11 11:24:08,016 - INFO - Detected 0 text blocks
+2024-09-11 11:24:08,016 - INFO - Analyzed frame 8/5 in group. Detected 0 text blocks.
+2024-09-11 11:24:08,017 - INFO - Total averaged text blocks: 0
+2024-09-11 11:24:08,017 - INFO - No text detected in group 8
+2024-09-11 11:24:08,017 - INFO - Analyzing group 9 with 305 frames
+2024-09-11 11:24:08,017 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:08,018 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:12,838 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left_corner": {
+        "x": 40,
+        "y": 200
+      },
+      "bottom_right_corner": {
+        "x": 475,
+        "y": 230
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left_corner": {
+        "x": 40,
+        "y": 240
+      },
+      "bottom_right_corner": {
+        "x": 450,
+        "y": 270
+      }
+    }
+  ]
+}
+2024-09-11 11:24:12,838 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=40, y=200, w=435, h=30]
+2024-09-11 11:24:12,838 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=40, y=240, w=410, h=30]
+2024-09-11 11:24:12,838 - INFO - Detected 2 text blocks
+2024-09-11 11:24:12,838 - INFO - Analyzed frame 1/5 in group. Detected 2 text blocks.
+2024-09-11 11:24:12,839 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:12,839 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:16,958 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left_corner": {
+        "x": 25,
+        "y": 170
+      },
+      "bottom_right_corner": {
+        "x": 480,
+        "y": 195
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left_corner": {
+        "x": 60,
+        "y": 210
+      },
+      "bottom_right_corner": {
+        "x": 455,
+        "y": 235
+      }
+    }
+  ]
+}
+2024-09-11 11:24:16,958 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=25, y=170, w=455, h=25]
+2024-09-11 11:24:16,958 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=60, y=210, w=395, h=25]
+2024-09-11 11:24:16,958 - INFO - Detected 2 text blocks
+2024-09-11 11:24:16,958 - INFO - Analyzed frame 77/5 in group. Detected 2 text blocks.
+2024-09-11 11:24:16,959 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:16,959 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:21,362 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left_corner": {
+        "x": 12,
+        "y": 180
+      },
+      "bottom_right_corner": {
+        "x": 495,
+        "y": 210
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left_corner": {
+        "x": 60,
+        "y": 220
+      },
+      "bottom_right_corner": {
+        "x": 460,
+        "y": 245
+      }
+    }
+  ]
+}
+2024-09-11 11:24:21,362 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=12, y=180, w=483, h=30]
+2024-09-11 11:24:21,362 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=60, y=220, w=400, h=25]
+2024-09-11 11:24:21,362 - INFO - Detected 2 text blocks
+2024-09-11 11:24:21,362 - INFO - Analyzed frame 153/5 in group. Detected 2 text blocks.
+2024-09-11 11:24:21,363 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:21,363 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:26,780 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left_corner": {
+        "x": 34,
+        "y": 215
+      },
+      "bottom_right_corner": {
+        "x": 482,
+        "y": 237
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left_corner": {
+        "x": 45,
+        "y": 242
+      },
+      "bottom_right_corner": {
+        "x": 453,
+        "y": 264
+      }
+    }
+  ]
+}
+2024-09-11 11:24:26,780 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=34, y=215, w=448, h=22]
+2024-09-11 11:24:26,780 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=45, y=242, w=408, h=22]
+2024-09-11 11:24:26,780 - INFO - Detected 2 text blocks
+2024-09-11 11:24:26,781 - INFO - Analyzed frame 229/5 in group. Detected 2 text blocks.
+2024-09-11 11:24:26,781 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:26,781 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:31,516 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left_corner": {
+        "x": 48,
+        "y": 122
+      },
+      "bottom_right_corner": {
+        "x": 463,
+        "y": 142
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left_corner": {
+        "x": 97,
+        "y": 147
+      },
+      "bottom_right_corner": {
+        "x": 425,
+        "y": 165
+      }
+    }
+  ]
+}
+2024-09-11 11:24:31,517 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=48, y=122, w=415, h=20]
+2024-09-11 11:24:31,517 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=97, y=147, w=328, h=18]
+2024-09-11 11:24:31,517 - INFO - Detected 2 text blocks
+2024-09-11 11:24:31,517 - INFO - Analyzed frame 305/5 in group. Detected 2 text blocks.
+2024-09-11 11:24:31,517 - INFO - Averaged text block: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Position: x=31, y=177, w=447, h=25
+2024-09-11 11:24:31,517 - INFO - Averaged text block: 'The cave served its purpose, but now it threatens to swallow you whole.', Position: x=60, y=211, w=388, h=24
+2024-09-11 11:24:31,518 - INFO - Total averaged text blocks: 2
+2024-09-11 11:24:32,694 - INFO - Original text: You have lingered in stillness, but the pulse outside is growing louder. It's time. The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 11:24:32,694 - INFO - Translated text: Ты задержался в тишине, но пульс снаружи становится все громче. Пора. Пещера выполнила свое предназначение, но теперь она грозит поглотить тебя целиком.
+2024-09-11 11:24:33,988 - INFO - Group 9: Processed 2 text blocks
+2024-09-11 11:24:33,989 - INFO - Analyzing group 10 with 256 frames
+2024-09-11 11:24:33,989 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:33,990 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:43,406 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left_corner": {
+        "x": 50,
+        "y": 200
+      },
+      "bottom_right_corner": {
+        "x": 460,
+        "y": 230
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left_corner": {
+        "x": 50,
+        "y": 235
+      },
+      "bottom_right_corner": {
+        "x": 470,
+        "y": 265
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left_corner": {
+        "x": 50,
+        "y": 270
+      },
+      "bottom_right_corner": {
+        "x": 350,
+        "y": 300
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 100,
+        "y": 315
+      },
+      "bottom_right_corner": {
+        "x": 470,
+        "y": 345
+      }
+    }
+  ]
+}
+2024-09-11 11:24:43,406 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=50, y=200, w=410, h=30]
+2024-09-11 11:24:43,406 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=50, y=235, w=420, h=30]
+2024-09-11 11:24:43,406 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=50, y=270, w=300, h=30]
+2024-09-11 11:24:43,406 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=100, y=315, w=370, h=30]
+2024-09-11 11:24:43,406 - INFO - Detected 4 text blocks
+2024-09-11 11:24:43,407 - INFO - Analyzed frame 1/5 in group. Detected 4 text blocks.
+2024-09-11 11:24:43,407 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:43,408 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:52,332 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left_corner": {
+        "x": 30,
+        "y": 120
+      },
+      "bottom_right_corner": {
+        "x": 370,
+        "y": 140
+      }
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left_corner": {
+        "x": 38,
+        "y": 150
+      },
+      "bottom_right_corner": {
+        "x": 365,
+        "y": 170
+      }
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left_corner": {
+        "x": 28,
+        "y": 180
+      },
+      "bottom_right_corner": {
+        "x": 398,
+        "y": 200
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 65,
+        "y": 230
+      },
+      "bottom_right_corner": {
+        "x": 370,
+        "y": 250
+      }
+    }
+  ]
+}
+2024-09-11 11:24:52,332 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you.', API position: [x=30, y=120, w=340, h=20]
+2024-09-11 11:24:52,332 - INFO - Text block 2: Content: 'They are not enemies. They are the forces you must ride.', API position: [x=38, y=150, w=327, h=20]
+2024-09-11 11:24:52,332 - INFO - Text block 3: Content: 'The forces that will carry you further than your patience ever could.', API position: [x=28, y=180, w=370, h=20]
+2024-09-11 11:24:52,332 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=65, y=230, w=305, h=20]
+2024-09-11 11:24:52,332 - INFO - Detected 4 text blocks
+2024-09-11 11:24:52,333 - INFO - Analyzed frame 64/5 in group. Detected 4 text blocks.
+2024-09-11 11:24:52,333 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:52,334 - INFO - Resized frame for API: 512x384
+2024-09-11 11:24:57,513 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left_corner": {
+        "x": 38,
+        "y": 90
+      },
+      "bottom_right_corner": {
+        "x": 468,
+        "y": 130
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left_corner": {
+        "x": 45,
+        "y": 130
+      },
+      "bottom_right_corner": {
+        "x": 462,
+        "y": 160
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left_corner": {
+        "x": 135,
+        "y": 160
+      },
+      "bottom_right_corner": {
+        "x": 379,
+        "y": 190
+      }
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 105,
+        "y": 215
+      },
+      "bottom_right_corner": {
+        "x": 415,
+        "y": 245
+      }
+    }
+  ]
+}
+2024-09-11 11:24:57,514 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=38, y=90, w=430, h=40]
+2024-09-11 11:24:57,514 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=45, y=130, w=417, h=30]
+2024-09-11 11:24:57,514 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=135, y=160, w=244, h=30]
+2024-09-11 11:24:57,514 - INFO - Text block 4: Content: 'One step. . . then another. You were never meant to stay.', API position: [x=105, y=215, w=310, h=30]
+2024-09-11 11:24:57,514 - INFO - Detected 4 text blocks
+2024-09-11 11:24:57,514 - INFO - Analyzed frame 128/5 in group. Detected 4 text blocks.
+2024-09-11 11:24:57,514 - INFO - Original frame size: 1440x1080
+2024-09-11 11:24:57,515 - INFO - Resized frame for API: 512x384
+2024-09-11 11:25:07,659 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left_corner": {
+        "x": 25,
+        "y": 200
+      },
+      "bottom_right_corner": {
+        "x": 480,
+        "y": 220
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left_corner": {
+        "x": 40,
+        "y": 225
+      },
+      "bottom_right_corner": {
+        "x": 500,
+        "y": 245
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left_corner": {
+        "x": 120,
+        "y": 250
+      },
+      "bottom_right_corner": {
+        "x": 430,
+        "y": 270
+      }
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 100,
+        "y": 290
+      },
+      "bottom_right_corner": {
+        "x": 430,
+        "y": 310
+      }
+    }
+  ]
+}
+2024-09-11 11:25:07,659 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=25, y=200, w=455, h=20]
+2024-09-11 11:25:07,659 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=40, y=225, w=460, h=20]
+2024-09-11 11:25:07,659 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=120, y=250, w=310, h=20]
+2024-09-11 11:25:07,659 - INFO - Text block 4: Content: 'One step. . . then another. You were never meant to stay.', API position: [x=100, y=290, w=330, h=20]
+2024-09-11 11:25:07,659 - INFO - Detected 4 text blocks
+2024-09-11 11:25:07,659 - INFO - Analyzed frame 192/5 in group. Detected 4 text blocks.
+2024-09-11 11:25:07,660 - INFO - Original frame size: 1440x1080
+2024-09-11 11:25:07,660 - INFO - Resized frame for API: 512x384
+2024-09-11 11:25:16,426 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left_corner": {
+        "x": 35,
+        "y": 120
+      },
+      "bottom_right_corner": {
+        "x": 475,
+        "y": 150
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left_corner": {
+        "x": 35,
+        "y": 160
+      },
+      "bottom_right_corner": {
+        "x": 475,
+        "y": 190
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left_corner": {
+        "x": 35,
+        "y": 200
+      },
+      "bottom_right_corner": {
+        "x": 475,
+        "y": 230
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 35,
+        "y": 250
+      },
+      "bottom_right_corner": {
+        "x": 475,
+        "y": 280
+      }
+    }
+  ]
+}
+2024-09-11 11:25:16,427 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=35, y=120, w=440, h=30]
+2024-09-11 11:25:16,427 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=35, y=160, w=440, h=30]
+2024-09-11 11:25:16,427 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=35, y=200, w=440, h=30]
+2024-09-11 11:25:16,428 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=35, y=250, w=440, h=30]
+2024-09-11 11:25:16,428 - INFO - Detected 4 text blocks
+2024-09-11 11:25:16,428 - INFO - Analyzed frame 256/5 in group. Detected 4 text blocks.
+2024-09-11 11:25:16,429 - INFO - Averaged text block: 'Do not fear the light, nor the cold wind that greets you. They are not', Position: x=37, y=152, w=433, h=30
+2024-09-11 11:25:16,429 - INFO - Averaged text block: 'enemies. They are the forces you must ride. The forces that will carry you', Position: x=42, y=187, w=434, h=27
+2024-09-11 11:25:16,430 - INFO - Averaged text block: 'further than your patience ever could.', Position: x=85, y=220, w=323, h=27
+2024-09-11 11:25:16,430 - INFO - Averaged text block: 'One step... then another. You were never meant to stay.', Position: x=66, y=265, w=371, h=26
+2024-09-11 11:25:16,431 - INFO - Averaged text block: 'Do not fear the light, nor the cold wind that greets you.', Position: x=30, y=120, w=340, h=20
+2024-09-11 11:25:16,431 - INFO - Averaged text block: 'They are not enemies. They are the forces you must ride.', Position: x=38, y=150, w=327, h=20
+2024-09-11 11:25:16,431 - INFO - Averaged text block: 'The forces that will carry you further than your patience ever could.', Position: x=28, y=180, w=370, h=20
+2024-09-11 11:25:16,432 - INFO - Averaged text block: 'One step. . . then another. You were never meant to stay.', Position: x=102, y=252, w=320, h=25
+2024-09-11 11:25:16,432 - INFO - Total averaged text blocks: 8
+2024-09-11 11:25:19,309 - INFO - Original text: Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride. The forces that will carry you further than your patience ever could. One step... then another. You were never meant to stay. Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride. The forces that will carry you further than your patience ever could. One step. . . then another. You were never meant to stay.
+2024-09-11 11:25:19,309 - INFO - Translated text: Не бойся света и холодного ветра, что встречает тебя. Это не враги. Это силы, на которых тебе предстоит ехать. Силы, которые понесут тебя дальше, чем когда-либо сможет твое терпение. Шаг... затем еще один. Ты никогда не был предназначен оставаться. Не бойся света и холодного ветра, что встречает тебя. Это не враги. Это силы, на которых тебе предстоит ехать. Силы, которые понесут тебя дальше, чем когда-либо сможет твое терпение. Шаг... затем еще один. Ты никогда не был предназначен оставаться.
+2024-09-11 11:25:21,480 - INFO - Group 10: Processed 8 text blocks
+2024-09-11 11:25:21,481 - INFO - Creating output video...
+2024-09-11 11:25:21,494 - INFO - No translation for group 1
+2024-09-11 11:25:21,655 - INFO - Processed group 1, total frames: 14/734
+2024-09-11 11:25:21,655 - INFO - No translation for group 2
+2024-09-11 11:25:21,823 - INFO - Processed group 2, total frames: 33/734
+2024-09-11 11:25:21,823 - INFO - No translation for group 3
+2024-09-11 11:25:22,055 - INFO - Processed group 3, total frames: 57/734
+2024-09-11 11:25:22,056 - INFO - No translation for group 4
+2024-09-11 11:25:22,311 - INFO - Processed group 4, total frames: 77/734
+2024-09-11 11:25:22,312 - INFO - No translation for group 5
+2024-09-11 11:25:22,492 - INFO - Processed group 5, total frames: 92/734
+2024-09-11 11:25:22,493 - INFO - No translation for group 6
+2024-09-11 11:25:22,754 - INFO - Processed group 6, total frames: 120/734
+2024-09-11 11:25:22,755 - INFO - No translation for group 7
+2024-09-11 11:25:23,212 - INFO - Processed group 7, total frames: 165/734
+2024-09-11 11:25:23,213 - INFO - No translation for group 8
+2024-09-11 11:25:23,296 - INFO - Processed group 8, total frames: 173/734
+2024-09-11 11:25:23,299 - INFO - Frame size for translation: 1440x1080
+2024-09-11 11:25:23,441 - INFO - Text block before drawing:
+2024-09-11 11:25:23,441 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 11:25:23,441 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится все громче. Пора.
+2024-09-11 11:25:23,441 - INFO -   Position: x=0, y=469, w=1440, h=91
+2024-09-11 11:25:23,473 - INFO - Text block translation:
+2024-09-11 11:25:23,473 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 11:25:23,473 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится все громче. Пора.
+2024-09-11 11:25:23,474 - INFO -   Original position: x=0, y=469, w=1440, h=91
+2024-09-11 11:25:23,474 - INFO -   Translated text size: w=1181, h=30
+2024-09-11 11:25:23,474 - INFO -   Translated text position: x=129, y=499
+2024-09-11 11:25:23,474 - INFO - Text block before drawing:
+2024-09-11 11:25:23,474 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 11:25:23,474 - INFO -   Translated: Пещера выполнила свое предназначение, но теперь она грозит поглотить тебя целиком.
+2024-09-11 11:25:23,474 - INFO -   Position: x=5, y=566, w=1418, h=87
+2024-09-11 11:25:23,497 - INFO - Text block translation:
+2024-09-11 11:25:23,497 - INFO -   Original: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 11:25:23,498 - INFO -   Translated: Пещера выполнила свое предназначение, но теперь она грозит поглотить тебя целиком.
+2024-09-11 11:25:23,498 - INFO -   Original position: x=5, y=566, w=1418, h=87
+2024-09-11 11:25:23,498 - INFO -   Translated text size: w=1418, h=32
+2024-09-11 11:25:23,498 - INFO -   Translated text position: x=5, y=593
+2024-09-11 11:25:23,498 - INFO - Created translated frame for group 9
+2024-09-11 11:25:26,079 - INFO - Processed group 9, total frames: 478/734
+2024-09-11 11:25:26,081 - INFO - Frame size for translation: 1440x1080
+2024-09-11 11:25:26,301 - INFO - Text block before drawing:
+2024-09-11 11:25:26,301 - INFO -   Original: The forces that will carry you further than your patience ever could.
+2024-09-11 11:25:26,301 - INFO -   Translated: Не бойся света и холодного ветра, что встречает тебя.
+2024-09-11 11:25:26,301 - INFO -   Position: x=0, y=439, w=1440, h=109
+2024-09-11 11:25:26,322 - INFO - Text block translation:
+2024-09-11 11:25:26,322 - INFO -   Original: The forces that will carry you further than your patience ever could.
+2024-09-11 11:25:26,322 - INFO -   Translated: Не бойся света и холодного ветра, что встречает тебя.
+2024-09-11 11:25:26,322 - INFO -   Original position: x=0, y=439, w=1440, h=109
+2024-09-11 11:25:26,322 - INFO -   Translated text size: w=955, h=34
+2024-09-11 11:25:26,323 - INFO -   Translated text position: x=242, y=476
+2024-09-11 11:25:26,323 - INFO - Text block before drawing:
+2024-09-11 11:25:26,323 - INFO -   Original: One step. . . then another. You were never meant to stay.
+2024-09-11 11:25:26,323 - INFO -   Translated: Это не враги.
+2024-09-11 11:25:26,323 - INFO -   Position: x=75, y=587, w=1440, h=97
+2024-09-11 11:25:26,340 - INFO - Text block translation:
+2024-09-11 11:25:26,340 - INFO -   Original: One step. . . then another. You were never meant to stay.
+2024-09-11 11:25:26,340 - INFO -   Translated: Это не враги.
+2024-09-11 11:25:26,340 - INFO -   Original position: x=75, y=587, w=1440, h=97
+2024-09-11 11:25:26,341 - INFO -   Translated text size: w=229, h=32
+2024-09-11 11:25:26,341 - INFO -   Translated text position: x=680, y=619
+2024-09-11 11:25:26,341 - INFO - Text block before drawing:
+2024-09-11 11:25:26,341 - INFO -   Original: further than your patience ever could.
+2024-09-11 11:25:26,341 - INFO -   Translated: Это силы, на которых тебе предстоит ехать.
+2024-09-11 11:25:26,341 - INFO -   Position: x=103, y=588, w=1180, h=97
+2024-09-11 11:25:26,359 - INFO - Text block translation:
+2024-09-11 11:25:26,359 - INFO -   Original: further than your patience ever could.
+2024-09-11 11:25:26,359 - INFO -   Translated: Это силы, на которых тебе предстоит ехать.
+2024-09-11 11:25:26,359 - INFO -   Original position: x=103, y=588, w=1180, h=97
+2024-09-11 11:25:26,359 - INFO -   Translated text size: w=769, h=34
+2024-09-11 11:25:26,359 - INFO -   Translated text position: x=308, y=619
+2024-09-11 11:25:26,359 - INFO - Text block before drawing:
+2024-09-11 11:25:26,360 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 11:25:26,360 - INFO -   Translated: Силы, которые понесут тебя дальше, чем когда-либо сможет твое терпение.
+2024-09-11 11:25:26,360 - INFO -   Position: x=29, y=717, w=1355, h=94
+2024-09-11 11:25:26,379 - INFO - Text block translation:
+2024-09-11 11:25:26,379 - INFO -   Original: One step... then another. You were never meant to stay.
+2024-09-11 11:25:26,380 - INFO -   Translated: Силы, которые понесут тебя дальше, чем когда-либо сможет твое терпение.
+2024-09-11 11:25:26,380 - INFO -   Original position: x=29, y=717, w=1355, h=94
+2024-09-11 11:25:26,380 - INFO -   Translated text size: w=1336, h=34
+2024-09-11 11:25:26,380 - INFO -   Translated text position: x=38, y=747
+2024-09-11 11:25:26,380 - INFO - Text block before drawing:
+2024-09-11 11:25:26,380 - INFO -   Original: Do not fear the light, nor the cold wind that greets you.
+2024-09-11 11:25:26,380 - INFO -   Translated: Шаг... затем еще один.
+2024-09-11 11:25:26,380 - INFO -   Position: x=0, y=315, w=1242, h=72
+2024-09-11 11:25:26,394 - INFO - Text block translation:
+2024-09-11 11:25:26,394 - INFO -   Original: Do not fear the light, nor the cold wind that greets you.
+2024-09-11 11:25:26,394 - INFO -   Translated: Шаг... затем еще один.
+2024-09-11 11:25:26,394 - INFO -   Original position: x=0, y=315, w=1242, h=72
+2024-09-11 11:25:26,394 - INFO -   Translated text size: w=386, h=30
+2024-09-11 11:25:26,394 - INFO -   Translated text position: x=428, y=336
+2024-09-11 11:25:26,395 - INFO - Text block before drawing:
+2024-09-11 11:25:26,395 - INFO -   Original: They are not enemies. They are the forces you must ride.
+2024-09-11 11:25:26,395 - INFO -   Translated: Ты никогда не был предназначен оставаться.
+2024-09-11 11:25:26,395 - INFO -   Position: x=0, y=399, w=1194, h=72
+2024-09-11 11:25:26,412 - INFO - Text block translation:
+2024-09-11 11:25:26,412 - INFO -   Original: They are not enemies. They are the forces you must ride.
+2024-09-11 11:25:26,412 - INFO -   Translated: Ты никогда не был предназначен оставаться.
+2024-09-11 11:25:26,412 - INFO -   Original position: x=0, y=399, w=1194, h=72
+2024-09-11 11:25:26,412 - INFO -   Translated text size: w=796, h=34
+2024-09-11 11:25:26,412 - INFO -   Translated text position: x=199, y=418
+2024-09-11 11:25:26,414 - INFO - Created translated frame for group 10
+2024-09-11 11:25:28,537 - INFO - Processed group 10, total frames: 734/734
+2024-09-11 11:25:28,538 - INFO - Adding audio to the output video...
+2024-09-11 11:25:41,805 - INFO - Video processing complete!

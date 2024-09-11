@@ -1,0 +1,1961 @@
+2024-09-11 06:59:41,928 - INFO - Starting video processing for tmp/sample1.mp4
+2024-09-11 06:59:42,012 - INFO - Grouping frame 0/734
+2024-09-11 06:59:43,375 - INFO - Grouping frame 100/734
+2024-09-11 06:59:44,717 - INFO - Grouping frame 200/734
+2024-09-11 06:59:45,939 - INFO - Grouping frame 300/734
+2024-09-11 06:59:47,159 - INFO - Grouping frame 400/734
+2024-09-11 06:59:48,485 - INFO - Grouping frame 500/734
+2024-09-11 06:59:49,769 - INFO - Grouping frame 600/734
+2024-09-11 06:59:51,128 - INFO - Grouping frame 700/734
+2024-09-11 06:59:51,569 - INFO - Grouped frames into 10 groups
+2024-09-11 06:59:51,579 - INFO - Original video dimensions: 1440x1080
+2024-09-11 06:59:51,580 - INFO - Analyzing group 1 with 14 frames
+2024-09-11 06:59:51,580 - INFO - Original frame size: 1440x1080
+2024-09-11 06:59:51,580 - INFO - Resized frame for API: 512x384
+2024-09-11 06:59:52,960 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:59:52,961 - INFO - Detected 0 text blocks
+2024-09-11 06:59:52,961 - INFO - Initial analysis for group 1: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 06:59:52,961 - INFO - No text detected in group 1
+2024-09-11 06:59:52,961 - INFO - Analyzing group 2 with 19 frames
+2024-09-11 06:59:52,961 - INFO - Original frame size: 1440x1080
+2024-09-11 06:59:52,962 - INFO - Resized frame for API: 512x384
+2024-09-11 06:59:54,537 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:59:54,537 - INFO - Detected 0 text blocks
+2024-09-11 06:59:54,537 - INFO - Initial analysis for group 2: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 06:59:54,538 - INFO - No text detected in group 2
+2024-09-11 06:59:54,538 - INFO - Analyzing group 3 with 24 frames
+2024-09-11 06:59:54,538 - INFO - Original frame size: 1440x1080
+2024-09-11 06:59:54,538 - INFO - Resized frame for API: 512x384
+2024-09-11 06:59:57,068 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:59:57,068 - INFO - Detected 0 text blocks
+2024-09-11 06:59:57,068 - INFO - Initial analysis for group 3: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 06:59:57,068 - INFO - No text detected in group 3
+2024-09-11 06:59:57,069 - INFO - Analyzing group 4 with 20 frames
+2024-09-11 06:59:57,069 - INFO - Original frame size: 1440x1080
+2024-09-11 06:59:57,069 - INFO - Resized frame for API: 512x384
+2024-09-11 06:59:58,856 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:59:58,857 - INFO - Detected 0 text blocks
+2024-09-11 06:59:58,857 - INFO - Initial analysis for group 4: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 06:59:58,858 - INFO - No text detected in group 4
+2024-09-11 06:59:58,858 - INFO - Analyzing group 5 with 15 frames
+2024-09-11 06:59:58,858 - INFO - Original frame size: 1440x1080
+2024-09-11 06:59:58,859 - INFO - Resized frame for API: 512x384
+2024-09-11 07:00:00,620 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 07:00:00,621 - INFO - Detected 0 text blocks
+2024-09-11 07:00:00,621 - INFO - Initial analysis for group 5: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:00:00,622 - INFO - No text detected in group 5
+2024-09-11 07:00:00,622 - INFO - Analyzing group 6 with 28 frames
+2024-09-11 07:00:00,622 - INFO - Original frame size: 1440x1080
+2024-09-11 07:00:00,623 - INFO - Resized frame for API: 512x384
+2024-09-11 07:00:02,557 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 07:00:02,557 - INFO - Detected 0 text blocks
+2024-09-11 07:00:02,558 - INFO - Initial analysis for group 6: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:00:02,559 - INFO - No text detected in group 6
+2024-09-11 07:00:02,559 - INFO - Analyzing group 7 with 45 frames
+2024-09-11 07:00:02,560 - INFO - Original frame size: 1440x1080
+2024-09-11 07:00:02,561 - INFO - Resized frame for API: 512x384
+2024-09-11 07:00:04,138 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 07:00:04,138 - INFO - Detected 0 text blocks
+2024-09-11 07:00:04,139 - INFO - Initial analysis for group 7: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:00:04,139 - INFO - No text detected in group 7
+2024-09-11 07:00:04,139 - INFO - Analyzing group 8 with 8 frames
+2024-09-11 07:00:04,140 - INFO - Original frame size: 1440x1080
+2024-09-11 07:00:04,141 - INFO - Resized frame for API: 512x384
+2024-09-11 07:00:08,755 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 07:00:08,756 - INFO - Detected 0 text blocks
+2024-09-11 07:00:08,756 - INFO - Initial analysis for group 8: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:00:08,757 - INFO - No text detected in group 8
+2024-09-11 07:00:08,757 - INFO - Analyzing group 9 with 305 frames
+2024-09-11 07:00:08,757 - INFO - Original frame size: 1440x1080
+2024-09-11 07:00:08,758 - INFO - Resized frame for API: 512x384
+2024-09-11 07:00:14,661 - INFO - GPT Analysis: {
+  "textLines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "coordinates": {
+        "x": 24,
+        "y": 158
+      },
+      "dimensions": {
+        "width": 457,
+        "height": 14
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "coordinates": {
+        "x": 38,
+        "y": 175
+      },
+      "dimensions": {
+        "width": 409,
+        "height": 14
+      }
+    }
+  ]
+}
+2024-09-11 07:00:14,662 - INFO - Detected 0 text blocks
+2024-09-11 07:00:14,662 - INFO - Initial analysis for group 9: {
+  "text_blocks": [],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:00:14,663 - INFO - No text detected in group 9
+2024-09-11 07:00:14,663 - INFO - Analyzing group 10 with 256 frames
+2024-09-11 07:00:14,663 - INFO - Original frame size: 1440x1080
+2024-09-11 07:00:14,664 - INFO - Resized frame for API: 512x384
+2024-09-11 07:00:25,452 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "coordinates": {
+        "x": 44,
+        "y": 202
+      },
+      "dimensions": {
+        "width": 424,
+        "height": 16
+      }
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "coordinates": {
+        "x": 44,
+        "y": 222
+      },
+      "dimensions": {
+        "width": 403,
+        "height": 16
+      }
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "coordinates": {
+        "x": 44,
+        "y": 242
+      },
+      "dimensions": {
+        "width": 472,
+        "height": 16
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "coordinates": {
+        "x": 125,
+        "y": 282
+      },
+      "dimensions": {
+        "width": 347,
+        "height": 16
+      }
+    }
+  ]
+}
+2024-09-11 07:00:25,452 - INFO - Single text block: '[{'content': 'Do not fear the light, nor the cold wind that greets you.', 'coordinates': {'x': 44, 'y': 202}, 'dimensions': {'width': 424, 'height': 16}}, {'content': 'They are not enemies. They are the forces you must ride.', 'coordinates': {'x': 44, 'y': 222}, 'dimensions': {'width': 403, 'height': 16}}, {'content': 'The forces that will carry you further than your patience ever could.', 'coordinates': {'x': 44, 'y': 242}, 'dimensions': {'width': 472, 'height': 16}}, {'content': 'One step... then another. You were never meant to stay.', 'coordinates': {'x': 125, 'y': 282}, 'dimensions': {'width': 347, 'height': 16}}]'
+2024-09-11 07:00:25,453 - INFO - Detected 1 text blocks
+2024-09-11 07:00:25,453 - INFO - Initial analysis for group 10: {
+  "text_blocks": [
+    {
+      "text": [
+        {
+          "content": "Do not fear the light, nor the cold wind that greets you.",
+          "coordinates": {
+            "x": 44,
+            "y": 202
+          },
+          "dimensions": {
+            "width": 424,
+            "height": 16
+          }
+        },
+        {
+          "content": "They are not enemies. They are the forces you must ride.",
+          "coordinates": {
+            "x": 44,
+            "y": 222
+          },
+          "dimensions": {
+            "width": 403,
+            "height": 16
+          }
+        },
+        {
+          "content": "The forces that will carry you further than your patience ever could.",
+          "coordinates": {
+            "x": 44,
+            "y": 242
+          },
+          "dimensions": {
+            "width": 472,
+            "height": 16
+          }
+        },
+        {
+          "content": "One step... then another. You were never meant to stay.",
+          "coordinates": {
+            "x": 125,
+            "y": 282
+          },
+          "dimensions": {
+            "width": 347,
+            "height": 16
+          }
+        }
+      ],
+      "position": [
+        0,
+        0,
+        512,
+        384
+      ]
+    }
+  ],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:00:25,453 - INFO - Original frame size: 1440x1080
+2024-09-11 07:00:25,454 - INFO - Resized frame for API: 512x384
+2024-09-11 07:00:31,581 - INFO - GPT Analysis: {
+  "lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left_corner": [
+        30,
+        150
+      ],
+      "width": 450,
+      "height": 20
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left_corner": [
+        30,
+        170
+      ],
+      "width": 450,
+      "height": 20
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left_corner": [
+        30,
+        190
+      ],
+      "width": 470,
+      "height": 20
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left_corner": [
+        70,
+        230
+      ],
+      "width": 470,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 07:00:31,581 - ERROR - Error processing text block 1: 'list' object has no attribute 'get'
+2024-09-11 07:00:31,581 - ERROR - Error processing text block 2: 'list' object has no attribute 'get'
+2024-09-11 07:00:31,581 - ERROR - Error processing text block 3: 'list' object has no attribute 'get'
+2024-09-11 07:00:31,581 - ERROR - Error processing text block 4: 'list' object has no attribute 'get'
+2024-09-11 07:00:31,581 - INFO - Detected 0 text blocks
+2024-09-11 07:00:31,581 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 07:00:31,582 - INFO - Original frame size: 1440x1080
+2024-09-11 07:00:31,582 - INFO - Resized frame for API: 512x384
+2024-09-11 07:00:43,125 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "top_left_corner": {
+        "x": 40,
+        "y": 200
+      },
+      "width": 430,
+      "height": 20
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "top_left_corner": {
+        "x": 40,
+        "y": 220
+      },
+      "width": 420,
+      "height": 20
+    },
+    {
+      "content": "further than your patience ever could.",
+      "top_left_corner": {
+        "x": 40,
+        "y": 240
+      },
+      "width": 320,
+      "height": 20
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 40,
+        "y": 270
+      },
+      "width": 360,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 07:00:43,125 - INFO - Single text block: '[{'content': 'Do not fear the light, nor the cold wind that greets you. They are not', 'top_left_corner': {'x': 40, 'y': 200}, 'width': 430, 'height': 20}, {'content': 'enemies. They are the forces you must ride. The forces that will carry you', 'top_left_corner': {'x': 40, 'y': 220}, 'width': 420, 'height': 20}, {'content': 'further than your patience ever could.', 'top_left_corner': {'x': 40, 'y': 240}, 'width': 320, 'height': 20}, {'content': 'One step. . . then another. You were never meant to stay.', 'top_left_corner': {'x': 40, 'y': 270}, 'width': 360, 'height': 20}]'
+2024-09-11 07:00:43,125 - INFO - Detected 1 text blocks
+2024-09-11 07:00:43,126 - INFO - Analyzed frame 64/5 in group. Detected 1 text blocks.
+2024-09-11 07:00:43,126 - INFO - Original frame size: 1440x1080
+2024-09-11 07:00:43,127 - INFO - Resized frame for API: 512x384
+2024-09-11 07:00:51,673 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "coordinates": {
+        "top_left": {
+          "x": 60,
+          "y": 120
+        },
+        "width": 400,
+        "height": 20
+      }
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "coordinates": {
+        "top_left": {
+          "x": 60,
+          "y": 145
+        },
+        "width": 390,
+        "height": 20
+      }
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "coordinates": {
+        "top_left": {
+          "x": 60,
+          "y": 170
+        },
+        "width": 420,
+        "height": 20
+      }
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "coordinates": {
+        "top_left": {
+          "x": 105,
+          "y": 220
+        },
+        "width": 350,
+        "height": 20
+      }
+    }
+  ]
+}
+2024-09-11 07:00:51,674 - INFO - Single text block: '[{'content': 'Do not fear the light, nor the cold wind that greets you.', 'coordinates': {'top_left': {'x': 60, 'y': 120}, 'width': 400, 'height': 20}}, {'content': 'They are not enemies. They are the forces you must ride.', 'coordinates': {'top_left': {'x': 60, 'y': 145}, 'width': 390, 'height': 20}}, {'content': 'The forces that will carry you further than your patience ever could.', 'coordinates': {'top_left': {'x': 60, 'y': 170}, 'width': 420, 'height': 20}}, {'content': 'One step. . . then another. You were never meant to stay.', 'coordinates': {'top_left': {'x': 105, 'y': 220}, 'width': 350, 'height': 20}}]'
+2024-09-11 07:00:51,674 - INFO - Detected 1 text blocks
+2024-09-11 07:00:51,674 - INFO - Analyzed frame 128/5 in group. Detected 1 text blocks.
+2024-09-11 07:00:51,674 - INFO - Original frame size: 1440x1080
+2024-09-11 07:00:51,675 - INFO - Resized frame for API: 512x384
+2024-09-11 07:00:57,240 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "coordinates": {
+        "x": 20,
+        "y": 40
+      },
+      "width": 470,
+      "height": 20
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "coordinates": {
+        "x": 20,
+        "y": 60
+      },
+      "width": 470,
+      "height": 20
+    },
+    {
+      "content": "further than your patience ever could.",
+      "coordinates": {
+        "x": 20,
+        "y": 80
+      },
+      "width": 310,
+      "height": 20
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "coordinates": {
+        "x": 20,
+        "y": 120
+      },
+      "width": 400,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 07:00:57,240 - INFO - Single text block: '[{'content': 'Do not fear the light, nor the cold wind that greets you. They are not', 'coordinates': {'x': 20, 'y': 40}, 'width': 470, 'height': 20}, {'content': 'enemies. They are the forces you must ride. The forces that will carry you', 'coordinates': {'x': 20, 'y': 60}, 'width': 470, 'height': 20}, {'content': 'further than your patience ever could.', 'coordinates': {'x': 20, 'y': 80}, 'width': 310, 'height': 20}, {'content': 'One step... then another. You were never meant to stay.', 'coordinates': {'x': 20, 'y': 120}, 'width': 400, 'height': 20}]'
+2024-09-11 07:00:57,240 - INFO - Detected 1 text blocks
+2024-09-11 07:00:57,240 - INFO - Analyzed frame 192/5 in group. Detected 1 text blocks.
+2024-09-11 07:00:57,241 - INFO - Original frame size: 1440x1080
+2024-09-11 07:00:57,241 - INFO - Resized frame for API: 512x384
+2024-09-11 07:01:12,608 - INFO - GPT Analysis: {
+  "lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left_corner": {
+        "x": 20,
+        "y": 180
+      },
+      "width": 470,
+      "height": 20
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left_corner": {
+        "x": 30,
+        "y": 210
+      },
+      "width": 455,
+      "height": 20
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left_corner": {
+        "x": 10,
+        "y": 240
+      },
+      "width": 490,
+      "height": 20
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 40,
+        "y": 270
+      },
+      "width": 420,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 07:01:12,608 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you.', API position: [x=20, y=180, w=470, h=20]
+2024-09-11 07:01:12,608 - INFO - Text block 2: Content: 'They are not enemies. They are the forces you must ride.', API position: [x=30, y=210, w=455, h=20]
+2024-09-11 07:01:12,608 - INFO - Text block 3: Content: 'The forces that will carry you further than your patience ever could.', API position: [x=10, y=240, w=490, h=20]
+2024-09-11 07:01:12,608 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=40, y=270, w=420, h=20]
+2024-09-11 07:01:12,608 - INFO - Detected 4 text blocks
+2024-09-11 07:01:12,609 - INFO - Analyzed frame 256/5 in group. Detected 4 text blocks.
+2024-09-11 07:01:12,609 - ERROR - Error processing group 10, attempt 1: unhashable type: 'list'
+2024-09-11 07:01:13,610 - INFO - Original frame size: 1440x1080
+2024-09-11 07:01:13,611 - INFO - Resized frame for API: 512x384
+2024-09-11 07:01:27,210 - INFO - GPT Analysis: {
+  "lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left_corner": {
+        "x": 60,
+        "y": 130
+      },
+      "width": 380,
+      "height": 20
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left_corner": {
+        "x": 60,
+        "y": 155
+      },
+      "width": 380,
+      "height": 20
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left_corner": {
+        "x": 60,
+        "y": 180
+      },
+      "width": 410,
+      "height": 20
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 60,
+        "y": 220
+      },
+      "width": 400,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 07:01:27,211 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you.', API position: [x=60, y=130, w=380, h=20]
+2024-09-11 07:01:27,211 - INFO - Text block 2: Content: 'They are not enemies. They are the forces you must ride.', API position: [x=60, y=155, w=380, h=20]
+2024-09-11 07:01:27,211 - INFO - Text block 3: Content: 'The forces that will carry you further than your patience ever could.', API position: [x=60, y=180, w=410, h=20]
+2024-09-11 07:01:27,212 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=60, y=220, w=400, h=20]
+2024-09-11 07:01:27,212 - INFO - Detected 4 text blocks
+2024-09-11 07:01:27,212 - INFO - Initial analysis for group 10: {
+  "text_blocks": [
+    {
+      "text": "Do not fear the light, nor the cold wind that greets you.",
+      "position": [
+        60,
+        130,
+        380,
+        20
+      ]
+    },
+    {
+      "text": "They are not enemies. They are the forces you must ride.",
+      "position": [
+        60,
+        155,
+        380,
+        20
+      ]
+    },
+    {
+      "text": "The forces that will carry you further than your patience ever could.",
+      "position": [
+        60,
+        180,
+        410,
+        20
+      ]
+    },
+    {
+      "text": "One step... then another. You were never meant to stay.",
+      "position": [
+        60,
+        220,
+        400,
+        20
+      ]
+    }
+  ],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:01:27,213 - INFO - Original frame size: 1440x1080
+2024-09-11 07:01:27,214 - INFO - Resized frame for API: 512x384
+2024-09-11 07:01:36,809 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left_corner": {
+        "x": 70,
+        "y": 150
+      },
+      "width": 375,
+      "height": 20
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left_corner": {
+        "x": 85,
+        "y": 175
+      },
+      "width": 345,
+      "height": 20
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left_corner": {
+        "x": 70,
+        "y": 200
+      },
+      "width": 410,
+      "height": 20
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 100,
+        "y": 250
+      },
+      "width": 330,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 07:01:36,809 - INFO - Single text block: '[{'content': 'Do not fear the light, nor the cold wind that greets you.', 'top_left_corner': {'x': 70, 'y': 150}, 'width': 375, 'height': 20}, {'content': 'They are not enemies. They are the forces you must ride.', 'top_left_corner': {'x': 85, 'y': 175}, 'width': 345, 'height': 20}, {'content': 'The forces that will carry you further than your patience ever could.', 'top_left_corner': {'x': 70, 'y': 200}, 'width': 410, 'height': 20}, {'content': 'One step... then another. You were never meant to stay.', 'top_left_corner': {'x': 100, 'y': 250}, 'width': 330, 'height': 20}]'
+2024-09-11 07:01:36,809 - INFO - Detected 1 text blocks
+2024-09-11 07:01:36,809 - INFO - Analyzed frame 1/5 in group. Detected 1 text blocks.
+2024-09-11 07:01:36,809 - INFO - Original frame size: 1440x1080
+2024-09-11 07:01:36,810 - INFO - Resized frame for API: 512x384
+2024-09-11 07:01:42,195 - INFO - GPT Analysis: {
+  "lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "coordinates": {
+        "x": 40,
+        "y": 50
+      },
+      "width": 420,
+      "height": 20
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "coordinates": {
+        "x": 40,
+        "y": 75
+      },
+      "width": 440,
+      "height": 20
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "coordinates": {
+        "x": 40,
+        "y": 100
+      },
+      "width": 460,
+      "height": 20
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "coordinates": {
+        "x": 40,
+        "y": 150
+      },
+      "width": 420,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 07:01:42,195 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you.', API position: [x=40, y=50, w=420, h=20]
+2024-09-11 07:01:42,195 - INFO - Text block 2: Content: 'They are not enemies. They are the forces you must ride.', API position: [x=40, y=75, w=440, h=20]
+2024-09-11 07:01:42,195 - INFO - Text block 3: Content: 'The forces that will carry you further than your patience ever could.', API position: [x=40, y=100, w=460, h=20]
+2024-09-11 07:01:42,196 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=40, y=150, w=420, h=20]
+2024-09-11 07:01:42,196 - INFO - Detected 4 text blocks
+2024-09-11 07:01:42,196 - INFO - Analyzed frame 64/5 in group. Detected 4 text blocks.
+2024-09-11 07:01:42,196 - INFO - Original frame size: 1440x1080
+2024-09-11 07:01:42,197 - INFO - Resized frame for API: 512x384
+2024-09-11 07:01:47,066 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left_x": 60,
+      "top_left_y": 180,
+      "width": 400,
+      "height": 20
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left_x": 80,
+      "top_left_y": 210,
+      "width": 380,
+      "height": 20
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left_x": 40,
+      "top_left_y": 240,
+      "width": 440,
+      "height": 20
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left_x": 80,
+      "top_left_y": 270,
+      "width": 380,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 07:01:47,066 - WARNING - Incomplete data for text block 1: {'content': 'Do not fear the light, nor the cold wind that greets you.', 'top_left_x': 60, 'top_left_y': 180, 'width': 400, 'height': 20}
+2024-09-11 07:01:47,067 - WARNING - Incomplete data for text block 2: {'content': 'They are not enemies. They are the forces you must ride.', 'top_left_x': 80, 'top_left_y': 210, 'width': 380, 'height': 20}
+2024-09-11 07:01:47,067 - WARNING - Incomplete data for text block 3: {'content': 'The forces that will carry you further than your patience ever could.', 'top_left_x': 40, 'top_left_y': 240, 'width': 440, 'height': 20}
+2024-09-11 07:01:47,067 - WARNING - Incomplete data for text block 4: {'content': 'One step... then another. You were never meant to stay.', 'top_left_x': 80, 'top_left_y': 270, 'width': 380, 'height': 20}
+2024-09-11 07:01:47,067 - INFO - Detected 0 text blocks
+2024-09-11 07:01:47,067 - INFO - Analyzed frame 128/5 in group. Detected 0 text blocks.
+2024-09-11 07:01:47,067 - INFO - Original frame size: 1440x1080
+2024-09-11 07:01:47,068 - INFO - Resized frame for API: 512x384
+2024-09-11 07:01:53,464 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left": {
+        "x": 50,
+        "y": 70
+      },
+      "width": 430,
+      "height": 20
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left": {
+        "x": 50,
+        "y": 95
+      },
+      "width": 430,
+      "height": 20
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left": {
+        "x": 50,
+        "y": 120
+      },
+      "width": 430,
+      "height": 20
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left": {
+        "x": 50,
+        "y": 150
+      },
+      "width": 430,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 07:01:53,464 - WARNING - Incomplete data for text block 1: {'content': 'Do not fear the light, nor the cold wind that greets you.', 'top_left': {'x': 50, 'y': 70}, 'width': 430, 'height': 20}
+2024-09-11 07:01:53,464 - WARNING - Incomplete data for text block 2: {'content': 'They are not enemies. They are the forces you must ride.', 'top_left': {'x': 50, 'y': 95}, 'width': 430, 'height': 20}
+2024-09-11 07:01:53,464 - WARNING - Incomplete data for text block 3: {'content': 'The forces that will carry you further than your patience ever could.', 'top_left': {'x': 50, 'y': 120}, 'width': 430, 'height': 20}
+2024-09-11 07:01:53,464 - WARNING - Incomplete data for text block 4: {'content': 'One step... then another. You were never meant to stay.', 'top_left': {'x': 50, 'y': 150}, 'width': 430, 'height': 20}
+2024-09-11 07:01:53,465 - INFO - Detected 0 text blocks
+2024-09-11 07:01:53,465 - INFO - Analyzed frame 192/5 in group. Detected 0 text blocks.
+2024-09-11 07:01:53,465 - INFO - Original frame size: 1440x1080
+2024-09-11 07:01:53,466 - INFO - Resized frame for API: 512x384
+2024-09-11 07:02:00,678 - INFO - GPT Analysis: {
+  "lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "coordinates": {
+        "x": 10,
+        "y": 10
+      },
+      "width": 490,
+      "height": 20
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "coordinates": {
+        "x": 10,
+        "y": 35
+      },
+      "width": 480,
+      "height": 20
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "coordinates": {
+        "x": 10,
+        "y": 60
+      },
+      "width": 510,
+      "height": 20
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "coordinates": {
+        "x": 10,
+        "y": 100
+      },
+      "width": 450,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 07:02:00,678 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you.', API position: [x=10, y=10, w=490, h=20]
+2024-09-11 07:02:00,678 - INFO - Text block 2: Content: 'They are not enemies. They are the forces you must ride.', API position: [x=10, y=35, w=480, h=20]
+2024-09-11 07:02:00,678 - INFO - Text block 3: Content: 'The forces that will carry you further than your patience ever could.', API position: [x=10, y=60, w=510, h=20]
+2024-09-11 07:02:00,679 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=10, y=100, w=450, h=20]
+2024-09-11 07:02:00,679 - INFO - Detected 4 text blocks
+2024-09-11 07:02:00,679 - INFO - Analyzed frame 256/5 in group. Detected 4 text blocks.
+2024-09-11 07:02:00,679 - ERROR - Error processing group 10, attempt 2: unhashable type: 'list'
+2024-09-11 07:02:02,681 - INFO - Original frame size: 1440x1080
+2024-09-11 07:02:02,682 - INFO - Resized frame for API: 512x384
+2024-09-11 07:02:10,634 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left_corner": {
+        "x": 35,
+        "y": 130
+      },
+      "width": 455,
+      "height": 25
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left_corner": {
+        "x": 45,
+        "y": 160
+      },
+      "width": 445,
+      "height": 25
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left_corner": {
+        "x": 25,
+        "y": 190
+      },
+      "width": 465,
+      "height": 25
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 85,
+        "y": 240
+      },
+      "width": 400,
+      "height": 25
+    }
+  ]
+}
+2024-09-11 07:02:10,634 - INFO - Single text block: '[{'content': 'Do not fear the light, nor the cold wind that greets you.', 'top_left_corner': {'x': 35, 'y': 130}, 'width': 455, 'height': 25}, {'content': 'They are not enemies. They are the forces you must ride.', 'top_left_corner': {'x': 45, 'y': 160}, 'width': 445, 'height': 25}, {'content': 'The forces that will carry you further than your patience ever could.', 'top_left_corner': {'x': 25, 'y': 190}, 'width': 465, 'height': 25}, {'content': 'One step. . . then another. You were never meant to stay.', 'top_left_corner': {'x': 85, 'y': 240}, 'width': 400, 'height': 25}]'
+2024-09-11 07:02:10,634 - INFO - Detected 1 text blocks
+2024-09-11 07:02:10,635 - INFO - Initial analysis for group 10: {
+  "text_blocks": [
+    {
+      "text": [
+        {
+          "content": "Do not fear the light, nor the cold wind that greets you.",
+          "top_left_corner": {
+            "x": 35,
+            "y": 130
+          },
+          "width": 455,
+          "height": 25
+        },
+        {
+          "content": "They are not enemies. They are the forces you must ride.",
+          "top_left_corner": {
+            "x": 45,
+            "y": 160
+          },
+          "width": 445,
+          "height": 25
+        },
+        {
+          "content": "The forces that will carry you further than your patience ever could.",
+          "top_left_corner": {
+            "x": 25,
+            "y": 190
+          },
+          "width": 465,
+          "height": 25
+        },
+        {
+          "content": "One step. . . then another. You were never meant to stay.",
+          "top_left_corner": {
+            "x": 85,
+            "y": 240
+          },
+          "width": 400,
+          "height": 25
+        }
+      ],
+      "position": [
+        0,
+        0,
+        512,
+        384
+      ]
+    }
+  ],
+  "resized_width": 512,
+  "resized_height": 384,
+  "original_width": 1440,
+  "original_height": 1080
+}
+2024-09-11 07:02:10,635 - INFO - Original frame size: 1440x1080
+2024-09-11 07:02:10,635 - INFO - Resized frame for API: 512x384
+2024-09-11 07:02:18,287 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left_coordinates": [
+        28,
+        138
+      ],
+      "width": 455,
+      "height": 18
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left_coordinates": [
+        27,
+        164
+      ],
+      "width": 451,
+      "height": 18
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left_coordinates": [
+        25,
+        190
+      ],
+      "width": 471,
+      "height": 20
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "top_left_coordinates": [
+        64,
+        244
+      ],
+      "width": 389,
+      "height": 19
+    }
+  ]
+}
+2024-09-11 07:02:18,288 - INFO - Single text block: '[{'content': 'Do not fear the light, nor the cold wind that greets you.', 'top_left_coordinates': [28, 138], 'width': 455, 'height': 18}, {'content': 'They are not enemies. They are the forces you must ride.', 'top_left_coordinates': [27, 164], 'width': 451, 'height': 18}, {'content': 'The forces that will carry you further than your patience ever could.', 'top_left_coordinates': [25, 190], 'width': 471, 'height': 20}, {'content': 'One step... then another. You were never meant to stay.', 'top_left_coordinates': [64, 244], 'width': 389, 'height': 19}]'
+2024-09-11 07:02:18,288 - INFO - Detected 1 text blocks
+2024-09-11 07:02:18,288 - INFO - Analyzed frame 1/5 in group. Detected 1 text blocks.
+2024-09-11 07:02:18,288 - INFO - Original frame size: 1440x1080
+2024-09-11 07:02:18,289 - INFO - Resized frame for API: 512x384
+2024-09-11 07:02:42,303 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "coordinates": {
+        "x": 70,
+        "y": 115
+      },
+      "dimensions": {
+        "width": 373,
+        "height": 15
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "coordinates": {
+        "x": 61,
+        "y": 134
+      },
+      "dimensions": {
+        "width": 385,
+        "height": 15
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "coordinates": {
+        "x": 126,
+        "y": 153
+      },
+      "dimensions": {
+        "width": 275,
+        "height": 15
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "coordinates": {
+        "x": 120,
+        "y": 200
+      },
+      "dimensions": {
+        "width": 280,
+        "height": 15
+      }
+    }
+  ]
+}
+2024-09-11 07:02:42,304 - WARNING - Incomplete data for text block 1: {'content': 'Do not fear the light, nor the cold wind that greets you. They are not', 'coordinates': {'x': 70, 'y': 115}, 'dimensions': {'width': 373, 'height': 15}}
+2024-09-11 07:02:42,304 - WARNING - Incomplete data for text block 2: {'content': 'enemies. They are the forces you must ride. The forces that will carry you', 'coordinates': {'x': 61, 'y': 134}, 'dimensions': {'width': 385, 'height': 15}}
+2024-09-11 07:02:42,304 - WARNING - Incomplete data for text block 3: {'content': 'further than your patience ever could.', 'coordinates': {'x': 126, 'y': 153}, 'dimensions': {'width': 275, 'height': 15}}
+2024-09-11 07:02:42,304 - WARNING - Incomplete data for text block 4: {'content': 'One step... then another. You were never meant to stay.', 'coordinates': {'x': 120, 'y': 200}, 'dimensions': {'width': 280, 'height': 15}}
+2024-09-11 07:02:42,304 - INFO - Detected 0 text blocks
+2024-09-11 07:02:42,304 - INFO - Analyzed frame 64/5 in group. Detected 0 text blocks.
+2024-09-11 07:02:42,304 - INFO - Original frame size: 1440x1080
+2024-09-11 07:02:42,305 - INFO - Resized frame for API: 512x384
+2024-09-11 07:02:49,104 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "coordinates": {
+        "x": 95,
+        "y": 165
+      },
+      "dimensions": {
+        "width": 320,
+        "height": 20
+      }
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "coordinates": {
+        "x": 105,
+        "y": 190
+      },
+      "dimensions": {
+        "width": 330,
+        "height": 20
+      }
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "coordinates": {
+        "x": 80,
+        "y": 215
+      },
+      "dimensions": {
+        "width": 380,
+        "height": 20
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "coordinates": {
+        "x": 110,
+        "y": 255
+      },
+      "dimensions": {
+        "width": 315,
+        "height": 20
+      }
+    }
+  ]
+}
+2024-09-11 07:02:49,105 - WARNING - Incomplete data for text block 1: {'content': 'Do not fear the light, nor the cold wind that greets you.', 'coordinates': {'x': 95, 'y': 165}, 'dimensions': {'width': 320, 'height': 20}}
+2024-09-11 07:02:49,105 - WARNING - Incomplete data for text block 2: {'content': 'They are not enemies. They are the forces you must ride.', 'coordinates': {'x': 105, 'y': 190}, 'dimensions': {'width': 330, 'height': 20}}
+2024-09-11 07:02:49,105 - WARNING - Incomplete data for text block 3: {'content': 'The forces that will carry you further than your patience ever could.', 'coordinates': {'x': 80, 'y': 215}, 'dimensions': {'width': 380, 'height': 20}}
+2024-09-11 07:02:49,105 - WARNING - Incomplete data for text block 4: {'content': 'One step... then another. You were never meant to stay.', 'coordinates': {'x': 110, 'y': 255}, 'dimensions': {'width': 315, 'height': 20}}
+2024-09-11 07:02:49,105 - INFO - Detected 0 text blocks
+2024-09-11 07:02:49,105 - INFO - Analyzed frame 128/5 in group. Detected 0 text blocks.
+2024-09-11 07:02:49,105 - INFO - Original frame size: 1440x1080
+2024-09-11 07:02:49,106 - INFO - Resized frame for API: 512x384
+2024-09-11 07:02:57,785 - INFO - GPT Analysis: {
+  "lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "coordinates": {
+        "x": 50,
+        "y": 100
+      },
+      "dimensions": {
+        "width": 420,
+        "height": 20
+      }
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "coordinates": {
+        "x": 50,
+        "y": 120
+      },
+      "dimensions": {
+        "width": 410,
+        "height": 20
+      }
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "coordinates": {
+        "x": 50,
+        "y": 140
+      },
+      "dimensions": {
+        "width": 470,
+        "height": 20
+      }
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "coordinates": {
+        "x": 50,
+        "y": 180
+      },
+      "dimensions": {
+        "width": 410,
+        "height": 20
+      }
+    }
+  ]
+}
+2024-09-11 07:02:57,785 - WARNING - Incomplete data for text block 1: {'content': 'Do not fear the light, nor the cold wind that greets you.', 'coordinates': {'x': 50, 'y': 100}, 'dimensions': {'width': 420, 'height': 20}}
+2024-09-11 07:02:57,785 - WARNING - Incomplete data for text block 2: {'content': 'They are not enemies. They are the forces you must ride.', 'coordinates': {'x': 50, 'y': 120}, 'dimensions': {'width': 410, 'height': 20}}
+2024-09-11 07:02:57,785 - WARNING - Incomplete data for text block 3: {'content': 'The forces that will carry you further than your patience ever could.', 'coordinates': {'x': 50, 'y': 140}, 'dimensions': {'width': 470, 'height': 20}}
+2024-09-11 07:02:57,785 - WARNING - Incomplete data for text block 4: {'content': 'One step. . . then another. You were never meant to stay.', 'coordinates': {'x': 50, 'y': 180}, 'dimensions': {'width': 410, 'height': 20}}
+2024-09-11 07:02:57,786 - INFO - Detected 0 text blocks
+2024-09-11 07:02:57,786 - INFO - Analyzed frame 192/5 in group. Detected 0 text blocks.
+2024-09-11 07:02:57,786 - INFO - Original frame size: 1440x1080
+2024-09-11 07:02:57,787 - INFO - Resized frame for API: 512x384
+2024-09-11 07:03:07,215 - INFO - GPT Analysis: {
+  "text_lines": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you.",
+      "top_left_corner": {
+        "x": 70,
+        "y": 180
+      },
+      "dimensions": {
+        "width": 370,
+        "height": 30
+      }
+    },
+    {
+      "content": "They are not enemies. They are the forces you must ride.",
+      "top_left_corner": {
+        "x": 75,
+        "y": 210
+      },
+      "dimensions": {
+        "width": 370,
+        "height": 30
+      }
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "top_left_corner": {
+        "x": 55,
+        "y": 240
+      },
+      "dimensions": {
+        "width": 430,
+        "height": 30
+      }
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "top_left_corner": {
+        "x": 90,
+        "y": 295
+      },
+      "dimensions": {
+        "width": 360,
+        "height": 30
+      }
+    }
+  ]
+}
+2024-09-11 07:03:07,215 - WARNING - Incomplete data for text block 1: {'content': 'Do not fear the light, nor the cold wind that greets you.', 'top_left_corner': {'x': 70, 'y': 180}, 'dimensions': {'width': 370, 'height': 30}}
+2024-09-11 07:03:07,216 - WARNING - Incomplete data for text block 2: {'content': 'They are not enemies. They are the forces you must ride.', 'top_left_corner': {'x': 75, 'y': 210}, 'dimensions': {'width': 370, 'height': 30}}
+2024-09-11 07:03:07,216 - WARNING - Incomplete data for text block 3: {'content': 'The forces that will carry you further than your patience ever could.', 'top_left_corner': {'x': 55, 'y': 240}, 'dimensions': {'width': 430, 'height': 30}}
+2024-09-11 07:03:07,216 - WARNING - Incomplete data for text block 4: {'content': 'One step. . . then another. You were never meant to stay.', 'top_left_corner': {'x': 90, 'y': 295}, 'dimensions': {'width': 360, 'height': 30}}
+2024-09-11 07:03:07,216 - INFO - Detected 0 text blocks
+2024-09-11 07:03:07,216 - INFO - Analyzed frame 256/5 in group. Detected 0 text blocks.
+2024-09-11 07:03:07,217 - ERROR - Error processing group 10, attempt 3: unhashable type: 'list'
+2024-09-11 07:03:07,217 - ERROR - Max retries reached for group 10, skipping...
+2024-09-11 07:03:07,217 - INFO - Creating output video...
+2024-09-11 07:03:07,234 - INFO - No translation for group 1
+2024-09-11 07:03:07,251 - INFO - No translation for group 1
+2024-09-11 07:03:07,266 - INFO - No translation for group 1
+2024-09-11 07:03:07,278 - INFO - No translation for group 1
+2024-09-11 07:03:07,289 - INFO - No translation for group 1
+2024-09-11 07:03:07,298 - INFO - No translation for group 1
+2024-09-11 07:03:07,308 - INFO - No translation for group 1
+2024-09-11 07:03:07,321 - INFO - No translation for group 1
+2024-09-11 07:03:07,332 - INFO - No translation for group 1
+2024-09-11 07:03:07,346 - INFO - No translation for group 1
+2024-09-11 07:03:07,357 - INFO - No translation for group 1
+2024-09-11 07:03:07,367 - INFO - No translation for group 1
+2024-09-11 07:03:07,376 - INFO - No translation for group 1
+2024-09-11 07:03:07,390 - INFO - No translation for group 1
+2024-09-11 07:03:07,401 - INFO - Processed group 1, total frames: 14/734
+2024-09-11 07:03:07,402 - INFO - No translation for group 2
+2024-09-11 07:03:07,414 - INFO - No translation for group 2
+2024-09-11 07:03:07,425 - INFO - No translation for group 2
+2024-09-11 07:03:07,440 - INFO - No translation for group 2
+2024-09-11 07:03:07,451 - INFO - No translation for group 2
+2024-09-11 07:03:07,463 - INFO - No translation for group 2
+2024-09-11 07:03:07,477 - INFO - No translation for group 2
+2024-09-11 07:03:07,491 - INFO - No translation for group 2
+2024-09-11 07:03:07,504 - INFO - No translation for group 2
+2024-09-11 07:03:07,513 - INFO - No translation for group 2
+2024-09-11 07:03:07,525 - INFO - No translation for group 2
+2024-09-11 07:03:07,538 - INFO - No translation for group 2
+2024-09-11 07:03:07,548 - INFO - No translation for group 2
+2024-09-11 07:03:07,558 - INFO - No translation for group 2
+2024-09-11 07:03:07,569 - INFO - No translation for group 2
+2024-09-11 07:03:07,580 - INFO - No translation for group 2
+2024-09-11 07:03:07,597 - INFO - No translation for group 2
+2024-09-11 07:03:07,607 - INFO - No translation for group 2
+2024-09-11 07:03:07,616 - INFO - No translation for group 2
+2024-09-11 07:03:07,627 - INFO - Processed group 2, total frames: 33/734
+2024-09-11 07:03:07,628 - INFO - No translation for group 3
+2024-09-11 07:03:07,638 - INFO - No translation for group 3
+2024-09-11 07:03:07,650 - INFO - No translation for group 3
+2024-09-11 07:03:07,661 - INFO - No translation for group 3
+2024-09-11 07:03:07,673 - INFO - No translation for group 3
+2024-09-11 07:03:07,684 - INFO - No translation for group 3
+2024-09-11 07:03:07,694 - INFO - No translation for group 3
+2024-09-11 07:03:07,706 - INFO - No translation for group 3
+2024-09-11 07:03:07,715 - INFO - No translation for group 3
+2024-09-11 07:03:07,727 - INFO - No translation for group 3
+2024-09-11 07:03:07,739 - INFO - No translation for group 3
+2024-09-11 07:03:07,750 - INFO - No translation for group 3
+2024-09-11 07:03:07,759 - INFO - No translation for group 3
+2024-09-11 07:03:07,770 - INFO - No translation for group 3
+2024-09-11 07:03:07,781 - INFO - No translation for group 3
+2024-09-11 07:03:07,792 - INFO - No translation for group 3
+2024-09-11 07:03:07,805 - INFO - No translation for group 3
+2024-09-11 07:03:07,817 - INFO - No translation for group 3
+2024-09-11 07:03:07,828 - INFO - No translation for group 3
+2024-09-11 07:03:07,837 - INFO - No translation for group 3
+2024-09-11 07:03:07,847 - INFO - No translation for group 3
+2024-09-11 07:03:07,856 - INFO - No translation for group 3
+2024-09-11 07:03:07,866 - INFO - No translation for group 3
+2024-09-11 07:03:07,876 - INFO - No translation for group 3
+2024-09-11 07:03:07,886 - INFO - Processed group 3, total frames: 57/734
+2024-09-11 07:03:07,886 - INFO - No translation for group 4
+2024-09-11 07:03:07,895 - INFO - No translation for group 4
+2024-09-11 07:03:07,904 - INFO - No translation for group 4
+2024-09-11 07:03:07,913 - INFO - No translation for group 4
+2024-09-11 07:03:07,924 - INFO - No translation for group 4
+2024-09-11 07:03:07,934 - INFO - No translation for group 4
+2024-09-11 07:03:07,944 - INFO - No translation for group 4
+2024-09-11 07:03:07,955 - INFO - No translation for group 4
+2024-09-11 07:03:07,964 - INFO - No translation for group 4
+2024-09-11 07:03:07,973 - INFO - No translation for group 4
+2024-09-11 07:03:07,983 - INFO - No translation for group 4
+2024-09-11 07:03:07,992 - INFO - No translation for group 4
+2024-09-11 07:03:08,002 - INFO - No translation for group 4
+2024-09-11 07:03:08,011 - INFO - No translation for group 4
+2024-09-11 07:03:08,020 - INFO - No translation for group 4
+2024-09-11 07:03:08,031 - INFO - No translation for group 4
+2024-09-11 07:03:08,042 - INFO - No translation for group 4
+2024-09-11 07:03:08,052 - INFO - No translation for group 4
+2024-09-11 07:03:08,063 - INFO - No translation for group 4
+2024-09-11 07:03:08,073 - INFO - No translation for group 4
+2024-09-11 07:03:08,083 - INFO - Processed group 4, total frames: 77/734
+2024-09-11 07:03:08,084 - INFO - No translation for group 5
+2024-09-11 07:03:08,093 - INFO - No translation for group 5
+2024-09-11 07:03:08,103 - INFO - No translation for group 5
+2024-09-11 07:03:08,113 - INFO - No translation for group 5
+2024-09-11 07:03:08,123 - INFO - No translation for group 5
+2024-09-11 07:03:08,133 - INFO - No translation for group 5
+2024-09-11 07:03:08,143 - INFO - No translation for group 5
+2024-09-11 07:03:08,153 - INFO - No translation for group 5
+2024-09-11 07:03:08,165 - INFO - No translation for group 5
+2024-09-11 07:03:08,176 - INFO - No translation for group 5
+2024-09-11 07:03:08,186 - INFO - No translation for group 5
+2024-09-11 07:03:08,198 - INFO - No translation for group 5
+2024-09-11 07:03:08,209 - INFO - No translation for group 5
+2024-09-11 07:03:08,219 - INFO - No translation for group 5
+2024-09-11 07:03:08,232 - INFO - No translation for group 5
+2024-09-11 07:03:08,241 - INFO - Processed group 5, total frames: 92/734
+2024-09-11 07:03:08,242 - INFO - No translation for group 6
+2024-09-11 07:03:08,251 - INFO - No translation for group 6
+2024-09-11 07:03:08,261 - INFO - No translation for group 6
+2024-09-11 07:03:08,272 - INFO - No translation for group 6
+2024-09-11 07:03:08,282 - INFO - No translation for group 6
+2024-09-11 07:03:08,294 - INFO - No translation for group 6
+2024-09-11 07:03:08,303 - INFO - No translation for group 6
+2024-09-11 07:03:08,313 - INFO - No translation for group 6
+2024-09-11 07:03:08,322 - INFO - No translation for group 6
+2024-09-11 07:03:08,331 - INFO - No translation for group 6
+2024-09-11 07:03:08,340 - INFO - No translation for group 6
+2024-09-11 07:03:08,350 - INFO - No translation for group 6
+2024-09-11 07:03:08,359 - INFO - No translation for group 6
+2024-09-11 07:03:08,368 - INFO - No translation for group 6
+2024-09-11 07:03:08,378 - INFO - No translation for group 6
+2024-09-11 07:03:08,387 - INFO - No translation for group 6
+2024-09-11 07:03:08,396 - INFO - No translation for group 6
+2024-09-11 07:03:08,408 - INFO - No translation for group 6
+2024-09-11 07:03:08,417 - INFO - No translation for group 6
+2024-09-11 07:03:08,428 - INFO - No translation for group 6
+2024-09-11 07:03:08,437 - INFO - No translation for group 6
+2024-09-11 07:03:08,447 - INFO - No translation for group 6
+2024-09-11 07:03:08,456 - INFO - No translation for group 6
+2024-09-11 07:03:08,465 - INFO - No translation for group 6
+2024-09-11 07:03:08,474 - INFO - No translation for group 6
+2024-09-11 07:03:08,484 - INFO - No translation for group 6
+2024-09-11 07:03:08,493 - INFO - No translation for group 6
+2024-09-11 07:03:08,502 - INFO - No translation for group 6
+2024-09-11 07:03:08,512 - INFO - Processed group 6, total frames: 120/734
+2024-09-11 07:03:08,513 - INFO - No translation for group 7
+2024-09-11 07:03:08,524 - INFO - No translation for group 7
+2024-09-11 07:03:08,536 - INFO - No translation for group 7
+2024-09-11 07:03:08,545 - INFO - No translation for group 7
+2024-09-11 07:03:08,554 - INFO - No translation for group 7
+2024-09-11 07:03:08,562 - INFO - No translation for group 7
+2024-09-11 07:03:08,571 - INFO - No translation for group 7
+2024-09-11 07:03:08,579 - INFO - No translation for group 7
+2024-09-11 07:03:08,588 - INFO - No translation for group 7
+2024-09-11 07:03:08,598 - INFO - No translation for group 7
+2024-09-11 07:03:08,609 - INFO - No translation for group 7
+2024-09-11 07:03:08,618 - INFO - No translation for group 7
+2024-09-11 07:03:08,628 - INFO - No translation for group 7
+2024-09-11 07:03:08,640 - INFO - No translation for group 7
+2024-09-11 07:03:08,650 - INFO - No translation for group 7
+2024-09-11 07:03:08,659 - INFO - No translation for group 7
+2024-09-11 07:03:08,667 - INFO - No translation for group 7
+2024-09-11 07:03:08,676 - INFO - No translation for group 7
+2024-09-11 07:03:08,684 - INFO - No translation for group 7
+2024-09-11 07:03:08,693 - INFO - No translation for group 7
+2024-09-11 07:03:08,702 - INFO - No translation for group 7
+2024-09-11 07:03:08,711 - INFO - No translation for group 7
+2024-09-11 07:03:08,720 - INFO - No translation for group 7
+2024-09-11 07:03:08,728 - INFO - No translation for group 7
+2024-09-11 07:03:08,737 - INFO - No translation for group 7
+2024-09-11 07:03:08,748 - INFO - No translation for group 7
+2024-09-11 07:03:08,757 - INFO - No translation for group 7
+2024-09-11 07:03:08,766 - INFO - No translation for group 7
+2024-09-11 07:03:08,776 - INFO - No translation for group 7
+2024-09-11 07:03:08,784 - INFO - No translation for group 7
+2024-09-11 07:03:08,795 - INFO - No translation for group 7
+2024-09-11 07:03:08,804 - INFO - No translation for group 7
+2024-09-11 07:03:08,813 - INFO - No translation for group 7
+2024-09-11 07:03:08,823 - INFO - No translation for group 7
+2024-09-11 07:03:08,833 - INFO - No translation for group 7
+2024-09-11 07:03:08,841 - INFO - No translation for group 7
+2024-09-11 07:03:08,852 - INFO - No translation for group 7
+2024-09-11 07:03:08,864 - INFO - No translation for group 7
+2024-09-11 07:03:08,877 - INFO - No translation for group 7
+2024-09-11 07:03:08,887 - INFO - No translation for group 7
+2024-09-11 07:03:08,897 - INFO - No translation for group 7
+2024-09-11 07:03:08,906 - INFO - No translation for group 7
+2024-09-11 07:03:08,914 - INFO - No translation for group 7
+2024-09-11 07:03:08,923 - INFO - No translation for group 7
+2024-09-11 07:03:08,933 - INFO - No translation for group 7
+2024-09-11 07:03:08,941 - INFO - Processed group 7, total frames: 165/734
+2024-09-11 07:03:08,942 - INFO - No translation for group 8
+2024-09-11 07:03:08,950 - INFO - No translation for group 8
+2024-09-11 07:03:08,959 - INFO - No translation for group 8
+2024-09-11 07:03:08,967 - INFO - No translation for group 8
+2024-09-11 07:03:08,978 - INFO - No translation for group 8
+2024-09-11 07:03:08,988 - INFO - No translation for group 8
+2024-09-11 07:03:08,997 - INFO - No translation for group 8
+2024-09-11 07:03:09,006 - INFO - No translation for group 8
+2024-09-11 07:03:09,014 - INFO - Processed group 8, total frames: 173/734
+2024-09-11 07:03:09,015 - INFO - No translation for group 9
+2024-09-11 07:03:09,027 - INFO - No translation for group 9
+2024-09-11 07:03:09,036 - INFO - No translation for group 9
+2024-09-11 07:03:09,043 - INFO - No translation for group 9
+2024-09-11 07:03:09,052 - INFO - No translation for group 9
+2024-09-11 07:03:09,060 - INFO - No translation for group 9
+2024-09-11 07:03:09,068 - INFO - No translation for group 9
+2024-09-11 07:03:09,076 - INFO - No translation for group 9
+2024-09-11 07:03:09,088 - INFO - No translation for group 9
+2024-09-11 07:03:09,096 - INFO - No translation for group 9
+2024-09-11 07:03:09,104 - INFO - No translation for group 9
+2024-09-11 07:03:09,112 - INFO - No translation for group 9
+2024-09-11 07:03:09,120 - INFO - No translation for group 9
+2024-09-11 07:03:09,129 - INFO - No translation for group 9
+2024-09-11 07:03:09,138 - INFO - No translation for group 9
+2024-09-11 07:03:09,148 - INFO - No translation for group 9
+2024-09-11 07:03:09,157 - INFO - No translation for group 9
+2024-09-11 07:03:09,166 - INFO - No translation for group 9
+2024-09-11 07:03:09,174 - INFO - No translation for group 9
+2024-09-11 07:03:09,182 - INFO - No translation for group 9
+2024-09-11 07:03:09,194 - INFO - No translation for group 9
+2024-09-11 07:03:09,202 - INFO - No translation for group 9
+2024-09-11 07:03:09,211 - INFO - No translation for group 9
+2024-09-11 07:03:09,219 - INFO - No translation for group 9
+2024-09-11 07:03:09,227 - INFO - No translation for group 9
+2024-09-11 07:03:09,235 - INFO - No translation for group 9
+2024-09-11 07:03:09,243 - INFO - No translation for group 9
+2024-09-11 07:03:09,250 - INFO - No translation for group 9
+2024-09-11 07:03:09,259 - INFO - No translation for group 9
+2024-09-11 07:03:09,266 - INFO - No translation for group 9
+2024-09-11 07:03:09,274 - INFO - No translation for group 9
+2024-09-11 07:03:09,282 - INFO - No translation for group 9
+2024-09-11 07:03:09,295 - INFO - No translation for group 9
+2024-09-11 07:03:09,305 - INFO - No translation for group 9
+2024-09-11 07:03:09,314 - INFO - No translation for group 9
+2024-09-11 07:03:09,324 - INFO - No translation for group 9
+2024-09-11 07:03:09,332 - INFO - No translation for group 9
+2024-09-11 07:03:09,340 - INFO - No translation for group 9
+2024-09-11 07:03:09,348 - INFO - No translation for group 9
+2024-09-11 07:03:09,356 - INFO - No translation for group 9
+2024-09-11 07:03:09,364 - INFO - No translation for group 9
+2024-09-11 07:03:09,372 - INFO - No translation for group 9
+2024-09-11 07:03:09,380 - INFO - No translation for group 9
+2024-09-11 07:03:09,390 - INFO - No translation for group 9
+2024-09-11 07:03:09,402 - INFO - No translation for group 9
+2024-09-11 07:03:09,413 - INFO - No translation for group 9
+2024-09-11 07:03:09,422 - INFO - No translation for group 9
+2024-09-11 07:03:09,430 - INFO - No translation for group 9
+2024-09-11 07:03:09,440 - INFO - No translation for group 9
+2024-09-11 07:03:09,449 - INFO - No translation for group 9
+2024-09-11 07:03:09,457 - INFO - No translation for group 9
+2024-09-11 07:03:09,466 - INFO - No translation for group 9
+2024-09-11 07:03:09,474 - INFO - No translation for group 9
+2024-09-11 07:03:09,482 - INFO - No translation for group 9
+2024-09-11 07:03:09,491 - INFO - No translation for group 9
+2024-09-11 07:03:09,499 - INFO - No translation for group 9
+2024-09-11 07:03:09,511 - INFO - No translation for group 9
+2024-09-11 07:03:09,520 - INFO - No translation for group 9
+2024-09-11 07:03:09,529 - INFO - No translation for group 9
+2024-09-11 07:03:09,538 - INFO - No translation for group 9
+2024-09-11 07:03:09,548 - INFO - No translation for group 9
+2024-09-11 07:03:09,557 - INFO - No translation for group 9
+2024-09-11 07:03:09,565 - INFO - No translation for group 9
+2024-09-11 07:03:09,573 - INFO - No translation for group 9
+2024-09-11 07:03:09,581 - INFO - No translation for group 9
+2024-09-11 07:03:09,589 - INFO - No translation for group 9
+2024-09-11 07:03:09,596 - INFO - No translation for group 9
+2024-09-11 07:03:09,605 - INFO - No translation for group 9
+2024-09-11 07:03:09,617 - INFO - No translation for group 9
+2024-09-11 07:03:09,625 - INFO - No translation for group 9
+2024-09-11 07:03:09,633 - INFO - No translation for group 9
+2024-09-11 07:03:09,642 - INFO - No translation for group 9
+2024-09-11 07:03:09,650 - INFO - No translation for group 9
+2024-09-11 07:03:09,658 - INFO - No translation for group 9
+2024-09-11 07:03:09,666 - INFO - No translation for group 9
+2024-09-11 07:03:09,674 - INFO - No translation for group 9
+2024-09-11 07:03:09,682 - INFO - No translation for group 9
+2024-09-11 07:03:09,690 - INFO - No translation for group 9
+2024-09-11 07:03:09,699 - INFO - No translation for group 9
+2024-09-11 07:03:09,707 - INFO - No translation for group 9
+2024-09-11 07:03:09,718 - INFO - No translation for group 9
+2024-09-11 07:03:09,727 - INFO - No translation for group 9
+2024-09-11 07:03:09,734 - INFO - No translation for group 9
+2024-09-11 07:03:09,742 - INFO - No translation for group 9
+2024-09-11 07:03:09,750 - INFO - No translation for group 9
+2024-09-11 07:03:09,758 - INFO - No translation for group 9
+2024-09-11 07:03:09,765 - INFO - No translation for group 9
+2024-09-11 07:03:09,774 - INFO - No translation for group 9
+2024-09-11 07:03:09,783 - INFO - No translation for group 9
+2024-09-11 07:03:09,792 - INFO - No translation for group 9
+2024-09-11 07:03:09,800 - INFO - No translation for group 9
+2024-09-11 07:03:09,809 - INFO - No translation for group 9
+2024-09-11 07:03:09,820 - INFO - No translation for group 9
+2024-09-11 07:03:09,830 - INFO - No translation for group 9
+2024-09-11 07:03:09,840 - INFO - No translation for group 9
+2024-09-11 07:03:09,850 - INFO - No translation for group 9
+2024-09-11 07:03:09,859 - INFO - No translation for group 9
+2024-09-11 07:03:09,866 - INFO - No translation for group 9
+2024-09-11 07:03:09,877 - INFO - No translation for group 9
+2024-09-11 07:03:09,886 - INFO - No translation for group 9
+2024-09-11 07:03:09,895 - INFO - No translation for group 9
+2024-09-11 07:03:09,904 - INFO - No translation for group 9
+2024-09-11 07:03:09,911 - INFO - No translation for group 9
+2024-09-11 07:03:09,919 - INFO - No translation for group 9
+2024-09-11 07:03:09,931 - INFO - No translation for group 9
+2024-09-11 07:03:09,940 - INFO - No translation for group 9
+2024-09-11 07:03:09,948 - INFO - No translation for group 9
+2024-09-11 07:03:09,956 - INFO - No translation for group 9
+2024-09-11 07:03:09,964 - INFO - No translation for group 9
+2024-09-11 07:03:09,971 - INFO - No translation for group 9
+2024-09-11 07:03:09,979 - INFO - No translation for group 9
+2024-09-11 07:03:09,987 - INFO - No translation for group 9
+2024-09-11 07:03:09,996 - INFO - No translation for group 9
+2024-09-11 07:03:10,004 - INFO - No translation for group 9
+2024-09-11 07:03:10,012 - INFO - No translation for group 9
+2024-09-11 07:03:10,020 - INFO - No translation for group 9
+2024-09-11 07:03:10,032 - INFO - No translation for group 9
+2024-09-11 07:03:10,040 - INFO - No translation for group 9
+2024-09-11 07:03:10,049 - INFO - No translation for group 9
+2024-09-11 07:03:10,057 - INFO - No translation for group 9
+2024-09-11 07:03:10,066 - INFO - No translation for group 9
+2024-09-11 07:03:10,076 - INFO - No translation for group 9
+2024-09-11 07:03:10,086 - INFO - No translation for group 9
+2024-09-11 07:03:10,095 - INFO - No translation for group 9
+2024-09-11 07:03:10,103 - INFO - No translation for group 9
+2024-09-11 07:03:10,111 - INFO - No translation for group 9
+2024-09-11 07:03:10,118 - INFO - No translation for group 9
+2024-09-11 07:03:10,126 - INFO - No translation for group 9
+2024-09-11 07:03:10,138 - INFO - No translation for group 9
+2024-09-11 07:03:10,146 - INFO - No translation for group 9
+2024-09-11 07:03:10,154 - INFO - No translation for group 9
+2024-09-11 07:03:10,164 - INFO - No translation for group 9
+2024-09-11 07:03:10,173 - INFO - No translation for group 9
+2024-09-11 07:03:10,181 - INFO - No translation for group 9
+2024-09-11 07:03:10,188 - INFO - No translation for group 9
+2024-09-11 07:03:10,198 - INFO - No translation for group 9
+2024-09-11 07:03:10,208 - INFO - No translation for group 9
+2024-09-11 07:03:10,219 - INFO - No translation for group 9
+2024-09-11 07:03:10,226 - INFO - No translation for group 9
+2024-09-11 07:03:10,235 - INFO - No translation for group 9
+2024-09-11 07:03:10,246 - INFO - No translation for group 9
+2024-09-11 07:03:10,254 - INFO - No translation for group 9
+2024-09-11 07:03:10,262 - INFO - No translation for group 9
+2024-09-11 07:03:10,271 - INFO - No translation for group 9
+2024-09-11 07:03:10,279 - INFO - No translation for group 9
+2024-09-11 07:03:10,287 - INFO - No translation for group 9
+2024-09-11 07:03:10,295 - INFO - No translation for group 9
+2024-09-11 07:03:10,302 - INFO - No translation for group 9
+2024-09-11 07:03:10,310 - INFO - No translation for group 9
+2024-09-11 07:03:10,317 - INFO - No translation for group 9
+2024-09-11 07:03:10,325 - INFO - No translation for group 9
+2024-09-11 07:03:10,333 - INFO - No translation for group 9
+2024-09-11 07:03:10,344 - INFO - No translation for group 9
+2024-09-11 07:03:10,352 - INFO - No translation for group 9
+2024-09-11 07:03:10,361 - INFO - No translation for group 9
+2024-09-11 07:03:10,370 - INFO - No translation for group 9
+2024-09-11 07:03:10,379 - INFO - No translation for group 9
+2024-09-11 07:03:10,387 - INFO - No translation for group 9
+2024-09-11 07:03:10,396 - INFO - No translation for group 9
+2024-09-11 07:03:10,404 - INFO - No translation for group 9
+2024-09-11 07:03:10,412 - INFO - No translation for group 9
+2024-09-11 07:03:10,420 - INFO - No translation for group 9
+2024-09-11 07:03:10,429 - INFO - No translation for group 9
+2024-09-11 07:03:10,438 - INFO - No translation for group 9
+2024-09-11 07:03:10,449 - INFO - No translation for group 9
+2024-09-11 07:03:10,457 - INFO - No translation for group 9
+2024-09-11 07:03:10,465 - INFO - No translation for group 9
+2024-09-11 07:03:10,473 - INFO - No translation for group 9
+2024-09-11 07:03:10,481 - INFO - No translation for group 9
+2024-09-11 07:03:10,490 - INFO - No translation for group 9
+2024-09-11 07:03:10,498 - INFO - No translation for group 9
+2024-09-11 07:03:10,508 - INFO - No translation for group 9
+2024-09-11 07:03:10,516 - INFO - No translation for group 9
+2024-09-11 07:03:10,523 - INFO - No translation for group 9
+2024-09-11 07:03:10,532 - INFO - No translation for group 9
+2024-09-11 07:03:10,541 - INFO - No translation for group 9
+2024-09-11 07:03:10,553 - INFO - No translation for group 9
+2024-09-11 07:03:10,563 - INFO - No translation for group 9
+2024-09-11 07:03:10,573 - INFO - No translation for group 9
+2024-09-11 07:03:10,583 - INFO - No translation for group 9
+2024-09-11 07:03:10,592 - INFO - No translation for group 9
+2024-09-11 07:03:10,602 - INFO - No translation for group 9
+2024-09-11 07:03:10,612 - INFO - No translation for group 9
+2024-09-11 07:03:10,621 - INFO - No translation for group 9
+2024-09-11 07:03:10,629 - INFO - No translation for group 9
+2024-09-11 07:03:10,636 - INFO - No translation for group 9
+2024-09-11 07:03:10,645 - INFO - No translation for group 9
+2024-09-11 07:03:10,653 - INFO - No translation for group 9
+2024-09-11 07:03:10,665 - INFO - No translation for group 9
+2024-09-11 07:03:10,673 - INFO - No translation for group 9
+2024-09-11 07:03:10,681 - INFO - No translation for group 9
+2024-09-11 07:03:10,689 - INFO - No translation for group 9
+2024-09-11 07:03:10,698 - INFO - No translation for group 9
+2024-09-11 07:03:10,706 - INFO - No translation for group 9
+2024-09-11 07:03:10,714 - INFO - No translation for group 9
+2024-09-11 07:03:10,722 - INFO - No translation for group 9
+2024-09-11 07:03:10,730 - INFO - No translation for group 9
+2024-09-11 07:03:10,737 - INFO - No translation for group 9
+2024-09-11 07:03:10,745 - INFO - No translation for group 9
+2024-09-11 07:03:10,753 - INFO - No translation for group 9
+2024-09-11 07:03:10,764 - INFO - No translation for group 9
+2024-09-11 07:03:10,772 - INFO - No translation for group 9
+2024-09-11 07:03:10,780 - INFO - No translation for group 9
+2024-09-11 07:03:10,788 - INFO - No translation for group 9
+2024-09-11 07:03:10,796 - INFO - No translation for group 9
+2024-09-11 07:03:10,804 - INFO - No translation for group 9
+2024-09-11 07:03:10,811 - INFO - No translation for group 9
+2024-09-11 07:03:10,820 - INFO - No translation for group 9
+2024-09-11 07:03:10,828 - INFO - No translation for group 9
+2024-09-11 07:03:10,835 - INFO - No translation for group 9
+2024-09-11 07:03:10,843 - INFO - No translation for group 9
+2024-09-11 07:03:10,850 - INFO - No translation for group 9
+2024-09-11 07:03:10,861 - INFO - No translation for group 9
+2024-09-11 07:03:10,869 - INFO - No translation for group 9
+2024-09-11 07:03:10,877 - INFO - No translation for group 9
+2024-09-11 07:03:10,885 - INFO - No translation for group 9
+2024-09-11 07:03:10,892 - INFO - No translation for group 9
+2024-09-11 07:03:10,900 - INFO - No translation for group 9
+2024-09-11 07:03:10,908 - INFO - No translation for group 9
+2024-09-11 07:03:10,916 - INFO - No translation for group 9
+2024-09-11 07:03:10,924 - INFO - No translation for group 9
+2024-09-11 07:03:10,932 - INFO - No translation for group 9
+2024-09-11 07:03:10,940 - INFO - No translation for group 9
+2024-09-11 07:03:10,948 - INFO - No translation for group 9
+2024-09-11 07:03:10,959 - INFO - No translation for group 9
+2024-09-11 07:03:10,967 - INFO - No translation for group 9
+2024-09-11 07:03:10,975 - INFO - No translation for group 9
+2024-09-11 07:03:10,982 - INFO - No translation for group 9
+2024-09-11 07:03:10,990 - INFO - No translation for group 9
+2024-09-11 07:03:10,998 - INFO - No translation for group 9
+2024-09-11 07:03:11,006 - INFO - No translation for group 9
+2024-09-11 07:03:11,014 - INFO - No translation for group 9
+2024-09-11 07:03:11,021 - INFO - No translation for group 9
+2024-09-11 07:03:11,029 - INFO - No translation for group 9
+2024-09-11 07:03:11,037 - INFO - No translation for group 9
+2024-09-11 07:03:11,045 - INFO - No translation for group 9
+2024-09-11 07:03:11,056 - INFO - No translation for group 9
+2024-09-11 07:03:11,064 - INFO - No translation for group 9
+2024-09-11 07:03:11,072 - INFO - No translation for group 9
+2024-09-11 07:03:11,080 - INFO - No translation for group 9
+2024-09-11 07:03:11,095 - INFO - No translation for group 9
+2024-09-11 07:03:11,103 - INFO - No translation for group 9
+2024-09-11 07:03:11,112 - INFO - No translation for group 9
+2024-09-11 07:03:11,120 - INFO - No translation for group 9
+2024-09-11 07:03:11,130 - INFO - No translation for group 9
+2024-09-11 07:03:11,137 - INFO - No translation for group 9
+2024-09-11 07:03:11,145 - INFO - No translation for group 9
+2024-09-11 07:03:11,153 - INFO - No translation for group 9
+2024-09-11 07:03:11,164 - INFO - No translation for group 9
+2024-09-11 07:03:11,172 - INFO - No translation for group 9
+2024-09-11 07:03:11,180 - INFO - No translation for group 9
+2024-09-11 07:03:11,189 - INFO - No translation for group 9
+2024-09-11 07:03:11,198 - INFO - No translation for group 9
+2024-09-11 07:03:11,205 - INFO - No translation for group 9
+2024-09-11 07:03:11,213 - INFO - No translation for group 9
+2024-09-11 07:03:11,221 - INFO - No translation for group 9
+2024-09-11 07:03:11,230 - INFO - No translation for group 9
+2024-09-11 07:03:11,239 - INFO - No translation for group 9
+2024-09-11 07:03:11,247 - INFO - No translation for group 9
+2024-09-11 07:03:11,256 - INFO - No translation for group 9
+2024-09-11 07:03:11,267 - INFO - No translation for group 9
+2024-09-11 07:03:11,276 - INFO - No translation for group 9
+2024-09-11 07:03:11,284 - INFO - No translation for group 9
+2024-09-11 07:03:11,292 - INFO - No translation for group 9
+2024-09-11 07:03:11,300 - INFO - No translation for group 9
+2024-09-11 07:03:11,308 - INFO - No translation for group 9
+2024-09-11 07:03:11,315 - INFO - No translation for group 9
+2024-09-11 07:03:11,323 - INFO - No translation for group 9
+2024-09-11 07:03:11,331 - INFO - No translation for group 9
+2024-09-11 07:03:11,338 - INFO - No translation for group 9
+2024-09-11 07:03:11,345 - INFO - No translation for group 9
+2024-09-11 07:03:11,353 - INFO - No translation for group 9
+2024-09-11 07:03:11,365 - INFO - No translation for group 9
+2024-09-11 07:03:11,374 - INFO - No translation for group 9
+2024-09-11 07:03:11,381 - INFO - No translation for group 9
+2024-09-11 07:03:11,389 - INFO - No translation for group 9
+2024-09-11 07:03:11,397 - INFO - No translation for group 9
+2024-09-11 07:03:11,405 - INFO - No translation for group 9
+2024-09-11 07:03:11,414 - INFO - No translation for group 9
+2024-09-11 07:03:11,422 - INFO - No translation for group 9
+2024-09-11 07:03:11,432 - INFO - No translation for group 9
+2024-09-11 07:03:11,439 - INFO - No translation for group 9
+2024-09-11 07:03:11,447 - INFO - No translation for group 9
+2024-09-11 07:03:11,454 - INFO - No translation for group 9
+2024-09-11 07:03:11,466 - INFO - No translation for group 9
+2024-09-11 07:03:11,475 - INFO - No translation for group 9
+2024-09-11 07:03:11,483 - INFO - No translation for group 9
+2024-09-11 07:03:11,490 - INFO - No translation for group 9
+2024-09-11 07:03:11,498 - INFO - No translation for group 9
+2024-09-11 07:03:11,505 - INFO - No translation for group 9
+2024-09-11 07:03:11,512 - INFO - No translation for group 9
+2024-09-11 07:03:11,520 - INFO - No translation for group 9
+2024-09-11 07:03:11,530 - INFO - No translation for group 9
+2024-09-11 07:03:11,540 - INFO - No translation for group 9
+2024-09-11 07:03:11,548 - INFO - No translation for group 9
+2024-09-11 07:03:11,558 - INFO - No translation for group 9
+2024-09-11 07:03:11,570 - INFO - No translation for group 9
+2024-09-11 07:03:11,580 - INFO - No translation for group 9
+2024-09-11 07:03:11,589 - INFO - No translation for group 9
+2024-09-11 07:03:11,598 - INFO - No translation for group 9
+2024-09-11 07:03:11,606 - INFO - No translation for group 9
+2024-09-11 07:03:11,614 - INFO - No translation for group 9
+2024-09-11 07:03:11,622 - INFO - No translation for group 9
+2024-09-11 07:03:11,629 - INFO - No translation for group 9
+2024-09-11 07:03:11,637 - INFO - No translation for group 9
+2024-09-11 07:03:11,645 - INFO - Processed group 9, total frames: 478/734
+2024-09-11 07:03:11,646 - INFO - No translation for group 10
+2024-09-11 07:03:11,655 - INFO - No translation for group 10
+2024-09-11 07:03:11,664 - INFO - No translation for group 10
+2024-09-11 07:03:11,676 - INFO - No translation for group 10
+2024-09-11 07:03:11,686 - INFO - No translation for group 10
+2024-09-11 07:03:11,693 - INFO - No translation for group 10
+2024-09-11 07:03:11,701 - INFO - No translation for group 10
+2024-09-11 07:03:11,709 - INFO - No translation for group 10
+2024-09-11 07:03:11,717 - INFO - No translation for group 10
+2024-09-11 07:03:11,725 - INFO - No translation for group 10
+2024-09-11 07:03:11,733 - INFO - No translation for group 10
+2024-09-11 07:03:11,742 - INFO - No translation for group 10
+2024-09-11 07:03:11,750 - INFO - No translation for group 10
+2024-09-11 07:03:11,758 - INFO - No translation for group 10
+2024-09-11 07:03:11,766 - INFO - No translation for group 10
+2024-09-11 07:03:11,777 - INFO - No translation for group 10
+2024-09-11 07:03:11,785 - INFO - No translation for group 10
+2024-09-11 07:03:11,793 - INFO - No translation for group 10
+2024-09-11 07:03:11,801 - INFO - No translation for group 10
+2024-09-11 07:03:11,809 - INFO - No translation for group 10
+2024-09-11 07:03:11,817 - INFO - No translation for group 10
+2024-09-11 07:03:11,825 - INFO - No translation for group 10
+2024-09-11 07:03:11,832 - INFO - No translation for group 10
+2024-09-11 07:03:11,842 - INFO - No translation for group 10
+2024-09-11 07:03:11,852 - INFO - No translation for group 10
+2024-09-11 07:03:11,859 - INFO - No translation for group 10
+2024-09-11 07:03:11,867 - INFO - No translation for group 10
+2024-09-11 07:03:11,879 - INFO - No translation for group 10
+2024-09-11 07:03:11,887 - INFO - No translation for group 10
+2024-09-11 07:03:11,895 - INFO - No translation for group 10
+2024-09-11 07:03:11,902 - INFO - No translation for group 10
+2024-09-11 07:03:11,910 - INFO - No translation for group 10
+2024-09-11 07:03:11,918 - INFO - No translation for group 10
+2024-09-11 07:03:11,926 - INFO - No translation for group 10
+2024-09-11 07:03:11,933 - INFO - No translation for group 10
+2024-09-11 07:03:11,941 - INFO - No translation for group 10
+2024-09-11 07:03:11,949 - INFO - No translation for group 10
+2024-09-11 07:03:11,957 - INFO - No translation for group 10
+2024-09-11 07:03:11,965 - INFO - No translation for group 10
+2024-09-11 07:03:11,976 - INFO - No translation for group 10
+2024-09-11 07:03:11,984 - INFO - No translation for group 10
+2024-09-11 07:03:11,992 - INFO - No translation for group 10
+2024-09-11 07:03:11,999 - INFO - No translation for group 10
+2024-09-11 07:03:12,007 - INFO - No translation for group 10
+2024-09-11 07:03:12,014 - INFO - No translation for group 10
+2024-09-11 07:03:12,022 - INFO - No translation for group 10
+2024-09-11 07:03:12,031 - INFO - No translation for group 10
+2024-09-11 07:03:12,041 - INFO - No translation for group 10
+2024-09-11 07:03:12,049 - INFO - No translation for group 10
+2024-09-11 07:03:12,057 - INFO - No translation for group 10
+2024-09-11 07:03:12,068 - INFO - No translation for group 10
+2024-09-11 07:03:12,080 - INFO - No translation for group 10
+2024-09-11 07:03:12,088 - INFO - No translation for group 10
+2024-09-11 07:03:12,096 - INFO - No translation for group 10
+2024-09-11 07:03:12,104 - INFO - No translation for group 10
+2024-09-11 07:03:12,111 - INFO - No translation for group 10
+2024-09-11 07:03:12,120 - INFO - No translation for group 10
+2024-09-11 07:03:12,127 - INFO - No translation for group 10
+2024-09-11 07:03:12,136 - INFO - No translation for group 10
+2024-09-11 07:03:12,145 - INFO - No translation for group 10
+2024-09-11 07:03:12,153 - INFO - No translation for group 10
+2024-09-11 07:03:12,161 - INFO - No translation for group 10
+2024-09-11 07:03:12,169 - INFO - No translation for group 10
+2024-09-11 07:03:12,181 - INFO - No translation for group 10
+2024-09-11 07:03:12,189 - INFO - No translation for group 10
+2024-09-11 07:03:12,197 - INFO - No translation for group 10
+2024-09-11 07:03:12,205 - INFO - No translation for group 10
+2024-09-11 07:03:12,214 - INFO - No translation for group 10
+2024-09-11 07:03:12,224 - INFO - No translation for group 10
+2024-09-11 07:03:12,234 - INFO - No translation for group 10
+2024-09-11 07:03:12,243 - INFO - No translation for group 10
+2024-09-11 07:03:12,250 - INFO - No translation for group 10
+2024-09-11 07:03:12,258 - INFO - No translation for group 10
+2024-09-11 07:03:12,266 - INFO - No translation for group 10
+2024-09-11 07:03:12,276 - INFO - No translation for group 10
+2024-09-11 07:03:12,290 - INFO - No translation for group 10
+2024-09-11 07:03:12,298 - INFO - No translation for group 10
+2024-09-11 07:03:12,307 - INFO - No translation for group 10
+2024-09-11 07:03:12,317 - INFO - No translation for group 10
+2024-09-11 07:03:12,325 - INFO - No translation for group 10
+2024-09-11 07:03:12,334 - INFO - No translation for group 10
+2024-09-11 07:03:12,342 - INFO - No translation for group 10
+2024-09-11 07:03:12,350 - INFO - No translation for group 10
+2024-09-11 07:03:12,358 - INFO - No translation for group 10
+2024-09-11 07:03:12,366 - INFO - No translation for group 10
+2024-09-11 07:03:12,376 - INFO - No translation for group 10
+2024-09-11 07:03:12,386 - INFO - No translation for group 10
+2024-09-11 07:03:12,400 - INFO - No translation for group 10
+2024-09-11 07:03:12,411 - INFO - No translation for group 10
+2024-09-11 07:03:12,420 - INFO - No translation for group 10
+2024-09-11 07:03:12,429 - INFO - No translation for group 10
+2024-09-11 07:03:12,438 - INFO - No translation for group 10
+2024-09-11 07:03:12,445 - INFO - No translation for group 10
+2024-09-11 07:03:12,453 - INFO - No translation for group 10
+2024-09-11 07:03:12,461 - INFO - No translation for group 10
+2024-09-11 07:03:12,469 - INFO - No translation for group 10
+2024-09-11 07:03:12,479 - INFO - No translation for group 10
+2024-09-11 07:03:12,488 - INFO - No translation for group 10
+2024-09-11 07:03:12,496 - INFO - No translation for group 10
+2024-09-11 07:03:12,508 - INFO - No translation for group 10
+2024-09-11 07:03:12,516 - INFO - No translation for group 10
+2024-09-11 07:03:12,523 - INFO - No translation for group 10
+2024-09-11 07:03:12,533 - INFO - No translation for group 10
+2024-09-11 07:03:12,542 - INFO - No translation for group 10
+2024-09-11 07:03:12,552 - INFO - No translation for group 10
+2024-09-11 07:03:12,562 - INFO - No translation for group 10
+2024-09-11 07:03:12,572 - INFO - No translation for group 10
+2024-09-11 07:03:12,582 - INFO - No translation for group 10
+2024-09-11 07:03:12,594 - INFO - No translation for group 10
+2024-09-11 07:03:12,608 - INFO - No translation for group 10
+2024-09-11 07:03:12,619 - INFO - No translation for group 10
+2024-09-11 07:03:12,632 - INFO - No translation for group 10
+2024-09-11 07:03:12,643 - INFO - No translation for group 10
+2024-09-11 07:03:12,652 - INFO - No translation for group 10
+2024-09-11 07:03:12,660 - INFO - No translation for group 10
+2024-09-11 07:03:12,670 - INFO - No translation for group 10
+2024-09-11 07:03:12,678 - INFO - No translation for group 10
+2024-09-11 07:03:12,687 - INFO - No translation for group 10
+2024-09-11 07:03:12,695 - INFO - No translation for group 10
+2024-09-11 07:03:12,704 - INFO - No translation for group 10
+2024-09-11 07:03:12,712 - INFO - No translation for group 10
+2024-09-11 07:03:12,723 - INFO - No translation for group 10
+2024-09-11 07:03:12,735 - INFO - No translation for group 10
+2024-09-11 07:03:12,747 - INFO - No translation for group 10
+2024-09-11 07:03:12,756 - INFO - No translation for group 10
+2024-09-11 07:03:12,765 - INFO - No translation for group 10
+2024-09-11 07:03:12,773 - INFO - No translation for group 10
+2024-09-11 07:03:12,783 - INFO - No translation for group 10
+2024-09-11 07:03:12,792 - INFO - No translation for group 10
+2024-09-11 07:03:12,802 - INFO - No translation for group 10
+2024-09-11 07:03:12,812 - INFO - No translation for group 10
+2024-09-11 07:03:12,821 - INFO - No translation for group 10
+2024-09-11 07:03:12,830 - INFO - No translation for group 10
+2024-09-11 07:03:12,840 - INFO - No translation for group 10
+2024-09-11 07:03:12,850 - INFO - No translation for group 10
+2024-09-11 07:03:12,865 - INFO - No translation for group 10
+2024-09-11 07:03:12,876 - INFO - No translation for group 10
+2024-09-11 07:03:12,885 - INFO - No translation for group 10
+2024-09-11 07:03:12,895 - INFO - No translation for group 10
+2024-09-11 07:03:12,905 - INFO - No translation for group 10
+2024-09-11 07:03:12,915 - INFO - No translation for group 10
+2024-09-11 07:03:12,924 - INFO - No translation for group 10
+2024-09-11 07:03:12,934 - INFO - No translation for group 10
+2024-09-11 07:03:12,945 - INFO - No translation for group 10
+2024-09-11 07:03:12,954 - INFO - No translation for group 10
+2024-09-11 07:03:12,964 - INFO - No translation for group 10
+2024-09-11 07:03:12,973 - INFO - No translation for group 10
+2024-09-11 07:03:12,985 - INFO - No translation for group 10
+2024-09-11 07:03:12,995 - INFO - No translation for group 10
+2024-09-11 07:03:13,005 - INFO - No translation for group 10
+2024-09-11 07:03:13,014 - INFO - No translation for group 10
+2024-09-11 07:03:13,023 - INFO - No translation for group 10
+2024-09-11 07:03:13,033 - INFO - No translation for group 10
+2024-09-11 07:03:13,041 - INFO - No translation for group 10
+2024-09-11 07:03:13,050 - INFO - No translation for group 10
+2024-09-11 07:03:13,060 - INFO - No translation for group 10
+2024-09-11 07:03:13,070 - INFO - No translation for group 10
+2024-09-11 07:03:13,080 - INFO - No translation for group 10
+2024-09-11 07:03:13,089 - INFO - No translation for group 10
+2024-09-11 07:03:13,101 - INFO - No translation for group 10
+2024-09-11 07:03:13,111 - INFO - No translation for group 10
+2024-09-11 07:03:13,119 - INFO - No translation for group 10
+2024-09-11 07:03:13,127 - INFO - No translation for group 10
+2024-09-11 07:03:13,135 - INFO - No translation for group 10
+2024-09-11 07:03:13,142 - INFO - No translation for group 10
+2024-09-11 07:03:13,152 - INFO - No translation for group 10
+2024-09-11 07:03:13,160 - INFO - No translation for group 10
+2024-09-11 07:03:13,168 - INFO - No translation for group 10
+2024-09-11 07:03:13,176 - INFO - No translation for group 10
+2024-09-11 07:03:13,184 - INFO - No translation for group 10
+2024-09-11 07:03:13,191 - INFO - No translation for group 10
+2024-09-11 07:03:13,203 - INFO - No translation for group 10
+2024-09-11 07:03:13,211 - INFO - No translation for group 10
+2024-09-11 07:03:13,219 - INFO - No translation for group 10
+2024-09-11 07:03:13,226 - INFO - No translation for group 10
+2024-09-11 07:03:13,234 - INFO - No translation for group 10
+2024-09-11 07:03:13,241 - INFO - No translation for group 10
+2024-09-11 07:03:13,249 - INFO - No translation for group 10
+2024-09-11 07:03:13,257 - INFO - No translation for group 10
+2024-09-11 07:03:13,265 - INFO - No translation for group 10
+2024-09-11 07:03:13,272 - INFO - No translation for group 10
+2024-09-11 07:03:13,280 - INFO - No translation for group 10
+2024-09-11 07:03:13,287 - INFO - No translation for group 10
+2024-09-11 07:03:13,298 - INFO - No translation for group 10
+2024-09-11 07:03:13,306 - INFO - No translation for group 10
+2024-09-11 07:03:13,314 - INFO - No translation for group 10
+2024-09-11 07:03:13,321 - INFO - No translation for group 10
+2024-09-11 07:03:13,332 - INFO - No translation for group 10
+2024-09-11 07:03:13,339 - INFO - No translation for group 10
+2024-09-11 07:03:13,347 - INFO - No translation for group 10
+2024-09-11 07:03:13,355 - INFO - No translation for group 10
+2024-09-11 07:03:13,363 - INFO - No translation for group 10
+2024-09-11 07:03:13,372 - INFO - No translation for group 10
+2024-09-11 07:03:13,379 - INFO - No translation for group 10
+2024-09-11 07:03:13,387 - INFO - No translation for group 10
+2024-09-11 07:03:13,398 - INFO - No translation for group 10
+2024-09-11 07:03:13,406 - INFO - No translation for group 10
+2024-09-11 07:03:13,413 - INFO - No translation for group 10
+2024-09-11 07:03:13,421 - INFO - No translation for group 10
+2024-09-11 07:03:13,428 - INFO - No translation for group 10
+2024-09-11 07:03:13,436 - INFO - No translation for group 10
+2024-09-11 07:03:13,443 - INFO - No translation for group 10
+2024-09-11 07:03:13,451 - INFO - No translation for group 10
+2024-09-11 07:03:13,458 - INFO - No translation for group 10
+2024-09-11 07:03:13,466 - INFO - No translation for group 10
+2024-09-11 07:03:13,473 - INFO - No translation for group 10
+2024-09-11 07:03:13,481 - INFO - No translation for group 10
+2024-09-11 07:03:13,492 - INFO - No translation for group 10
+2024-09-11 07:03:13,501 - INFO - No translation for group 10
+2024-09-11 07:03:13,508 - INFO - No translation for group 10
+2024-09-11 07:03:13,516 - INFO - No translation for group 10
+2024-09-11 07:03:13,523 - INFO - No translation for group 10
+2024-09-11 07:03:13,531 - INFO - No translation for group 10
+2024-09-11 07:03:13,540 - INFO - No translation for group 10
+2024-09-11 07:03:13,548 - INFO - No translation for group 10
+2024-09-11 07:03:13,557 - INFO - No translation for group 10
+2024-09-11 07:03:13,565 - INFO - No translation for group 10
+2024-09-11 07:03:13,574 - INFO - No translation for group 10
+2024-09-11 07:03:13,582 - INFO - No translation for group 10
+2024-09-11 07:03:13,593 - INFO - No translation for group 10
+2024-09-11 07:03:13,604 - INFO - No translation for group 10
+2024-09-11 07:03:13,613 - INFO - No translation for group 10
+2024-09-11 07:03:13,621 - INFO - No translation for group 10
+2024-09-11 07:03:13,630 - INFO - No translation for group 10
+2024-09-11 07:03:13,638 - INFO - No translation for group 10
+2024-09-11 07:03:13,646 - INFO - No translation for group 10
+2024-09-11 07:03:13,655 - INFO - No translation for group 10
+2024-09-11 07:03:13,664 - INFO - No translation for group 10
+2024-09-11 07:03:13,673 - INFO - No translation for group 10
+2024-09-11 07:03:13,682 - INFO - No translation for group 10
+2024-09-11 07:03:13,692 - INFO - No translation for group 10
+2024-09-11 07:03:13,705 - INFO - No translation for group 10
+2024-09-11 07:03:13,716 - INFO - No translation for group 10
+2024-09-11 07:03:13,726 - INFO - No translation for group 10
+2024-09-11 07:03:13,733 - INFO - No translation for group 10
+2024-09-11 07:03:13,741 - INFO - No translation for group 10
+2024-09-11 07:03:13,749 - INFO - No translation for group 10
+2024-09-11 07:03:13,756 - INFO - No translation for group 10
+2024-09-11 07:03:13,764 - INFO - No translation for group 10
+2024-09-11 07:03:13,772 - INFO - No translation for group 10
+2024-09-11 07:03:13,780 - INFO - No translation for group 10
+2024-09-11 07:03:13,788 - INFO - No translation for group 10
+2024-09-11 07:03:13,795 - INFO - No translation for group 10
+2024-09-11 07:03:13,806 - INFO - No translation for group 10
+2024-09-11 07:03:13,815 - INFO - No translation for group 10
+2024-09-11 07:03:13,823 - INFO - No translation for group 10
+2024-09-11 07:03:13,830 - INFO - No translation for group 10
+2024-09-11 07:03:13,838 - INFO - No translation for group 10
+2024-09-11 07:03:13,846 - INFO - No translation for group 10
+2024-09-11 07:03:13,854 - INFO - No translation for group 10
+2024-09-11 07:03:13,862 - INFO - No translation for group 10
+2024-09-11 07:03:13,871 - INFO - No translation for group 10
+2024-09-11 07:03:13,879 - INFO - No translation for group 10
+2024-09-11 07:03:13,887 - INFO - No translation for group 10
+2024-09-11 07:03:13,896 - INFO - No translation for group 10
+2024-09-11 07:03:13,907 - INFO - No translation for group 10
+2024-09-11 07:03:13,915 - INFO - Processed group 10, total frames: 734/734
+2024-09-11 07:03:13,916 - INFO - Adding audio to the output video...
+2024-09-11 07:03:27,436 - INFO - Video processing complete!

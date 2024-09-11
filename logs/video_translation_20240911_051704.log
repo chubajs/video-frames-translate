@@ -1,0 +1,194 @@
+2024-09-11 05:17:04,287 - INFO - Starting video processing for tmp/sample1.mp4
+2024-09-11 05:17:04,337 - INFO - Grouping frame 0/734
+2024-09-11 05:17:05,634 - INFO - Grouping frame 100/734
+2024-09-11 05:17:06,748 - INFO - Grouping frame 200/734
+2024-09-11 05:17:07,859 - INFO - Grouping frame 300/734
+2024-09-11 05:17:08,982 - INFO - Grouping frame 400/734
+2024-09-11 05:17:10,154 - INFO - Grouping frame 500/734
+2024-09-11 05:17:11,328 - INFO - Grouping frame 600/734
+2024-09-11 05:17:12,504 - INFO - Grouping frame 700/734
+2024-09-11 05:17:12,861 - INFO - Grouped frames into 10 groups
+2024-09-11 05:17:12,871 - INFO - Original frame size: 1440x1080
+2024-09-11 05:17:12,872 - INFO - Resized frame for API: 1440x576
+2024-09-11 05:17:14,582 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 05:17:14,582 - INFO - Scaling factors: x=1.0, y=1.875
+2024-09-11 05:17:14,583 - INFO - Detected 0 text blocks
+2024-09-11 05:17:14,583 - INFO - Original frame size: 1440x1080
+2024-09-11 05:17:14,584 - INFO - Resized frame for API: 1440x576
+2024-09-11 05:17:16,227 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 05:17:16,227 - INFO - Scaling factors: x=1.0, y=1.875
+2024-09-11 05:17:16,227 - INFO - Detected 0 text blocks
+2024-09-11 05:17:16,227 - INFO - Original frame size: 1440x1080
+2024-09-11 05:17:16,228 - INFO - Resized frame for API: 1440x576
+2024-09-11 05:17:19,443 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 05:17:19,443 - INFO - Scaling factors: x=1.0, y=1.875
+2024-09-11 05:17:19,443 - INFO - Detected 0 text blocks
+2024-09-11 05:17:19,444 - INFO - Original frame size: 1440x1080
+2024-09-11 05:17:19,445 - INFO - Resized frame for API: 1440x576
+2024-09-11 05:17:22,146 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 05:17:22,146 - INFO - Scaling factors: x=1.0, y=1.875
+2024-09-11 05:17:22,146 - INFO - Detected 0 text blocks
+2024-09-11 05:17:22,146 - INFO - Original frame size: 1440x1080
+2024-09-11 05:17:22,147 - INFO - Resized frame for API: 1440x576
+2024-09-11 05:17:24,375 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 05:17:24,375 - INFO - Scaling factors: x=1.0, y=1.875
+2024-09-11 05:17:24,375 - INFO - Detected 0 text blocks
+2024-09-11 05:17:24,375 - INFO - Original frame size: 1440x1080
+2024-09-11 05:17:24,376 - INFO - Resized frame for API: 1440x576
+2024-09-11 05:17:26,974 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 05:17:26,974 - INFO - Scaling factors: x=1.0, y=1.875
+2024-09-11 05:17:26,974 - INFO - Detected 0 text blocks
+2024-09-11 05:17:26,974 - INFO - Original frame size: 1440x1080
+2024-09-11 05:17:26,975 - INFO - Resized frame for API: 1440x576
+2024-09-11 05:17:29,211 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 05:17:29,212 - INFO - Scaling factors: x=1.0, y=1.875
+2024-09-11 05:17:29,212 - INFO - Detected 0 text blocks
+2024-09-11 05:17:29,212 - INFO - Original frame size: 1440x1080
+2024-09-11 05:17:29,213 - INFO - Resized frame for API: 1440x576
+2024-09-11 05:17:32,160 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 05:17:32,160 - INFO - Scaling factors: x=1.0, y=1.875
+2024-09-11 05:17:32,161 - INFO - Detected 0 text blocks
+2024-09-11 05:17:32,161 - INFO - Original frame size: 1440x1080
+2024-09-11 05:17:32,163 - INFO - Resized frame for API: 1440x576
+2024-09-11 05:17:35,995 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "position": {
+        "x": 150,
+        "y": 280,
+        "width": 1150,
+        "height": 30
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 200,
+        "y": 320,
+        "width": 1050,
+        "height": 30
+      }
+    }
+  ]
+}
+2024-09-11 05:17:35,995 - INFO - Scaling factors: x=1.0, y=1.875
+2024-09-11 05:17:35,995 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', Original position: [x=150, y=280, w=1150, h=30]
+2024-09-11 05:17:35,996 - INFO - Text block 1: Scaled position: [x=150, y=525, w=1150, h=56]
+2024-09-11 05:17:35,996 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', Original position: [x=200, y=320, w=1050, h=30]
+2024-09-11 05:17:35,996 - INFO - Text block 2: Scaled position: [x=200, y=600, w=1050, h=56]
+2024-09-11 05:17:35,996 - INFO - Detected 2 text blocks
+2024-09-11 05:17:37,111 - INFO - Translation response: {
+  "translation": "\u0422\u044b \u0437\u0430\u0434\u0435\u0440\u0436\u0430\u043b\u0441\u044f \u0432 \u0442\u0438\u0448\u0438\u043d\u0435, \u043d\u043e \u043f\u0443\u043b\u044c\u0441 \u0441\u043d\u0430\u0440\u0443\u0436\u0438 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0432\u0441\u0435 \u0433\u0440\u043e\u043c\u0447\u0435. \u041f\u043e\u0440\u0430."
+}
+2024-09-11 05:17:37,112 - INFO - Original text: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 05:17:37,112 - INFO - Translated text: Ты задержался в тишине, но пульс снаружи становится все громче. Пора.
+2024-09-11 05:17:38,005 - INFO - Translation response: {
+  "translation": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0438\u043b\u0430 \u0441\u0432\u043e\u044e \u0440\u043e\u043b\u044c, \u043d\u043e \u0442\u0435\u043f\u0435\u0440\u044c \u043e\u043d\u0430 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u043f\u043e\u0433\u043b\u043e\u0442\u0438\u0442\u044c \u0442\u0435\u0431\u044f \u0446\u0435\u043b\u0438\u043a\u043e\u043c."
+}
+2024-09-11 05:17:38,005 - INFO - Original text: The cave served its purpose, but now it threatens to swallow you whole.
+2024-09-11 05:17:38,005 - INFO - Translated text: Пещера выполнила свою роль, но теперь она угрожает поглотить тебя целиком.
+2024-09-11 05:17:38,005 - INFO - Group 9: Translated 2 blocks
+2024-09-11 05:17:38,006 - INFO - Original frame size: 1440x1080
+2024-09-11 05:17:38,007 - INFO - Resized frame for API: 1440x576
+2024-09-11 05:17:44,307 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not enemies.",
+      "position": {
+        "x": 150,
+        "y": 250,
+        "width": 1140,
+        "height": 40
+      }
+    },
+    {
+      "content": "They are the forces you must ride. The forces that will carry you",
+      "position": {
+        "x": 180,
+        "y": 290,
+        "width": 1100,
+        "height": 40
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "position": {
+        "x": 330,
+        "y": 330,
+        "width": 700,
+        "height": 40
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "position": {
+        "x": 230,
+        "y": 380,
+        "width": 950,
+        "height": 40
+      }
+    }
+  ]
+}
+2024-09-11 05:17:44,308 - INFO - Scaling factors: x=1.0, y=1.875
+2024-09-11 05:17:44,308 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not enemies.', Original position: [x=150, y=250, w=1140, h=40]
+2024-09-11 05:17:44,308 - INFO - Text block 1: Scaled position: [x=150, y=468, w=1140, h=75]
+2024-09-11 05:17:44,308 - INFO - Text block 2: Content: 'They are the forces you must ride. The forces that will carry you', Original position: [x=180, y=290, w=1100, h=40]
+2024-09-11 05:17:44,308 - INFO - Text block 2: Scaled position: [x=180, y=543, w=1100, h=75]
+2024-09-11 05:17:44,308 - INFO - Text block 3: Content: 'further than your patience ever could.', Original position: [x=330, y=330, w=700, h=40]
+2024-09-11 05:17:44,308 - INFO - Text block 3: Scaled position: [x=330, y=618, w=700, h=75]
+2024-09-11 05:17:44,308 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', Original position: [x=230, y=380, w=950, h=40]
+2024-09-11 05:17:44,308 - INFO - Text block 4: Scaled position: [x=230, y=712, w=950, h=75]
+2024-09-11 05:17:44,308 - INFO - Detected 4 text blocks
+2024-09-11 05:17:46,007 - INFO - Translation response: {
+  "translation": "\u041d\u0435 \u0431\u043e\u0439\u0441\u044f \u0441\u0432\u0435\u0442\u0430, \u0438 \u0445\u043e\u043b\u043e\u0434\u043d\u043e\u0433\u043e \u0432\u0435\u0442\u0440\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442 \u0442\u0435\u0431\u044f. \u041e\u043d\u0438 \u043d\u0435 \u0432\u0440\u0430\u0433\u0438."
+}
+2024-09-11 05:17:46,007 - INFO - Original text: Do not fear the light, nor the cold wind that greets you. They are not enemies.
+2024-09-11 05:17:46,007 - INFO - Translated text: Не бойся света, и холодного ветра, который встречает тебя. Они не враги.
+2024-09-11 05:17:47,206 - INFO - Translation response: {
+  "translation": "\u042d\u0442\u043e \u0441\u0438\u043b\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0442\u044b \u0434\u043e\u043b\u0436\u0435\u043d \u043e\u0441\u0435\u0434\u043b\u0430\u0442\u044c. \u0421\u0438\u043b\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u043d\u0435\u0441\u0443\u0442 \u0442\u0435\u0431\u044f."
+}
+2024-09-11 05:17:47,206 - INFO - Original text: They are the forces you must ride. The forces that will carry you
+2024-09-11 05:17:47,206 - INFO - Translated text: Это силы, которые ты должен оседлать. Силы, которые понесут тебя.
+2024-09-11 05:17:48,006 - INFO - Translation response: {
+  "translation": "\u0434\u0430\u043b\u044c\u0448\u0435, \u0447\u0435\u043c \u044d\u0442\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u043e \u0431\u044b \u0442\u0432\u043e\u0451 \u0442\u0435\u0440\u043f\u0435\u043d\u0438\u0435."
+}
+2024-09-11 05:17:48,006 - INFO - Original text: further than your patience ever could.
+2024-09-11 05:17:48,006 - INFO - Translated text: дальше, чем это позволило бы твоё терпение.
+2024-09-11 05:17:48,638 - INFO - Translation response: {
+  "translation": "\u041e\u0434\u0438\u043d \u0448\u0430\u0433... \u0437\u0430\u0442\u0435\u043c \u0435\u0449\u0451 \u043e\u0434\u0438\u043d. \u0422\u044b \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0431\u044b\u043b \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d \u043e\u0441\u0442\u0430\u0442\u044c\u0441\u044f."
+}
+2024-09-11 05:17:48,638 - INFO - Original text: One step... then another. You were never meant to stay.
+2024-09-11 05:17:48,638 - INFO - Translated text: Один шаг... затем ещё один. Ты никогда не был предназначен остаться.
+2024-09-11 05:17:48,638 - INFO - Group 10: Translated 4 blocks
+2024-09-11 05:17:48,638 - INFO - Creating output video...
+2024-09-11 05:17:48,812 - INFO - Processed group 1, total frames: 14/734
+2024-09-11 05:17:49,002 - INFO - Processed group 2, total frames: 33/734
+2024-09-11 05:17:49,236 - INFO - Processed group 3, total frames: 57/734
+2024-09-11 05:17:49,430 - INFO - Processed group 4, total frames: 77/734
+2024-09-11 05:17:49,604 - INFO - Processed group 5, total frames: 92/734
+2024-09-11 05:17:49,872 - INFO - Processed group 6, total frames: 120/734
+2024-09-11 05:17:50,294 - INFO - Processed group 7, total frames: 165/734
+2024-09-11 05:17:50,363 - INFO - Processed group 8, total frames: 173/734
+2024-09-11 05:17:50,366 - INFO - Frame size for translation: 1440x1080
+2024-09-11 05:17:50,366 - INFO - Text block 1 before drawing:
+2024-09-11 05:17:50,366 - INFO -   Original: You have lingered in stillness, but the pulse outside is growing louder. It's time.
+2024-09-11 05:17:50,367 - INFO -   Translated: Ты задержался в тишине, но пульс снаружи становится все громче. Пора.
+2024-09-11 05:17:50,367 - INFO -   Position: x=150, y=525, w=1150, h=56

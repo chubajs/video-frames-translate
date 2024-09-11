@@ -1,0 +1,234 @@
+2024-09-11 06:41:40,602 - INFO - Starting video processing for tmp/sample1.mp4
+2024-09-11 06:41:40,656 - INFO - Grouping frame 0/734
+2024-09-11 06:41:41,869 - INFO - Grouping frame 100/734
+2024-09-11 06:41:43,075 - INFO - Grouping frame 200/734
+2024-09-11 06:41:44,156 - INFO - Grouping frame 300/734
+2024-09-11 06:41:45,255 - INFO - Grouping frame 400/734
+2024-09-11 06:41:46,344 - INFO - Grouping frame 500/734
+2024-09-11 06:41:47,411 - INFO - Grouping frame 600/734
+2024-09-11 06:41:48,514 - INFO - Grouping frame 700/734
+2024-09-11 06:41:48,881 - INFO - Grouped frames into 10 groups
+2024-09-11 06:41:48,893 - INFO - Original video dimensions: 1440x1080
+2024-09-11 06:41:48,894 - INFO - Analyzing group 1 with 14 frames
+2024-09-11 06:41:48,894 - INFO - Original frame size: 1440x1080
+2024-09-11 06:41:48,894 - INFO - Resized frame for API: 512x384
+2024-09-11 06:41:50,000 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:41:50,000 - INFO - Detected 0 text blocks
+2024-09-11 06:41:50,000 - INFO - No text detected in group 1
+2024-09-11 06:41:50,000 - INFO - Analyzing group 2 with 19 frames
+2024-09-11 06:41:50,000 - INFO - Original frame size: 1440x1080
+2024-09-11 06:41:50,001 - INFO - Resized frame for API: 512x384
+2024-09-11 06:41:51,522 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:41:51,522 - INFO - Detected 0 text blocks
+2024-09-11 06:41:51,522 - INFO - No text detected in group 2
+2024-09-11 06:41:51,522 - INFO - Analyzing group 3 with 24 frames
+2024-09-11 06:41:51,522 - INFO - Original frame size: 1440x1080
+2024-09-11 06:41:51,523 - INFO - Resized frame for API: 512x384
+2024-09-11 06:41:52,633 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:41:52,633 - INFO - Detected 0 text blocks
+2024-09-11 06:41:52,633 - INFO - No text detected in group 3
+2024-09-11 06:41:52,633 - INFO - Analyzing group 4 with 20 frames
+2024-09-11 06:41:52,634 - INFO - Original frame size: 1440x1080
+2024-09-11 06:41:52,634 - INFO - Resized frame for API: 512x384
+2024-09-11 06:41:53,977 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:41:53,977 - INFO - Detected 0 text blocks
+2024-09-11 06:41:53,977 - INFO - No text detected in group 4
+2024-09-11 06:41:53,977 - INFO - Analyzing group 5 with 15 frames
+2024-09-11 06:41:53,977 - INFO - Original frame size: 1440x1080
+2024-09-11 06:41:53,978 - INFO - Resized frame for API: 512x384
+2024-09-11 06:41:56,011 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:41:56,012 - INFO - Detected 0 text blocks
+2024-09-11 06:41:56,012 - INFO - No text detected in group 5
+2024-09-11 06:41:56,012 - INFO - Analyzing group 6 with 28 frames
+2024-09-11 06:41:56,012 - INFO - Original frame size: 1440x1080
+2024-09-11 06:41:56,012 - INFO - Resized frame for API: 512x384
+2024-09-11 06:41:59,194 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:41:59,194 - INFO - Detected 0 text blocks
+2024-09-11 06:41:59,195 - INFO - No text detected in group 6
+2024-09-11 06:41:59,195 - INFO - Analyzing group 7 with 45 frames
+2024-09-11 06:41:59,195 - INFO - Original frame size: 1440x1080
+2024-09-11 06:41:59,195 - INFO - Resized frame for API: 512x384
+2024-09-11 06:42:01,851 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:42:01,851 - INFO - Detected 0 text blocks
+2024-09-11 06:42:01,851 - INFO - No text detected in group 7
+2024-09-11 06:42:01,851 - INFO - Analyzing group 8 with 8 frames
+2024-09-11 06:42:01,851 - INFO - Original frame size: 1440x1080
+2024-09-11 06:42:01,852 - INFO - Resized frame for API: 512x384
+2024-09-11 06:42:04,327 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:42:04,327 - INFO - Detected 0 text blocks
+2024-09-11 06:42:04,327 - INFO - No text detected in group 8
+2024-09-11 06:42:04,328 - INFO - Analyzing group 9 with 305 frames
+2024-09-11 06:42:04,328 - INFO - Original frame size: 1440x1080
+2024-09-11 06:42:04,328 - INFO - Resized frame for API: 512x384
+2024-09-11 06:42:08,988 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left_corner": {
+        "x": 28,
+        "y": 175
+      },
+      "width": 457,
+      "height": 15
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left_corner": {
+        "x": 52,
+        "y": 194
+      },
+      "width": 436,
+      "height": 14
+    }
+  ]
+}
+2024-09-11 06:42:08,989 - INFO - Single text block: Content: '[{'content': "You have lingered in stillness, but the pulse outside is growing louder. It's time.", 'top_left_corner': {'x': 28, 'y': 175}, 'width': 457, 'height': 15}, {'content': 'The cave served its purpose, but now it threatens to swallow you whole.', 'top_left_corner': {'x': 52, 'y': 194}, 'width': 436, 'height': 14}]', Position: [0, 0, 512, 384]
+2024-09-11 06:42:08,990 - INFO - Detected 1 text blocks
+2024-09-11 06:42:08,990 - INFO - Original frame size: 1440x1080
+2024-09-11 06:42:08,991 - INFO - Resized frame for API: 512x384
+2024-09-11 06:42:13,703 - INFO - GPT Analysis: {
+  "lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left_corner": {
+        "x": 30,
+        "y": 230
+      },
+      "width": 442,
+      "height": 20
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left_corner": {
+        "x": 50,
+        "y": 250
+      },
+      "width": 409,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 06:42:13,704 - INFO - Detected 0 text blocks
+2024-09-11 06:42:13,704 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:42:13,704 - INFO - Original frame size: 1440x1080
+2024-09-11 06:42:13,705 - INFO - Resized frame for API: 512x384
+2024-09-11 06:42:19,475 - INFO - GPT Analysis: {
+  "lines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left": {
+        "x": 10,
+        "y": 110
+      },
+      "width": 480,
+      "height": 20
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left": {
+        "x": 40,
+        "y": 135
+      },
+      "width": 430,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 06:42:19,475 - INFO - Detected 0 text blocks
+2024-09-11 06:42:19,476 - INFO - Analyzed frame 77/5 in group. Detected 0 text blocks.
+2024-09-11 06:42:19,476 - INFO - Original frame size: 1440x1080
+2024-09-11 06:42:19,476 - INFO - Resized frame for API: 512x384
+2024-09-11 06:42:23,172 - INFO - GPT Analysis: {
+  "textLines": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "topLeftCorner": {
+        "x": 20,
+        "y": 180
+      },
+      "width": 460,
+      "height": 20
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "topLeftCorner": {
+        "x": 30,
+        "y": 200
+      },
+      "width": 440,
+      "height": 20
+    }
+  ]
+}
+2024-09-11 06:42:23,172 - INFO - Detected 0 text blocks
+2024-09-11 06:42:23,172 - INFO - Analyzed frame 153/5 in group. Detected 0 text blocks.
+2024-09-11 06:42:23,173 - INFO - Original frame size: 1440x1080
+2024-09-11 06:42:23,173 - INFO - Resized frame for API: 512x384
+2024-09-11 06:42:26,816 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left_coordinates": {
+        "x": 40,
+        "y": 200
+      },
+      "width": 430,
+      "height": 25
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left_coordinates": {
+        "x": 50,
+        "y": 230
+      },
+      "width": 410,
+      "height": 25
+    }
+  ]
+}
+2024-09-11 06:42:26,816 - INFO - Single text block: Content: '[{'content': "You have lingered in stillness, but the pulse outside is growing louder. It's time.", 'top_left_coordinates': {'x': 40, 'y': 200}, 'width': 430, 'height': 25}, {'content': 'The cave served its purpose, but now it threatens to swallow you whole.', 'top_left_coordinates': {'x': 50, 'y': 230}, 'width': 410, 'height': 25}]', Position: [0, 0, 512, 384]
+2024-09-11 06:42:26,817 - INFO - Detected 1 text blocks
+2024-09-11 06:42:26,817 - INFO - Analyzed frame 229/5 in group. Detected 1 text blocks.
+2024-09-11 06:42:26,817 - INFO - Original frame size: 1440x1080
+2024-09-11 06:42:26,818 - INFO - Resized frame for API: 512x384
+2024-09-11 06:42:29,868 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "top_left_corner": {
+        "x": 29,
+        "y": 193
+      },
+      "width": 457,
+      "height": 16
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "top_left_corner": {
+        "x": 54,
+        "y": 213
+      },
+      "width": 414,
+      "height": 15
+    }
+  ]
+}
+2024-09-11 06:42:29,868 - INFO - Single text block: Content: '[{'content': "You have lingered in stillness, but the pulse outside is growing louder. It's time.", 'top_left_corner': {'x': 29, 'y': 193}, 'width': 457, 'height': 16}, {'content': 'The cave served its purpose, but now it threatens to swallow you whole.', 'top_left_corner': {'x': 54, 'y': 213}, 'width': 414, 'height': 15}]', Position: [0, 0, 512, 384]
+2024-09-11 06:42:29,868 - INFO - Detected 1 text blocks
+2024-09-11 06:42:29,868 - INFO - Analyzed frame 305/5 in group. Detected 1 text blocks.

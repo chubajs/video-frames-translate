@@ -1,0 +1,1398 @@
+2024-09-11 06:14:10,329 - INFO - Starting video processing for tmp/sample1.mp4
+2024-09-11 06:14:10,378 - INFO - Grouping frame 0/734
+2024-09-11 06:14:11,537 - INFO - Grouping frame 100/734
+2024-09-11 06:14:12,697 - INFO - Grouping frame 200/734
+2024-09-11 06:14:13,873 - INFO - Grouping frame 300/734
+2024-09-11 06:14:15,031 - INFO - Grouping frame 400/734
+2024-09-11 06:14:16,081 - INFO - Grouping frame 500/734
+2024-09-11 06:14:17,104 - INFO - Grouping frame 600/734
+2024-09-11 06:14:18,201 - INFO - Grouping frame 700/734
+2024-09-11 06:14:18,613 - INFO - Grouped frames into 10 groups
+2024-09-11 06:14:18,625 - INFO - Original video dimensions: 1440x1080
+2024-09-11 06:14:18,625 - INFO - Analyzing group 1 with 14 frames
+2024-09-11 06:14:18,626 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:18,627 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:19,983 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:19,983 - INFO - Detected 0 text blocks
+2024-09-11 06:14:19,984 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:19,984 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:19,984 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:21,836 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:21,836 - INFO - Detected 0 text blocks
+2024-09-11 06:14:21,837 - INFO - Analyzed frame 4/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:21,837 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:21,838 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:24,714 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:24,715 - INFO - Detected 0 text blocks
+2024-09-11 06:14:24,715 - INFO - Analyzed frame 7/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:24,715 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:24,716 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:27,054 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:27,054 - INFO - Detected 0 text blocks
+2024-09-11 06:14:27,054 - INFO - Analyzed frame 10/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:27,054 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:27,055 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:28,151 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:28,152 - INFO - Detected 0 text blocks
+2024-09-11 06:14:28,152 - INFO - Analyzed frame 14/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:28,152 - INFO - Total averaged text blocks: 0
+2024-09-11 06:14:28,153 - INFO - No text detected in group 1
+2024-09-11 06:14:28,153 - INFO - Analyzing group 2 with 19 frames
+2024-09-11 06:14:28,153 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:28,154 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:29,892 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:29,893 - INFO - Detected 0 text blocks
+2024-09-11 06:14:29,893 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:29,893 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:29,894 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:31,279 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:31,280 - INFO - Detected 0 text blocks
+2024-09-11 06:14:31,280 - INFO - Analyzed frame 5/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:31,280 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:31,281 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:32,594 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:32,594 - INFO - Detected 0 text blocks
+2024-09-11 06:14:32,595 - INFO - Analyzed frame 10/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:32,595 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:32,596 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:34,220 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:34,220 - INFO - Detected 0 text blocks
+2024-09-11 06:14:34,220 - INFO - Analyzed frame 14/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:34,220 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:34,221 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:35,462 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:35,462 - INFO - Detected 0 text blocks
+2024-09-11 06:14:35,462 - INFO - Analyzed frame 19/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:35,462 - INFO - Total averaged text blocks: 0
+2024-09-11 06:14:35,463 - INFO - No text detected in group 2
+2024-09-11 06:14:35,463 - INFO - Analyzing group 3 with 24 frames
+2024-09-11 06:14:35,463 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:35,464 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:37,482 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:37,482 - INFO - Detected 0 text blocks
+2024-09-11 06:14:37,482 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:37,482 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:37,483 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:38,646 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:38,646 - INFO - Detected 0 text blocks
+2024-09-11 06:14:38,647 - INFO - Analyzed frame 6/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:38,647 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:38,647 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:40,310 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:40,310 - INFO - Detected 0 text blocks
+2024-09-11 06:14:40,311 - INFO - Analyzed frame 12/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:40,311 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:40,311 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:42,366 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:42,367 - INFO - Detected 0 text blocks
+2024-09-11 06:14:42,367 - INFO - Analyzed frame 18/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:42,367 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:42,368 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:43,715 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:43,715 - INFO - Detected 0 text blocks
+2024-09-11 06:14:43,716 - INFO - Analyzed frame 24/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:43,716 - INFO - Total averaged text blocks: 0
+2024-09-11 06:14:43,716 - INFO - No text detected in group 3
+2024-09-11 06:14:43,717 - INFO - Analyzing group 4 with 20 frames
+2024-09-11 06:14:43,717 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:43,718 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:46,328 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:46,328 - INFO - Detected 0 text blocks
+2024-09-11 06:14:46,329 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:46,329 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:46,330 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:47,626 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:47,627 - INFO - Detected 0 text blocks
+2024-09-11 06:14:47,627 - INFO - Analyzed frame 5/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:47,627 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:47,628 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:48,927 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:48,927 - INFO - Detected 0 text blocks
+2024-09-11 06:14:48,927 - INFO - Analyzed frame 10/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:48,927 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:48,928 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:50,030 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:50,031 - INFO - Detected 0 text blocks
+2024-09-11 06:14:50,031 - INFO - Analyzed frame 15/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:50,031 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:50,032 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:51,210 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:51,210 - INFO - Detected 0 text blocks
+2024-09-11 06:14:51,210 - INFO - Analyzed frame 20/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:51,210 - INFO - Total averaged text blocks: 0
+2024-09-11 06:14:51,210 - INFO - No text detected in group 4
+2024-09-11 06:14:51,210 - INFO - Analyzing group 5 with 15 frames
+2024-09-11 06:14:51,210 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:51,211 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:52,201 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:52,201 - INFO - Detected 0 text blocks
+2024-09-11 06:14:52,202 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:52,202 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:52,202 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:54,371 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:54,371 - INFO - Detected 0 text blocks
+2024-09-11 06:14:54,371 - INFO - Analyzed frame 4/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:54,371 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:54,372 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:55,599 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:55,599 - INFO - Detected 0 text blocks
+2024-09-11 06:14:55,599 - INFO - Analyzed frame 8/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:55,599 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:55,600 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:56,771 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:56,771 - INFO - Detected 0 text blocks
+2024-09-11 06:14:56,771 - INFO - Analyzed frame 11/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:56,771 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:56,772 - INFO - Resized frame for API: 512x384
+2024-09-11 06:14:58,057 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:14:58,057 - INFO - Detected 0 text blocks
+2024-09-11 06:14:58,057 - INFO - Analyzed frame 15/5 in group. Detected 0 text blocks.
+2024-09-11 06:14:58,057 - INFO - Total averaged text blocks: 0
+2024-09-11 06:14:58,057 - INFO - No text detected in group 5
+2024-09-11 06:14:58,057 - INFO - Analyzing group 6 with 28 frames
+2024-09-11 06:14:58,057 - INFO - Original frame size: 1440x1080
+2024-09-11 06:14:58,058 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:00,148 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:00,148 - INFO - Detected 0 text blocks
+2024-09-11 06:15:00,148 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:00,148 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:00,149 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:01,187 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:01,187 - INFO - Detected 0 text blocks
+2024-09-11 06:15:01,188 - INFO - Analyzed frame 7/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:01,188 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:01,188 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:02,897 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:02,898 - INFO - Detected 0 text blocks
+2024-09-11 06:15:02,898 - INFO - Analyzed frame 14/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:02,898 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:02,898 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:05,098 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:05,098 - INFO - Detected 0 text blocks
+2024-09-11 06:15:05,098 - INFO - Analyzed frame 21/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:05,098 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:05,099 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:07,256 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:07,256 - INFO - Detected 0 text blocks
+2024-09-11 06:15:07,256 - INFO - Analyzed frame 28/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:07,256 - INFO - Total averaged text blocks: 0
+2024-09-11 06:15:07,256 - INFO - No text detected in group 6
+2024-09-11 06:15:07,257 - INFO - Analyzing group 7 with 45 frames
+2024-09-11 06:15:07,257 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:07,258 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:08,351 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:08,351 - INFO - Detected 0 text blocks
+2024-09-11 06:15:08,351 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:08,351 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:08,352 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:09,442 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:09,442 - INFO - Detected 0 text blocks
+2024-09-11 06:15:09,442 - INFO - Analyzed frame 12/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:09,442 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:09,443 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:10,639 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:10,640 - INFO - Detected 0 text blocks
+2024-09-11 06:15:10,640 - INFO - Analyzed frame 23/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:10,640 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:10,641 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:11,901 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:11,902 - INFO - Detected 0 text blocks
+2024-09-11 06:15:11,902 - INFO - Analyzed frame 34/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:11,903 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:11,904 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:13,312 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:13,312 - INFO - Detected 0 text blocks
+2024-09-11 06:15:13,312 - INFO - Analyzed frame 45/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:13,312 - INFO - Total averaged text blocks: 0
+2024-09-11 06:15:13,313 - INFO - No text detected in group 7
+2024-09-11 06:15:13,313 - INFO - Analyzing group 8 with 8 frames
+2024-09-11 06:15:13,313 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:13,313 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:14,652 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:14,652 - INFO - Detected 0 text blocks
+2024-09-11 06:15:14,652 - INFO - Analyzed frame 1/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:14,652 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:14,653 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:16,377 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:16,377 - INFO - Detected 0 text blocks
+2024-09-11 06:15:16,378 - INFO - Analyzed frame 2/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:16,378 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:16,379 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:17,722 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:17,723 - INFO - Detected 0 text blocks
+2024-09-11 06:15:17,723 - INFO - Analyzed frame 4/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:17,724 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:17,725 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:19,782 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:19,783 - INFO - Detected 0 text blocks
+2024-09-11 06:15:19,783 - INFO - Analyzed frame 6/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:19,783 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:19,784 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:21,196 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:15:21,196 - INFO - Detected 0 text blocks
+2024-09-11 06:15:21,197 - INFO - Analyzed frame 8/5 in group. Detected 0 text blocks.
+2024-09-11 06:15:21,197 - INFO - Total averaged text blocks: 0
+2024-09-11 06:15:21,197 - INFO - No text detected in group 8
+2024-09-11 06:15:21,197 - INFO - Analyzing group 9 with 305 frames
+2024-09-11 06:15:21,197 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:21,198 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:32,076 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "position": {
+        "x": 75,
+        "y": 210,
+        "width": 600,
+        "height": 30
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 110,
+        "y": 250,
+        "width": 500,
+        "height": 30
+      }
+    }
+  ]
+}
+2024-09-11 06:15:32,076 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=75, y=210, w=600, h=30]
+2024-09-11 06:15:32,077 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=110, y=250, w=500, h=30]
+2024-09-11 06:15:32,077 - INFO - Detected 2 text blocks
+2024-09-11 06:15:32,077 - INFO - Analyzed frame 1/5 in group. Detected 2 text blocks.
+2024-09-11 06:15:32,077 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:32,078 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:36,100 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "position": {
+        "x": 0,
+        "y": 90,
+        "width": 512,
+        "height": 30
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 0,
+        "y": 130,
+        "width": 512,
+        "height": 30
+      }
+    }
+  ]
+}
+2024-09-11 06:15:36,100 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=0, y=90, w=512, h=30]
+2024-09-11 06:15:36,101 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=0, y=130, w=512, h=30]
+2024-09-11 06:15:36,101 - INFO - Detected 2 text blocks
+2024-09-11 06:15:36,101 - INFO - Analyzed frame 77/5 in group. Detected 2 text blocks.
+2024-09-11 06:15:36,101 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:36,102 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:40,488 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It\u2019s time.",
+      "position": {
+        "x": 62,
+        "y": 217,
+        "width": 398,
+        "height": 11
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 73,
+        "y": 233,
+        "width": 373,
+        "height": 11
+      }
+    }
+  ]
+}
+2024-09-11 06:15:40,488 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It’s time.', API position: [x=62, y=217, w=398, h=11]
+2024-09-11 06:15:40,488 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=73, y=233, w=373, h=11]
+2024-09-11 06:15:40,488 - INFO - Detected 2 text blocks
+2024-09-11 06:15:40,488 - INFO - Analyzed frame 153/5 in group. Detected 2 text blocks.
+2024-09-11 06:15:40,489 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:40,489 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:48,065 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "position": {
+        "x": 46,
+        "y": 210,
+        "width": 421,
+        "height": 15
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 69,
+        "y": 228,
+        "width": 372,
+        "height": 15
+      }
+    }
+  ]
+}
+2024-09-11 06:15:48,066 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=46, y=210, w=421, h=15]
+2024-09-11 06:15:48,066 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=69, y=228, w=372, h=15]
+2024-09-11 06:15:48,066 - INFO - Detected 2 text blocks
+2024-09-11 06:15:48,066 - INFO - Analyzed frame 229/5 in group. Detected 2 text blocks.
+2024-09-11 06:15:48,066 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:48,067 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:52,142 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "You have lingered in stillness, but the pulse outside is growing louder. It's time.",
+      "position": {
+        "x": 40,
+        "y": 210,
+        "width": 410,
+        "height": 20
+      }
+    },
+    {
+      "content": "The cave served its purpose, but now it threatens to swallow you whole.",
+      "position": {
+        "x": 45,
+        "y": 235,
+        "width": 400,
+        "height": 20
+      }
+    }
+  ]
+}
+2024-09-11 06:15:52,142 - INFO - Text block 1: Content: 'You have lingered in stillness, but the pulse outside is growing louder. It's time.', API position: [x=40, y=210, w=410, h=20]
+2024-09-11 06:15:52,142 - INFO - Text block 2: Content: 'The cave served its purpose, but now it threatens to swallow you whole.', API position: [x=45, y=235, w=400, h=20]
+2024-09-11 06:15:52,143 - INFO - Detected 2 text blocks
+2024-09-11 06:15:52,143 - INFO - Analyzed frame 305/5 in group. Detected 2 text blocks.
+2024-09-11 06:15:52,143 - INFO - Total averaged text blocks: 0
+2024-09-11 06:15:52,143 - INFO - No text detected in group 9
+2024-09-11 06:15:52,143 - INFO - Analyzing group 10 with 256 frames
+2024-09-11 06:15:52,143 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:52,144 - INFO - Resized frame for API: 512x384
+2024-09-11 06:15:57,169 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride.",
+      "position": {
+        "x": 50,
+        "y": 200,
+        "width": 420,
+        "height": 30
+      }
+    },
+    {
+      "content": "The forces that will carry you further than your patience ever could.",
+      "position": {
+        "x": 50,
+        "y": 230,
+        "width": 420,
+        "height": 30
+      }
+    },
+    {
+      "content": "One step. . . then another. You were never meant to stay.",
+      "position": {
+        "x": 50,
+        "y": 270,
+        "width": 420,
+        "height": 30
+      }
+    }
+  ]
+}
+2024-09-11 06:15:57,169 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride.', API position: [x=50, y=200, w=420, h=30]
+2024-09-11 06:15:57,169 - INFO - Text block 2: Content: 'The forces that will carry you further than your patience ever could.', API position: [x=50, y=230, w=420, h=30]
+2024-09-11 06:15:57,169 - INFO - Text block 3: Content: 'One step. . . then another. You were never meant to stay.', API position: [x=50, y=270, w=420, h=30]
+2024-09-11 06:15:57,169 - INFO - Detected 3 text blocks
+2024-09-11 06:15:57,169 - INFO - Analyzed frame 1/5 in group. Detected 3 text blocks.
+2024-09-11 06:15:57,169 - INFO - Original frame size: 1440x1080
+2024-09-11 06:15:57,170 - INFO - Resized frame for API: 512x384
+2024-09-11 06:16:03,885 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "position": {
+        "x": 80,
+        "y": 150,
+        "width": 400,
+        "height": 25
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "position": {
+        "x": 80,
+        "y": 175,
+        "width": 400,
+        "height": 25
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "position": {
+        "x": 80,
+        "y": 200,
+        "width": 400,
+        "height": 25
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "position": {
+        "x": 80,
+        "y": 250,
+        "width": 400,
+        "height": 25
+      }
+    }
+  ]
+}
+2024-09-11 06:16:03,885 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=80, y=150, w=400, h=25]
+2024-09-11 06:16:03,885 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=80, y=175, w=400, h=25]
+2024-09-11 06:16:03,886 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=80, y=200, w=400, h=25]
+2024-09-11 06:16:03,886 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=80, y=250, w=400, h=25]
+2024-09-11 06:16:03,886 - INFO - Detected 4 text blocks
+2024-09-11 06:16:03,886 - INFO - Analyzed frame 64/5 in group. Detected 4 text blocks.
+2024-09-11 06:16:03,886 - INFO - Original frame size: 1440x1080
+2024-09-11 06:16:03,887 - INFO - Resized frame for API: 512x384
+2024-09-11 06:16:08,347 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride. The forces that will carry you further than your patience ever could.",
+      "position": {
+        "x": 30,
+        "y": 100,
+        "width": 450,
+        "height": 50
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "position": {
+        "x": 100,
+        "y": 180,
+        "width": 450,
+        "height": 20
+      }
+    }
+  ]
+}
+2024-09-11 06:16:08,348 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride. The forces that will carry you further than your patience ever could.', API position: [x=30, y=100, w=450, h=50]
+2024-09-11 06:16:08,348 - INFO - Text block 2: Content: 'One step... then another. You were never meant to stay.', API position: [x=100, y=180, w=450, h=20]
+2024-09-11 06:16:08,348 - INFO - Detected 2 text blocks
+2024-09-11 06:16:08,348 - INFO - Analyzed frame 128/5 in group. Detected 2 text blocks.
+2024-09-11 06:16:08,348 - INFO - Original frame size: 1440x1080
+2024-09-11 06:16:08,349 - INFO - Resized frame for API: 512x384
+2024-09-11 06:16:21,271 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride. The forces that will carry you further than your patience ever could.",
+      "position": {
+        "x": 75,
+        "y": 180,
+        "width": 350,
+        "height": 60
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "position": {
+        "x": 120,
+        "y": 260,
+        "width": 270,
+        "height": 20
+      }
+    }
+  ]
+}
+2024-09-11 06:16:21,273 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not enemies. They are the forces you must ride. The forces that will carry you further than your patience ever could.', API position: [x=75, y=180, w=350, h=60]
+2024-09-11 06:16:21,273 - INFO - Text block 2: Content: 'One step... then another. You were never meant to stay.', API position: [x=120, y=260, w=270, h=20]
+2024-09-11 06:16:21,273 - INFO - Detected 2 text blocks
+2024-09-11 06:16:21,273 - INFO - Analyzed frame 192/5 in group. Detected 2 text blocks.
+2024-09-11 06:16:21,274 - INFO - Original frame size: 1440x1080
+2024-09-11 06:16:21,275 - INFO - Resized frame for API: 512x384
+2024-09-11 06:16:27,780 - INFO - GPT Analysis: {
+  "text": [
+    {
+      "content": "Do not fear the light, nor the cold wind that greets you. They are not",
+      "position": {
+        "x": 60,
+        "y": 150,
+        "width": 400,
+        "height": 20
+      }
+    },
+    {
+      "content": "enemies. They are the forces you must ride. The forces that will carry you",
+      "position": {
+        "x": 60,
+        "y": 180,
+        "width": 400,
+        "height": 20
+      }
+    },
+    {
+      "content": "further than your patience ever could.",
+      "position": {
+        "x": 60,
+        "y": 210,
+        "width": 400,
+        "height": 20
+      }
+    },
+    {
+      "content": "One step... then another. You were never meant to stay.",
+      "position": {
+        "x": 60,
+        "y": 260,
+        "width": 400,
+        "height": 20
+      }
+    }
+  ]
+}
+2024-09-11 06:16:27,780 - INFO - Text block 1: Content: 'Do not fear the light, nor the cold wind that greets you. They are not', API position: [x=60, y=150, w=400, h=20]
+2024-09-11 06:16:27,780 - INFO - Text block 2: Content: 'enemies. They are the forces you must ride. The forces that will carry you', API position: [x=60, y=180, w=400, h=20]
+2024-09-11 06:16:27,781 - INFO - Text block 3: Content: 'further than your patience ever could.', API position: [x=60, y=210, w=400, h=20]
+2024-09-11 06:16:27,781 - INFO - Text block 4: Content: 'One step... then another. You were never meant to stay.', API position: [x=60, y=260, w=400, h=20]
+2024-09-11 06:16:27,781 - INFO - Detected 4 text blocks
+2024-09-11 06:16:27,781 - INFO - Analyzed frame 256/5 in group. Detected 4 text blocks.
+2024-09-11 06:16:27,781 - INFO - Total averaged text blocks: 0
+2024-09-11 06:16:27,781 - INFO - No text detected in group 10
+2024-09-11 06:16:27,781 - INFO - Creating output video...
+2024-09-11 06:16:27,796 - INFO - No translation for group 1
+2024-09-11 06:16:27,814 - INFO - No translation for group 1
+2024-09-11 06:16:27,826 - INFO - No translation for group 1
+2024-09-11 06:16:27,836 - INFO - No translation for group 1
+2024-09-11 06:16:27,847 - INFO - No translation for group 1
+2024-09-11 06:16:27,856 - INFO - No translation for group 1
+2024-09-11 06:16:27,866 - INFO - No translation for group 1
+2024-09-11 06:16:27,875 - INFO - No translation for group 1
+2024-09-11 06:16:27,885 - INFO - No translation for group 1
+2024-09-11 06:16:27,894 - INFO - No translation for group 1
+2024-09-11 06:16:27,903 - INFO - No translation for group 1
+2024-09-11 06:16:27,915 - INFO - No translation for group 1
+2024-09-11 06:16:27,927 - INFO - No translation for group 1
+2024-09-11 06:16:27,937 - INFO - No translation for group 1
+2024-09-11 06:16:27,946 - INFO - Processed group 1, total frames: 14/734
+2024-09-11 06:16:27,947 - INFO - No translation for group 2
+2024-09-11 06:16:27,955 - INFO - No translation for group 2
+2024-09-11 06:16:27,964 - INFO - No translation for group 2
+2024-09-11 06:16:27,973 - INFO - No translation for group 2
+2024-09-11 06:16:27,982 - INFO - No translation for group 2
+2024-09-11 06:16:27,992 - INFO - No translation for group 2
+2024-09-11 06:16:28,002 - INFO - No translation for group 2
+2024-09-11 06:16:28,011 - INFO - No translation for group 2
+2024-09-11 06:16:28,020 - INFO - No translation for group 2
+2024-09-11 06:16:28,028 - INFO - No translation for group 2
+2024-09-11 06:16:28,037 - INFO - No translation for group 2
+2024-09-11 06:16:28,047 - INFO - No translation for group 2
+2024-09-11 06:16:28,056 - INFO - No translation for group 2
+2024-09-11 06:16:28,065 - INFO - No translation for group 2
+2024-09-11 06:16:28,073 - INFO - No translation for group 2
+2024-09-11 06:16:28,081 - INFO - No translation for group 2
+2024-09-11 06:16:28,090 - INFO - No translation for group 2
+2024-09-11 06:16:28,099 - INFO - No translation for group 2
+2024-09-11 06:16:28,107 - INFO - No translation for group 2
+2024-09-11 06:16:28,117 - INFO - Processed group 2, total frames: 33/734
+2024-09-11 06:16:28,117 - INFO - No translation for group 3
+2024-09-11 06:16:28,125 - INFO - No translation for group 3
+2024-09-11 06:16:28,138 - INFO - No translation for group 3
+2024-09-11 06:16:28,150 - INFO - No translation for group 3
+2024-09-11 06:16:28,166 - INFO - No translation for group 3
+2024-09-11 06:16:28,181 - INFO - No translation for group 3
+2024-09-11 06:16:28,194 - INFO - No translation for group 3
+2024-09-11 06:16:28,207 - INFO - No translation for group 3
+2024-09-11 06:16:28,216 - INFO - No translation for group 3
+2024-09-11 06:16:28,226 - INFO - No translation for group 3
+2024-09-11 06:16:28,236 - INFO - No translation for group 3
+2024-09-11 06:16:28,249 - INFO - No translation for group 3
+2024-09-11 06:16:28,263 - INFO - No translation for group 3
+2024-09-11 06:16:28,275 - INFO - No translation for group 3
+2024-09-11 06:16:28,288 - INFO - No translation for group 3
+2024-09-11 06:16:28,300 - INFO - No translation for group 3
+2024-09-11 06:16:28,318 - INFO - No translation for group 3
+2024-09-11 06:16:28,328 - INFO - No translation for group 3
+2024-09-11 06:16:28,337 - INFO - No translation for group 3
+2024-09-11 06:16:28,345 - INFO - No translation for group 3
+2024-09-11 06:16:28,355 - INFO - No translation for group 3
+2024-09-11 06:16:28,364 - INFO - No translation for group 3
+2024-09-11 06:16:28,372 - INFO - No translation for group 3
+2024-09-11 06:16:28,380 - INFO - No translation for group 3
+2024-09-11 06:16:28,389 - INFO - Processed group 3, total frames: 57/734
+2024-09-11 06:16:28,390 - INFO - No translation for group 4
+2024-09-11 06:16:28,398 - INFO - No translation for group 4
+2024-09-11 06:16:28,407 - INFO - No translation for group 4
+2024-09-11 06:16:28,416 - INFO - No translation for group 4
+2024-09-11 06:16:28,427 - INFO - No translation for group 4
+2024-09-11 06:16:28,440 - INFO - No translation for group 4
+2024-09-11 06:16:28,454 - INFO - No translation for group 4
+2024-09-11 06:16:28,467 - INFO - No translation for group 4
+2024-09-11 06:16:28,478 - INFO - No translation for group 4
+2024-09-11 06:16:28,491 - INFO - No translation for group 4
+2024-09-11 06:16:28,503 - INFO - No translation for group 4
+2024-09-11 06:16:28,512 - INFO - No translation for group 4
+2024-09-11 06:16:28,521 - INFO - No translation for group 4
+2024-09-11 06:16:28,530 - INFO - No translation for group 4
+2024-09-11 06:16:28,538 - INFO - No translation for group 4
+2024-09-11 06:16:28,546 - INFO - No translation for group 4
+2024-09-11 06:16:28,557 - INFO - No translation for group 4
+2024-09-11 06:16:28,568 - INFO - No translation for group 4
+2024-09-11 06:16:28,580 - INFO - No translation for group 4
+2024-09-11 06:16:28,593 - INFO - No translation for group 4
+2024-09-11 06:16:28,604 - INFO - Processed group 4, total frames: 77/734
+2024-09-11 06:16:28,605 - INFO - No translation for group 5
+2024-09-11 06:16:28,617 - INFO - No translation for group 5
+2024-09-11 06:16:28,629 - INFO - No translation for group 5
+2024-09-11 06:16:28,642 - INFO - No translation for group 5
+2024-09-11 06:16:28,654 - INFO - No translation for group 5
+2024-09-11 06:16:28,667 - INFO - No translation for group 5
+2024-09-11 06:16:28,678 - INFO - No translation for group 5
+2024-09-11 06:16:28,690 - INFO - No translation for group 5
+2024-09-11 06:16:28,704 - INFO - No translation for group 5
+2024-09-11 06:16:28,719 - INFO - No translation for group 5
+2024-09-11 06:16:28,728 - INFO - No translation for group 5
+2024-09-11 06:16:28,736 - INFO - No translation for group 5
+2024-09-11 06:16:28,744 - INFO - No translation for group 5
+2024-09-11 06:16:28,753 - INFO - No translation for group 5
+2024-09-11 06:16:28,765 - INFO - No translation for group 5
+2024-09-11 06:16:28,775 - INFO - Processed group 5, total frames: 92/734
+2024-09-11 06:16:28,775 - INFO - No translation for group 6
+2024-09-11 06:16:28,784 - INFO - No translation for group 6
+2024-09-11 06:16:28,793 - INFO - No translation for group 6
+2024-09-11 06:16:28,801 - INFO - No translation for group 6
+2024-09-11 06:16:28,809 - INFO - No translation for group 6
+2024-09-11 06:16:28,821 - INFO - No translation for group 6
+2024-09-11 06:16:28,832 - INFO - No translation for group 6
+2024-09-11 06:16:28,843 - INFO - No translation for group 6
+2024-09-11 06:16:28,852 - INFO - No translation for group 6
+2024-09-11 06:16:28,861 - INFO - No translation for group 6
+2024-09-11 06:16:28,869 - INFO - No translation for group 6
+2024-09-11 06:16:28,878 - INFO - No translation for group 6
+2024-09-11 06:16:28,887 - INFO - No translation for group 6
+2024-09-11 06:16:28,896 - INFO - No translation for group 6
+2024-09-11 06:16:28,905 - INFO - No translation for group 6
+2024-09-11 06:16:28,913 - INFO - No translation for group 6
+2024-09-11 06:16:28,921 - INFO - No translation for group 6
+2024-09-11 06:16:28,932 - INFO - No translation for group 6
+2024-09-11 06:16:28,942 - INFO - No translation for group 6
+2024-09-11 06:16:28,952 - INFO - No translation for group 6
+2024-09-11 06:16:28,961 - INFO - No translation for group 6
+2024-09-11 06:16:28,971 - INFO - No translation for group 6
+2024-09-11 06:16:28,980 - INFO - No translation for group 6
+2024-09-11 06:16:28,988 - INFO - No translation for group 6
+2024-09-11 06:16:28,997 - INFO - No translation for group 6
+2024-09-11 06:16:29,007 - INFO - No translation for group 6
+2024-09-11 06:16:29,015 - INFO - No translation for group 6
+2024-09-11 06:16:29,023 - INFO - No translation for group 6
+2024-09-11 06:16:29,034 - INFO - Processed group 6, total frames: 120/734
+2024-09-11 06:16:29,035 - INFO - No translation for group 7
+2024-09-11 06:16:29,047 - INFO - No translation for group 7
+2024-09-11 06:16:29,059 - INFO - No translation for group 7
+2024-09-11 06:16:29,068 - INFO - No translation for group 7
+2024-09-11 06:16:29,077 - INFO - No translation for group 7
+2024-09-11 06:16:29,085 - INFO - No translation for group 7
+2024-09-11 06:16:29,094 - INFO - No translation for group 7
+2024-09-11 06:16:29,102 - INFO - No translation for group 7
+2024-09-11 06:16:29,113 - INFO - No translation for group 7
+2024-09-11 06:16:29,126 - INFO - No translation for group 7
+2024-09-11 06:16:29,139 - INFO - No translation for group 7
+2024-09-11 06:16:29,150 - INFO - No translation for group 7
+2024-09-11 06:16:29,161 - INFO - No translation for group 7
+2024-09-11 06:16:29,175 - INFO - No translation for group 7
+2024-09-11 06:16:29,188 - INFO - No translation for group 7
+2024-09-11 06:16:29,200 - INFO - No translation for group 7
+2024-09-11 06:16:29,212 - INFO - No translation for group 7
+2024-09-11 06:16:29,222 - INFO - No translation for group 7
+2024-09-11 06:16:29,234 - INFO - No translation for group 7
+2024-09-11 06:16:29,244 - INFO - No translation for group 7
+2024-09-11 06:16:29,252 - INFO - No translation for group 7
+2024-09-11 06:16:29,260 - INFO - No translation for group 7
+2024-09-11 06:16:29,270 - INFO - No translation for group 7
+2024-09-11 06:16:29,282 - INFO - No translation for group 7
+2024-09-11 06:16:29,294 - INFO - No translation for group 7
+2024-09-11 06:16:29,307 - INFO - No translation for group 7
+2024-09-11 06:16:29,322 - INFO - No translation for group 7
+2024-09-11 06:16:29,334 - INFO - No translation for group 7
+2024-09-11 06:16:29,346 - INFO - No translation for group 7
+2024-09-11 06:16:29,355 - INFO - No translation for group 7
+2024-09-11 06:16:29,364 - INFO - No translation for group 7
+2024-09-11 06:16:29,372 - INFO - No translation for group 7
+2024-09-11 06:16:29,382 - INFO - No translation for group 7
+2024-09-11 06:16:29,392 - INFO - No translation for group 7
+2024-09-11 06:16:29,403 - INFO - No translation for group 7
+2024-09-11 06:16:29,413 - INFO - No translation for group 7
+2024-09-11 06:16:29,424 - INFO - No translation for group 7
+2024-09-11 06:16:29,436 - INFO - No translation for group 7
+2024-09-11 06:16:29,447 - INFO - No translation for group 7
+2024-09-11 06:16:29,457 - INFO - No translation for group 7
+2024-09-11 06:16:29,467 - INFO - No translation for group 7
+2024-09-11 06:16:29,478 - INFO - No translation for group 7
+2024-09-11 06:16:29,486 - INFO - No translation for group 7
+2024-09-11 06:16:29,496 - INFO - No translation for group 7
+2024-09-11 06:16:29,505 - INFO - No translation for group 7
+2024-09-11 06:16:29,514 - INFO - Processed group 7, total frames: 165/734
+2024-09-11 06:16:29,515 - INFO - No translation for group 8
+2024-09-11 06:16:29,524 - INFO - No translation for group 8
+2024-09-11 06:16:29,532 - INFO - No translation for group 8
+2024-09-11 06:16:29,540 - INFO - No translation for group 8
+2024-09-11 06:16:29,551 - INFO - No translation for group 8
+2024-09-11 06:16:29,560 - INFO - No translation for group 8
+2024-09-11 06:16:29,569 - INFO - No translation for group 8
+2024-09-11 06:16:29,582 - INFO - No translation for group 8
+2024-09-11 06:16:29,593 - INFO - Processed group 8, total frames: 173/734
+2024-09-11 06:16:29,594 - INFO - No translation for group 9
+2024-09-11 06:16:29,608 - INFO - No translation for group 9
+2024-09-11 06:16:29,617 - INFO - No translation for group 9
+2024-09-11 06:16:29,625 - INFO - No translation for group 9
+2024-09-11 06:16:29,632 - INFO - No translation for group 9
+2024-09-11 06:16:29,640 - INFO - No translation for group 9
+2024-09-11 06:16:29,647 - INFO - No translation for group 9
+2024-09-11 06:16:29,655 - INFO - No translation for group 9
+2024-09-11 06:16:29,666 - INFO - No translation for group 9
+2024-09-11 06:16:29,674 - INFO - No translation for group 9
+2024-09-11 06:16:29,682 - INFO - No translation for group 9
+2024-09-11 06:16:29,689 - INFO - No translation for group 9
+2024-09-11 06:16:29,702 - INFO - No translation for group 9
+2024-09-11 06:16:29,709 - INFO - No translation for group 9
+2024-09-11 06:16:29,717 - INFO - No translation for group 9
+2024-09-11 06:16:29,725 - INFO - No translation for group 9
+2024-09-11 06:16:29,732 - INFO - No translation for group 9
+2024-09-11 06:16:29,740 - INFO - No translation for group 9
+2024-09-11 06:16:29,747 - INFO - No translation for group 9
+2024-09-11 06:16:29,755 - INFO - No translation for group 9
+2024-09-11 06:16:29,766 - INFO - No translation for group 9
+2024-09-11 06:16:29,774 - INFO - No translation for group 9
+2024-09-11 06:16:29,782 - INFO - No translation for group 9
+2024-09-11 06:16:29,790 - INFO - No translation for group 9
+2024-09-11 06:16:29,797 - INFO - No translation for group 9
+2024-09-11 06:16:29,805 - INFO - No translation for group 9
+2024-09-11 06:16:29,812 - INFO - No translation for group 9
+2024-09-11 06:16:29,820 - INFO - No translation for group 9
+2024-09-11 06:16:29,829 - INFO - No translation for group 9
+2024-09-11 06:16:29,837 - INFO - No translation for group 9
+2024-09-11 06:16:29,849 - INFO - No translation for group 9
+2024-09-11 06:16:29,857 - INFO - No translation for group 9
+2024-09-11 06:16:29,868 - INFO - No translation for group 9
+2024-09-11 06:16:29,876 - INFO - No translation for group 9
+2024-09-11 06:16:29,884 - INFO - No translation for group 9
+2024-09-11 06:16:29,891 - INFO - No translation for group 9
+2024-09-11 06:16:29,898 - INFO - No translation for group 9
+2024-09-11 06:16:29,907 - INFO - No translation for group 9
+2024-09-11 06:16:29,915 - INFO - No translation for group 9
+2024-09-11 06:16:29,922 - INFO - No translation for group 9
+2024-09-11 06:16:29,929 - INFO - No translation for group 9
+2024-09-11 06:16:29,939 - INFO - No translation for group 9
+2024-09-11 06:16:29,947 - INFO - No translation for group 9
+2024-09-11 06:16:29,955 - INFO - No translation for group 9
+2024-09-11 06:16:29,967 - INFO - No translation for group 9
+2024-09-11 06:16:29,975 - INFO - No translation for group 9
+2024-09-11 06:16:29,983 - INFO - No translation for group 9
+2024-09-11 06:16:29,992 - INFO - No translation for group 9
+2024-09-11 06:16:30,002 - INFO - No translation for group 9
+2024-09-11 06:16:30,013 - INFO - No translation for group 9
+2024-09-11 06:16:30,024 - INFO - No translation for group 9
+2024-09-11 06:16:30,034 - INFO - No translation for group 9
+2024-09-11 06:16:30,045 - INFO - No translation for group 9
+2024-09-11 06:16:30,053 - INFO - No translation for group 9
+2024-09-11 06:16:30,063 - INFO - No translation for group 9
+2024-09-11 06:16:30,072 - INFO - No translation for group 9
+2024-09-11 06:16:30,083 - INFO - No translation for group 9
+2024-09-11 06:16:30,091 - INFO - No translation for group 9
+2024-09-11 06:16:30,099 - INFO - No translation for group 9
+2024-09-11 06:16:30,106 - INFO - No translation for group 9
+2024-09-11 06:16:30,115 - INFO - No translation for group 9
+2024-09-11 06:16:30,123 - INFO - No translation for group 9
+2024-09-11 06:16:30,131 - INFO - No translation for group 9
+2024-09-11 06:16:30,140 - INFO - No translation for group 9
+2024-09-11 06:16:30,149 - INFO - No translation for group 9
+2024-09-11 06:16:30,159 - INFO - No translation for group 9
+2024-09-11 06:16:30,168 - INFO - No translation for group 9
+2024-09-11 06:16:30,179 - INFO - No translation for group 9
+2024-09-11 06:16:30,192 - INFO - No translation for group 9
+2024-09-11 06:16:30,203 - INFO - No translation for group 9
+2024-09-11 06:16:30,212 - INFO - No translation for group 9
+2024-09-11 06:16:30,220 - INFO - No translation for group 9
+2024-09-11 06:16:30,229 - INFO - No translation for group 9
+2024-09-11 06:16:30,238 - INFO - No translation for group 9
+2024-09-11 06:16:30,247 - INFO - No translation for group 9
+2024-09-11 06:16:30,258 - INFO - No translation for group 9
+2024-09-11 06:16:30,265 - INFO - No translation for group 9
+2024-09-11 06:16:30,274 - INFO - No translation for group 9
+2024-09-11 06:16:30,282 - INFO - No translation for group 9
+2024-09-11 06:16:30,293 - INFO - No translation for group 9
+2024-09-11 06:16:30,307 - INFO - No translation for group 9
+2024-09-11 06:16:30,318 - INFO - No translation for group 9
+2024-09-11 06:16:30,326 - INFO - No translation for group 9
+2024-09-11 06:16:30,336 - INFO - No translation for group 9
+2024-09-11 06:16:30,345 - INFO - No translation for group 9
+2024-09-11 06:16:30,354 - INFO - No translation for group 9
+2024-09-11 06:16:30,364 - INFO - No translation for group 9
+2024-09-11 06:16:30,372 - INFO - No translation for group 9
+2024-09-11 06:16:30,379 - INFO - No translation for group 9
+2024-09-11 06:16:30,387 - INFO - No translation for group 9
+2024-09-11 06:16:30,394 - INFO - No translation for group 9
+2024-09-11 06:16:30,402 - INFO - No translation for group 9
+2024-09-11 06:16:30,413 - INFO - No translation for group 9
+2024-09-11 06:16:30,421 - INFO - No translation for group 9
+2024-09-11 06:16:30,430 - INFO - No translation for group 9
+2024-09-11 06:16:30,438 - INFO - No translation for group 9
+2024-09-11 06:16:30,447 - INFO - No translation for group 9
+2024-09-11 06:16:30,454 - INFO - No translation for group 9
+2024-09-11 06:16:30,462 - INFO - No translation for group 9
+2024-09-11 06:16:30,470 - INFO - No translation for group 9
+2024-09-11 06:16:30,477 - INFO - No translation for group 9
+2024-09-11 06:16:30,487 - INFO - No translation for group 9
+2024-09-11 06:16:30,500 - INFO - No translation for group 9
+2024-09-11 06:16:30,508 - INFO - No translation for group 9
+2024-09-11 06:16:30,521 - INFO - No translation for group 9
+2024-09-11 06:16:30,531 - INFO - No translation for group 9
+2024-09-11 06:16:30,538 - INFO - No translation for group 9
+2024-09-11 06:16:30,546 - INFO - No translation for group 9
+2024-09-11 06:16:30,554 - INFO - No translation for group 9
+2024-09-11 06:16:30,563 - INFO - No translation for group 9
+2024-09-11 06:16:30,573 - INFO - No translation for group 9
+2024-09-11 06:16:30,581 - INFO - No translation for group 9
+2024-09-11 06:16:30,588 - INFO - No translation for group 9
+2024-09-11 06:16:30,596 - INFO - No translation for group 9
+2024-09-11 06:16:30,604 - INFO - No translation for group 9
+2024-09-11 06:16:30,612 - INFO - No translation for group 9
+2024-09-11 06:16:30,623 - INFO - No translation for group 9
+2024-09-11 06:16:30,631 - INFO - No translation for group 9
+2024-09-11 06:16:30,639 - INFO - No translation for group 9
+2024-09-11 06:16:30,646 - INFO - No translation for group 9
+2024-09-11 06:16:30,654 - INFO - No translation for group 9
+2024-09-11 06:16:30,662 - INFO - No translation for group 9
+2024-09-11 06:16:30,670 - INFO - No translation for group 9
+2024-09-11 06:16:30,677 - INFO - No translation for group 9
+2024-09-11 06:16:30,685 - INFO - No translation for group 9
+2024-09-11 06:16:30,693 - INFO - No translation for group 9
+2024-09-11 06:16:30,700 - INFO - No translation for group 9
+2024-09-11 06:16:30,707 - INFO - No translation for group 9
+2024-09-11 06:16:30,717 - INFO - No translation for group 9
+2024-09-11 06:16:30,725 - INFO - No translation for group 9
+2024-09-11 06:16:30,732 - INFO - No translation for group 9
+2024-09-11 06:16:30,740 - INFO - No translation for group 9
+2024-09-11 06:16:30,747 - INFO - No translation for group 9
+2024-09-11 06:16:30,754 - INFO - No translation for group 9
+2024-09-11 06:16:30,761 - INFO - No translation for group 9
+2024-09-11 06:16:30,769 - INFO - No translation for group 9
+2024-09-11 06:16:30,776 - INFO - No translation for group 9
+2024-09-11 06:16:30,783 - INFO - No translation for group 9
+2024-09-11 06:16:30,791 - INFO - No translation for group 9
+2024-09-11 06:16:30,798 - INFO - No translation for group 9
+2024-09-11 06:16:30,810 - INFO - No translation for group 9
+2024-09-11 06:16:30,819 - INFO - No translation for group 9
+2024-09-11 06:16:30,830 - INFO - No translation for group 9
+2024-09-11 06:16:30,840 - INFO - No translation for group 9
+2024-09-11 06:16:30,848 - INFO - No translation for group 9
+2024-09-11 06:16:30,857 - INFO - No translation for group 9
+2024-09-11 06:16:30,865 - INFO - No translation for group 9
+2024-09-11 06:16:30,874 - INFO - No translation for group 9
+2024-09-11 06:16:30,882 - INFO - No translation for group 9
+2024-09-11 06:16:30,890 - INFO - No translation for group 9
+2024-09-11 06:16:30,899 - INFO - No translation for group 9
+2024-09-11 06:16:30,909 - INFO - No translation for group 9
+2024-09-11 06:16:30,924 - INFO - No translation for group 9
+2024-09-11 06:16:30,936 - INFO - No translation for group 9
+2024-09-11 06:16:30,946 - INFO - No translation for group 9
+2024-09-11 06:16:30,956 - INFO - No translation for group 9
+2024-09-11 06:16:30,965 - INFO - No translation for group 9
+2024-09-11 06:16:30,974 - INFO - No translation for group 9
+2024-09-11 06:16:30,984 - INFO - No translation for group 9
+2024-09-11 06:16:30,991 - INFO - No translation for group 9
+2024-09-11 06:16:31,000 - INFO - No translation for group 9
+2024-09-11 06:16:31,009 - INFO - No translation for group 9
+2024-09-11 06:16:31,016 - INFO - No translation for group 9
+2024-09-11 06:16:31,026 - INFO - No translation for group 9
+2024-09-11 06:16:31,036 - INFO - No translation for group 9
+2024-09-11 06:16:31,044 - INFO - No translation for group 9
+2024-09-11 06:16:31,052 - INFO - No translation for group 9
+2024-09-11 06:16:31,059 - INFO - No translation for group 9
+2024-09-11 06:16:31,066 - INFO - No translation for group 9
+2024-09-11 06:16:31,074 - INFO - No translation for group 9
+2024-09-11 06:16:31,081 - INFO - No translation for group 9
+2024-09-11 06:16:31,090 - INFO - No translation for group 9
+2024-09-11 06:16:31,101 - INFO - No translation for group 9
+2024-09-11 06:16:31,108 - INFO - No translation for group 9
+2024-09-11 06:16:31,116 - INFO - No translation for group 9
+2024-09-11 06:16:31,123 - INFO - No translation for group 9
+2024-09-11 06:16:31,135 - INFO - No translation for group 9
+2024-09-11 06:16:31,143 - INFO - No translation for group 9
+2024-09-11 06:16:31,150 - INFO - No translation for group 9
+2024-09-11 06:16:31,158 - INFO - No translation for group 9
+2024-09-11 06:16:31,166 - INFO - No translation for group 9
+2024-09-11 06:16:31,174 - INFO - No translation for group 9
+2024-09-11 06:16:31,183 - INFO - No translation for group 9
+2024-09-11 06:16:31,191 - INFO - No translation for group 9
+2024-09-11 06:16:31,198 - INFO - No translation for group 9
+2024-09-11 06:16:31,206 - INFO - No translation for group 9
+2024-09-11 06:16:31,216 - INFO - No translation for group 9
+2024-09-11 06:16:31,224 - INFO - No translation for group 9
+2024-09-11 06:16:31,236 - INFO - No translation for group 9
+2024-09-11 06:16:31,245 - INFO - No translation for group 9
+2024-09-11 06:16:31,255 - INFO - No translation for group 9
+2024-09-11 06:16:31,264 - INFO - No translation for group 9
+2024-09-11 06:16:31,274 - INFO - No translation for group 9
+2024-09-11 06:16:31,285 - INFO - No translation for group 9
+2024-09-11 06:16:31,297 - INFO - No translation for group 9
+2024-09-11 06:16:31,309 - INFO - No translation for group 9
+2024-09-11 06:16:31,320 - INFO - No translation for group 9
+2024-09-11 06:16:31,330 - INFO - No translation for group 9
+2024-09-11 06:16:31,341 - INFO - No translation for group 9
+2024-09-11 06:16:31,349 - INFO - No translation for group 9
+2024-09-11 06:16:31,361 - INFO - No translation for group 9
+2024-09-11 06:16:31,371 - INFO - No translation for group 9
+2024-09-11 06:16:31,378 - INFO - No translation for group 9
+2024-09-11 06:16:31,386 - INFO - No translation for group 9
+2024-09-11 06:16:31,393 - INFO - No translation for group 9
+2024-09-11 06:16:31,402 - INFO - No translation for group 9
+2024-09-11 06:16:31,411 - INFO - No translation for group 9
+2024-09-11 06:16:31,421 - INFO - No translation for group 9
+2024-09-11 06:16:31,428 - INFO - No translation for group 9
+2024-09-11 06:16:31,437 - INFO - No translation for group 9
+2024-09-11 06:16:31,446 - INFO - No translation for group 9
+2024-09-11 06:16:31,453 - INFO - No translation for group 9
+2024-09-11 06:16:31,464 - INFO - No translation for group 9
+2024-09-11 06:16:31,472 - INFO - No translation for group 9
+2024-09-11 06:16:31,479 - INFO - No translation for group 9
+2024-09-11 06:16:31,487 - INFO - No translation for group 9
+2024-09-11 06:16:31,496 - INFO - No translation for group 9
+2024-09-11 06:16:31,506 - INFO - No translation for group 9
+2024-09-11 06:16:31,516 - INFO - No translation for group 9
+2024-09-11 06:16:31,524 - INFO - No translation for group 9
+2024-09-11 06:16:31,533 - INFO - No translation for group 9
+2024-09-11 06:16:31,541 - INFO - No translation for group 9
+2024-09-11 06:16:31,549 - INFO - No translation for group 9
+2024-09-11 06:16:31,558 - INFO - No translation for group 9
+2024-09-11 06:16:31,570 - INFO - No translation for group 9
+2024-09-11 06:16:31,578 - INFO - No translation for group 9
+2024-09-11 06:16:31,587 - INFO - No translation for group 9
+2024-09-11 06:16:31,597 - INFO - No translation for group 9
+2024-09-11 06:16:31,606 - INFO - No translation for group 9
+2024-09-11 06:16:31,615 - INFO - No translation for group 9
+2024-09-11 06:16:31,624 - INFO - No translation for group 9
+2024-09-11 06:16:31,633 - INFO - No translation for group 9
+2024-09-11 06:16:31,642 - INFO - No translation for group 9
+2024-09-11 06:16:31,651 - INFO - No translation for group 9
+2024-09-11 06:16:31,659 - INFO - No translation for group 9
+2024-09-11 06:16:31,666 - INFO - No translation for group 9
+2024-09-11 06:16:31,678 - INFO - No translation for group 9
+2024-09-11 06:16:31,686 - INFO - No translation for group 9
+2024-09-11 06:16:31,694 - INFO - No translation for group 9
+2024-09-11 06:16:31,702 - INFO - No translation for group 9
+2024-09-11 06:16:31,709 - INFO - No translation for group 9
+2024-09-11 06:16:31,717 - INFO - No translation for group 9
+2024-09-11 06:16:31,725 - INFO - No translation for group 9
+2024-09-11 06:16:31,733 - INFO - No translation for group 9
+2024-09-11 06:16:31,741 - INFO - No translation for group 9
+2024-09-11 06:16:31,750 - INFO - No translation for group 9
+2024-09-11 06:16:31,760 - INFO - No translation for group 9
+2024-09-11 06:16:31,770 - INFO - No translation for group 9
+2024-09-11 06:16:31,782 - INFO - No translation for group 9
+2024-09-11 06:16:31,790 - INFO - No translation for group 9
+2024-09-11 06:16:31,798 - INFO - No translation for group 9
+2024-09-11 06:16:31,806 - INFO - No translation for group 9
+2024-09-11 06:16:31,814 - INFO - No translation for group 9
+2024-09-11 06:16:31,823 - INFO - No translation for group 9
+2024-09-11 06:16:31,833 - INFO - No translation for group 9
+2024-09-11 06:16:31,842 - INFO - No translation for group 9
+2024-09-11 06:16:31,849 - INFO - No translation for group 9
+2024-09-11 06:16:31,858 - INFO - No translation for group 9
+2024-09-11 06:16:31,866 - INFO - No translation for group 9
+2024-09-11 06:16:31,873 - INFO - No translation for group 9
+2024-09-11 06:16:31,884 - INFO - No translation for group 9
+2024-09-11 06:16:31,892 - INFO - No translation for group 9
+2024-09-11 06:16:31,900 - INFO - No translation for group 9
+2024-09-11 06:16:31,908 - INFO - No translation for group 9
+2024-09-11 06:16:31,917 - INFO - No translation for group 9
+2024-09-11 06:16:31,926 - INFO - No translation for group 9
+2024-09-11 06:16:31,937 - INFO - No translation for group 9
+2024-09-11 06:16:31,946 - INFO - No translation for group 9
+2024-09-11 06:16:31,956 - INFO - No translation for group 9
+2024-09-11 06:16:31,966 - INFO - No translation for group 9
+2024-09-11 06:16:31,975 - INFO - No translation for group 9
+2024-09-11 06:16:31,985 - INFO - No translation for group 9
+2024-09-11 06:16:31,999 - INFO - No translation for group 9
+2024-09-11 06:16:32,009 - INFO - No translation for group 9
+2024-09-11 06:16:32,019 - INFO - No translation for group 9
+2024-09-11 06:16:32,029 - INFO - No translation for group 9
+2024-09-11 06:16:32,038 - INFO - No translation for group 9
+2024-09-11 06:16:32,049 - INFO - No translation for group 9
+2024-09-11 06:16:32,059 - INFO - No translation for group 9
+2024-09-11 06:16:32,070 - INFO - No translation for group 9
+2024-09-11 06:16:32,079 - INFO - No translation for group 9
+2024-09-11 06:16:32,087 - INFO - No translation for group 9
+2024-09-11 06:16:32,097 - INFO - No translation for group 9
+2024-09-11 06:16:32,106 - INFO - No translation for group 9
+2024-09-11 06:16:32,118 - INFO - No translation for group 9
+2024-09-11 06:16:32,129 - INFO - No translation for group 9
+2024-09-11 06:16:32,137 - INFO - No translation for group 9
+2024-09-11 06:16:32,145 - INFO - No translation for group 9
+2024-09-11 06:16:32,154 - INFO - No translation for group 9
+2024-09-11 06:16:32,163 - INFO - No translation for group 9
+2024-09-11 06:16:32,173 - INFO - No translation for group 9
+2024-09-11 06:16:32,182 - INFO - No translation for group 9
+2024-09-11 06:16:32,189 - INFO - No translation for group 9
+2024-09-11 06:16:32,196 - INFO - No translation for group 9
+2024-09-11 06:16:32,204 - INFO - No translation for group 9
+2024-09-11 06:16:32,211 - INFO - No translation for group 9
+2024-09-11 06:16:32,222 - INFO - No translation for group 9
+2024-09-11 06:16:32,230 - INFO - No translation for group 9
+2024-09-11 06:16:32,237 - INFO - No translation for group 9
+2024-09-11 06:16:32,245 - INFO - No translation for group 9
+2024-09-11 06:16:32,253 - INFO - No translation for group 9
+2024-09-11 06:16:32,261 - INFO - No translation for group 9
+2024-09-11 06:16:32,272 - INFO - No translation for group 9
+2024-09-11 06:16:32,283 - INFO - No translation for group 9
+2024-09-11 06:16:32,294 - INFO - No translation for group 9
+2024-09-11 06:16:32,305 - INFO - Processed group 9, total frames: 478/734
+2024-09-11 06:16:32,306 - INFO - No translation for group 10
+2024-09-11 06:16:32,320 - INFO - No translation for group 10
+2024-09-11 06:16:32,332 - INFO - No translation for group 10
+2024-09-11 06:16:32,347 - INFO - No translation for group 10
+2024-09-11 06:16:32,360 - INFO - No translation for group 10
+2024-09-11 06:16:32,372 - INFO - No translation for group 10
+2024-09-11 06:16:32,383 - INFO - No translation for group 10
+2024-09-11 06:16:32,394 - INFO - No translation for group 10
+2024-09-11 06:16:32,406 - INFO - No translation for group 10
+2024-09-11 06:16:32,417 - INFO - No translation for group 10
+2024-09-11 06:16:32,428 - INFO - No translation for group 10
+2024-09-11 06:16:32,439 - INFO - No translation for group 10
+2024-09-11 06:16:32,448 - INFO - No translation for group 10
+2024-09-11 06:16:32,456 - INFO - No translation for group 10
+2024-09-11 06:16:32,465 - INFO - No translation for group 10
+2024-09-11 06:16:32,478 - INFO - No translation for group 10
+2024-09-11 06:16:32,489 - INFO - No translation for group 10
+2024-09-11 06:16:32,497 - INFO - No translation for group 10
+2024-09-11 06:16:32,506 - INFO - No translation for group 10
+2024-09-11 06:16:32,516 - INFO - No translation for group 10
+2024-09-11 06:16:32,527 - INFO - No translation for group 10
+2024-09-11 06:16:32,537 - INFO - No translation for group 10
+2024-09-11 06:16:32,549 - INFO - No translation for group 10
+2024-09-11 06:16:32,559 - INFO - No translation for group 10
+2024-09-11 06:16:32,569 - INFO - No translation for group 10
+2024-09-11 06:16:32,580 - INFO - No translation for group 10
+2024-09-11 06:16:32,591 - INFO - No translation for group 10
+2024-09-11 06:16:32,605 - INFO - No translation for group 10
+2024-09-11 06:16:32,616 - INFO - No translation for group 10
+2024-09-11 06:16:32,628 - INFO - No translation for group 10
+2024-09-11 06:16:32,639 - INFO - No translation for group 10
+2024-09-11 06:16:32,651 - INFO - No translation for group 10
+2024-09-11 06:16:32,662 - INFO - No translation for group 10
+2024-09-11 06:16:32,673 - INFO - No translation for group 10
+2024-09-11 06:16:32,682 - INFO - No translation for group 10
+2024-09-11 06:16:32,691 - INFO - No translation for group 10
+2024-09-11 06:16:32,702 - INFO - No translation for group 10
+2024-09-11 06:16:32,711 - INFO - No translation for group 10
+2024-09-11 06:16:32,721 - INFO - No translation for group 10
+2024-09-11 06:16:32,734 - INFO - No translation for group 10
+2024-09-11 06:16:32,744 - INFO - No translation for group 10
+2024-09-11 06:16:32,752 - INFO - No translation for group 10
+2024-09-11 06:16:32,762 - INFO - No translation for group 10
+2024-09-11 06:16:32,772 - INFO - No translation for group 10
+2024-09-11 06:16:32,782 - INFO - No translation for group 10
+2024-09-11 06:16:32,791 - INFO - No translation for group 10
+2024-09-11 06:16:32,799 - INFO - No translation for group 10
+2024-09-11 06:16:32,806 - INFO - No translation for group 10
+2024-09-11 06:16:32,815 - INFO - No translation for group 10
+2024-09-11 06:16:32,823 - INFO - No translation for group 10
+2024-09-11 06:16:32,830 - INFO - No translation for group 10
+2024-09-11 06:16:32,842 - INFO - No translation for group 10
+2024-09-11 06:16:32,851 - INFO - No translation for group 10
+2024-09-11 06:16:32,858 - INFO - No translation for group 10
+2024-09-11 06:16:32,867 - INFO - No translation for group 10
+2024-09-11 06:16:32,875 - INFO - No translation for group 10
+2024-09-11 06:16:32,883 - INFO - No translation for group 10
+2024-09-11 06:16:32,890 - INFO - No translation for group 10
+2024-09-11 06:16:32,898 - INFO - No translation for group 10
+2024-09-11 06:16:32,906 - INFO - No translation for group 10
+2024-09-11 06:16:32,914 - INFO - No translation for group 10
+2024-09-11 06:16:32,922 - INFO - No translation for group 10
+2024-09-11 06:16:32,931 - INFO - No translation for group 10
+2024-09-11 06:16:32,942 - INFO - No translation for group 10
+2024-09-11 06:16:32,952 - INFO - No translation for group 10
+2024-09-11 06:16:32,962 - INFO - No translation for group 10
+2024-09-11 06:16:32,970 - INFO - No translation for group 10
+2024-09-11 06:16:32,979 - INFO - No translation for group 10
+2024-09-11 06:16:32,987 - INFO - No translation for group 10
+2024-09-11 06:16:32,994 - INFO - No translation for group 10
+2024-09-11 06:16:33,004 - INFO - No translation for group 10
+2024-09-11 06:16:33,014 - INFO - No translation for group 10
+2024-09-11 06:16:33,024 - INFO - No translation for group 10
+2024-09-11 06:16:33,033 - INFO - No translation for group 10
+2024-09-11 06:16:33,043 - INFO - No translation for group 10
+2024-09-11 06:16:33,056 - INFO - No translation for group 10
+2024-09-11 06:16:33,066 - INFO - No translation for group 10
+2024-09-11 06:16:33,074 - INFO - No translation for group 10
+2024-09-11 06:16:33,084 - INFO - No translation for group 10
+2024-09-11 06:16:33,095 - INFO - No translation for group 10
+2024-09-11 06:16:33,103 - INFO - No translation for group 10
+2024-09-11 06:16:33,112 - INFO - No translation for group 10
+2024-09-11 06:16:33,121 - INFO - No translation for group 10
+2024-09-11 06:16:33,130 - INFO - No translation for group 10
+2024-09-11 06:16:33,139 - INFO - No translation for group 10
+2024-09-11 06:16:33,147 - INFO - No translation for group 10
+2024-09-11 06:16:33,156 - INFO - No translation for group 10
+2024-09-11 06:16:33,167 - INFO - No translation for group 10
+2024-09-11 06:16:33,175 - INFO - No translation for group 10
+2024-09-11 06:16:33,183 - INFO - No translation for group 10
+2024-09-11 06:16:33,190 - INFO - No translation for group 10
+2024-09-11 06:16:33,198 - INFO - No translation for group 10
+2024-09-11 06:16:33,205 - INFO - No translation for group 10
+2024-09-11 06:16:33,212 - INFO - No translation for group 10
+2024-09-11 06:16:33,220 - INFO - No translation for group 10
+2024-09-11 06:16:33,227 - INFO - No translation for group 10
+2024-09-11 06:16:33,235 - INFO - No translation for group 10
+2024-09-11 06:16:33,242 - INFO - No translation for group 10
+2024-09-11 06:16:33,251 - INFO - No translation for group 10
+2024-09-11 06:16:33,262 - INFO - No translation for group 10
+2024-09-11 06:16:33,270 - INFO - No translation for group 10
+2024-09-11 06:16:33,278 - INFO - No translation for group 10
+2024-09-11 06:16:33,285 - INFO - No translation for group 10
+2024-09-11 06:16:33,295 - INFO - No translation for group 10
+2024-09-11 06:16:33,304 - INFO - No translation for group 10
+2024-09-11 06:16:33,313 - INFO - No translation for group 10
+2024-09-11 06:16:33,325 - INFO - No translation for group 10
+2024-09-11 06:16:33,333 - INFO - No translation for group 10
+2024-09-11 06:16:33,342 - INFO - No translation for group 10
+2024-09-11 06:16:33,352 - INFO - No translation for group 10
+2024-09-11 06:16:33,362 - INFO - No translation for group 10
+2024-09-11 06:16:33,374 - INFO - No translation for group 10
+2024-09-11 06:16:33,382 - INFO - No translation for group 10
+2024-09-11 06:16:33,390 - INFO - No translation for group 10
+2024-09-11 06:16:33,399 - INFO - No translation for group 10
+2024-09-11 06:16:33,407 - INFO - No translation for group 10
+2024-09-11 06:16:33,415 - INFO - No translation for group 10
+2024-09-11 06:16:33,422 - INFO - No translation for group 10
+2024-09-11 06:16:33,430 - INFO - No translation for group 10
+2024-09-11 06:16:33,438 - INFO - No translation for group 10
+2024-09-11 06:16:33,446 - INFO - No translation for group 10
+2024-09-11 06:16:33,453 - INFO - No translation for group 10
+2024-09-11 06:16:33,461 - INFO - No translation for group 10
+2024-09-11 06:16:33,473 - INFO - No translation for group 10
+2024-09-11 06:16:33,484 - INFO - No translation for group 10
+2024-09-11 06:16:33,493 - INFO - No translation for group 10
+2024-09-11 06:16:33,501 - INFO - No translation for group 10
+2024-09-11 06:16:33,509 - INFO - No translation for group 10
+2024-09-11 06:16:33,517 - INFO - No translation for group 10
+2024-09-11 06:16:33,526 - INFO - No translation for group 10
+2024-09-11 06:16:33,534 - INFO - No translation for group 10
+2024-09-11 06:16:33,541 - INFO - No translation for group 10
+2024-09-11 06:16:33,550 - INFO - No translation for group 10
+2024-09-11 06:16:33,558 - INFO - No translation for group 10
+2024-09-11 06:16:33,566 - INFO - No translation for group 10
+2024-09-11 06:16:33,578 - INFO - No translation for group 10
+2024-09-11 06:16:33,587 - INFO - No translation for group 10
+2024-09-11 06:16:33,594 - INFO - No translation for group 10
+2024-09-11 06:16:33,603 - INFO - No translation for group 10
+2024-09-11 06:16:33,612 - INFO - No translation for group 10
+2024-09-11 06:16:33,621 - INFO - No translation for group 10
+2024-09-11 06:16:33,630 - INFO - No translation for group 10
+2024-09-11 06:16:33,637 - INFO - No translation for group 10
+2024-09-11 06:16:33,645 - INFO - No translation for group 10
+2024-09-11 06:16:33,654 - INFO - No translation for group 10
+2024-09-11 06:16:33,664 - INFO - No translation for group 10
+2024-09-11 06:16:33,675 - INFO - No translation for group 10
+2024-09-11 06:16:33,691 - INFO - No translation for group 10
+2024-09-11 06:16:33,704 - INFO - No translation for group 10
+2024-09-11 06:16:33,715 - INFO - No translation for group 10
+2024-09-11 06:16:33,726 - INFO - No translation for group 10
+2024-09-11 06:16:33,737 - INFO - No translation for group 10
+2024-09-11 06:16:33,748 - INFO - No translation for group 10
+2024-09-11 06:16:33,760 - INFO - No translation for group 10
+2024-09-11 06:16:33,771 - INFO - No translation for group 10
+2024-09-11 06:16:33,783 - INFO - No translation for group 10
+2024-09-11 06:16:33,794 - INFO - No translation for group 10
+2024-09-11 06:16:33,805 - INFO - No translation for group 10
+2024-09-11 06:16:33,817 - INFO - No translation for group 10
+2024-09-11 06:16:33,833 - INFO - No translation for group 10
+2024-09-11 06:16:33,847 - INFO - No translation for group 10
+2024-09-11 06:16:33,861 - INFO - No translation for group 10
+2024-09-11 06:16:33,873 - INFO - No translation for group 10
+2024-09-11 06:16:33,884 - INFO - No translation for group 10
+2024-09-11 06:16:33,896 - INFO - No translation for group 10
+2024-09-11 06:16:33,907 - INFO - No translation for group 10
+2024-09-11 06:16:33,921 - INFO - No translation for group 10
+2024-09-11 06:16:33,933 - INFO - No translation for group 10
+2024-09-11 06:16:33,943 - INFO - No translation for group 10
+2024-09-11 06:16:33,954 - INFO - No translation for group 10
+2024-09-11 06:16:33,966 - INFO - No translation for group 10
+2024-09-11 06:16:33,982 - INFO - No translation for group 10
+2024-09-11 06:16:33,993 - INFO - No translation for group 10
+2024-09-11 06:16:34,004 - INFO - No translation for group 10
+2024-09-11 06:16:34,014 - INFO - No translation for group 10
+2024-09-11 06:16:34,022 - INFO - No translation for group 10
+2024-09-11 06:16:34,029 - INFO - No translation for group 10
+2024-09-11 06:16:34,038 - INFO - No translation for group 10
+2024-09-11 06:16:34,047 - INFO - No translation for group 10
+2024-09-11 06:16:34,055 - INFO - No translation for group 10
+2024-09-11 06:16:34,065 - INFO - No translation for group 10
+2024-09-11 06:16:34,076 - INFO - No translation for group 10
+2024-09-11 06:16:34,088 - INFO - No translation for group 10
+2024-09-11 06:16:34,104 - INFO - No translation for group 10
+2024-09-11 06:16:34,116 - INFO - No translation for group 10
+2024-09-11 06:16:34,127 - INFO - No translation for group 10
+2024-09-11 06:16:34,140 - INFO - No translation for group 10
+2024-09-11 06:16:34,152 - INFO - No translation for group 10
+2024-09-11 06:16:34,163 - INFO - No translation for group 10
+2024-09-11 06:16:34,174 - INFO - No translation for group 10
+2024-09-11 06:16:34,185 - INFO - No translation for group 10
+2024-09-11 06:16:34,197 - INFO - No translation for group 10
+2024-09-11 06:16:34,208 - INFO - No translation for group 10
+2024-09-11 06:16:34,219 - INFO - No translation for group 10
+2024-09-11 06:16:34,230 - INFO - No translation for group 10
+2024-09-11 06:16:34,247 - INFO - No translation for group 10
+2024-09-11 06:16:34,259 - INFO - No translation for group 10
+2024-09-11 06:16:34,270 - INFO - No translation for group 10
+2024-09-11 06:16:34,281 - INFO - No translation for group 10
+2024-09-11 06:16:34,290 - INFO - No translation for group 10
+2024-09-11 06:16:34,299 - INFO - No translation for group 10
+2024-09-11 06:16:34,307 - INFO - No translation for group 10
+2024-09-11 06:16:34,314 - INFO - No translation for group 10
+2024-09-11 06:16:34,322 - INFO - No translation for group 10
+2024-09-11 06:16:34,329 - INFO - No translation for group 10
+2024-09-11 06:16:34,338 - INFO - No translation for group 10
+2024-09-11 06:16:34,346 - INFO - No translation for group 10
+2024-09-11 06:16:34,357 - INFO - No translation for group 10
+2024-09-11 06:16:34,365 - INFO - No translation for group 10
+2024-09-11 06:16:34,372 - INFO - No translation for group 10
+2024-09-11 06:16:34,379 - INFO - No translation for group 10
+2024-09-11 06:16:34,387 - INFO - No translation for group 10
+2024-09-11 06:16:34,394 - INFO - No translation for group 10
+2024-09-11 06:16:34,401 - INFO - No translation for group 10
+2024-09-11 06:16:34,409 - INFO - No translation for group 10
+2024-09-11 06:16:34,416 - INFO - No translation for group 10
+2024-09-11 06:16:34,425 - INFO - No translation for group 10
+2024-09-11 06:16:34,435 - INFO - No translation for group 10
+2024-09-11 06:16:34,443 - INFO - No translation for group 10
+2024-09-11 06:16:34,455 - INFO - No translation for group 10
+2024-09-11 06:16:34,463 - INFO - No translation for group 10
+2024-09-11 06:16:34,471 - INFO - No translation for group 10
+2024-09-11 06:16:34,478 - INFO - No translation for group 10
+2024-09-11 06:16:34,486 - INFO - No translation for group 10
+2024-09-11 06:16:34,494 - INFO - No translation for group 10
+2024-09-11 06:16:34,501 - INFO - No translation for group 10
+2024-09-11 06:16:34,510 - INFO - No translation for group 10
+2024-09-11 06:16:34,519 - INFO - No translation for group 10
+2024-09-11 06:16:34,526 - INFO - No translation for group 10
+2024-09-11 06:16:34,534 - INFO - No translation for group 10
+2024-09-11 06:16:34,543 - INFO - No translation for group 10
+2024-09-11 06:16:34,554 - INFO - No translation for group 10
+2024-09-11 06:16:34,564 - INFO - No translation for group 10
+2024-09-11 06:16:34,574 - INFO - No translation for group 10
+2024-09-11 06:16:34,583 - INFO - No translation for group 10
+2024-09-11 06:16:34,591 - INFO - No translation for group 10
+2024-09-11 06:16:34,600 - INFO - No translation for group 10
+2024-09-11 06:16:34,608 - INFO - No translation for group 10
+2024-09-11 06:16:34,616 - INFO - No translation for group 10
+2024-09-11 06:16:34,625 - INFO - No translation for group 10
+2024-09-11 06:16:34,634 - INFO - No translation for group 10
+2024-09-11 06:16:34,643 - INFO - No translation for group 10
+2024-09-11 06:16:34,652 - INFO - No translation for group 10
+2024-09-11 06:16:34,666 - INFO - No translation for group 10
+2024-09-11 06:16:34,676 - INFO - No translation for group 10
+2024-09-11 06:16:34,685 - INFO - No translation for group 10
+2024-09-11 06:16:34,693 - INFO - No translation for group 10
+2024-09-11 06:16:34,701 - INFO - No translation for group 10
+2024-09-11 06:16:34,709 - INFO - No translation for group 10
+2024-09-11 06:16:34,718 - INFO - No translation for group 10
+2024-09-11 06:16:34,726 - INFO - No translation for group 10
+2024-09-11 06:16:34,734 - INFO - No translation for group 10
+2024-09-11 06:16:34,741 - INFO - No translation for group 10
+2024-09-11 06:16:34,749 - INFO - No translation for group 10
+2024-09-11 06:16:34,756 - INFO - No translation for group 10
+2024-09-11 06:16:34,767 - INFO - No translation for group 10
+2024-09-11 06:16:34,779 - INFO - Processed group 10, total frames: 734/734
+2024-09-11 06:16:34,780 - INFO - Adding audio to the output video...
+2024-09-11 06:16:47,701 - INFO - Video processing complete!

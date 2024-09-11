@@ -1,0 +1,58 @@
+2024-09-11 06:49:53,098 - INFO - Starting video processing for tmp/sample1.mp4
+2024-09-11 06:49:53,159 - INFO - Grouping frame 0/734
+2024-09-11 06:49:54,326 - INFO - Grouping frame 100/734
+2024-09-11 06:49:55,464 - INFO - Grouping frame 200/734
+2024-09-11 06:49:56,647 - INFO - Grouping frame 300/734
+2024-09-11 06:49:57,883 - INFO - Grouping frame 400/734
+2024-09-11 06:49:59,092 - INFO - Grouping frame 500/734
+2024-09-11 06:50:00,247 - INFO - Grouping frame 600/734
+2024-09-11 06:50:01,420 - INFO - Grouping frame 700/734
+2024-09-11 06:50:01,975 - INFO - Grouped frames into 10 groups
+2024-09-11 06:50:02,001 - INFO - Original video dimensions: 1440x1080
+2024-09-11 06:50:02,002 - INFO - Analyzing group 1 with 14 frames
+2024-09-11 06:50:02,003 - INFO - Original frame size: 1440x1080
+2024-09-11 06:50:02,006 - INFO - Resized frame for API: 512x384
+2024-09-11 06:50:04,377 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:50:04,378 - WARNING - No valid text blocks were extracted from the analysis
+2024-09-11 06:50:08,382 - INFO - Original frame size: 1440x1080
+2024-09-11 06:50:08,384 - INFO - Resized frame for API: 512x384
+2024-09-11 06:50:09,869 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:50:09,870 - WARNING - No valid text blocks were extracted from the analysis
+2024-09-11 06:50:13,874 - INFO - Original frame size: 1440x1080
+2024-09-11 06:50:13,877 - INFO - Resized frame for API: 512x384
+2024-09-11 06:50:14,766 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:50:14,767 - WARNING - No valid text blocks were extracted from the analysis
+2024-09-11 06:50:14,767 - ERROR - Error processing group 1, attempt 1: RetryError[<Future at 0x7fcabf966d70 state=finished raised ValueError>]
+2024-09-11 06:50:15,768 - INFO - Original frame size: 1440x1080
+2024-09-11 06:50:15,769 - INFO - Resized frame for API: 512x384
+2024-09-11 06:50:18,087 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:50:18,088 - WARNING - No valid text blocks were extracted from the analysis
+2024-09-11 06:50:22,092 - INFO - Original frame size: 1440x1080
+2024-09-11 06:50:22,093 - INFO - Resized frame for API: 512x384
+2024-09-11 06:50:24,230 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:50:24,230 - WARNING - No valid text blocks were extracted from the analysis
+2024-09-11 06:50:28,233 - INFO - Original frame size: 1440x1080
+2024-09-11 06:50:28,234 - INFO - Resized frame for API: 512x384
+2024-09-11 06:50:29,793 - INFO - GPT Analysis: {
+  "result": "No text"
+}
+2024-09-11 06:50:29,794 - WARNING - No valid text blocks were extracted from the analysis
+2024-09-11 06:50:29,795 - ERROR - Error processing group 1, attempt 2: RetryError[<Future at 0x7fcabf972410 state=finished raised ValueError>]
+2024-09-11 06:50:31,797 - INFO - Original frame size: 1440x1080
+2024-09-11 06:50:31,798 - INFO - Resized frame for API: 512x384
+2024-09-11 06:50:33,440 - INFO - GPT Analysis: {
+  "text": "No text"
+}
+2024-09-11 06:50:33,441 - WARNING - No valid text blocks were extracted from the analysis
+2024-09-11 06:50:37,445 - INFO - Original frame size: 1440x1080
+2024-09-11 06:50:37,446 - INFO - Resized frame for API: 512x384
